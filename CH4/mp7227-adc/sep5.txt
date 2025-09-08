@@ -1,0 +1,7882 @@
+Raw ADC Value: 1257
+Voltage: 1.013 V
+Raw ADC Value: 1277
+Voltage: 1.029 V
+Raw ADC Value: 1272
+Voltage: 1.025 V
+Raw ADC Value: 1149
+Voltage: 0.926 V
+Raw ADC Value: 1143
+Voltage: 0.921 V
+Raw ADC Value: 1242
+Voltage: 1.001 V
+Raw ADC Value: 1166
+Voltage: 0.940 V
+Raw ADC Value: 1267
+Voltage: 1.021 V
+Raw ADC Value: 1541
+Voltage: 1.242 V
+Raw ADC Value: 1233
+Voltage: 0.994 V
+Raw ADC Value: 1197
+Voltage: 0.965 V
+Raw ADC Value: 1369
+Voltage: 1.103 V
+Raw ADC Value: 1186
+Voltage: 0.956 V
+Raw ADC Value: 1579
+Voltage: 1.272 V
+Raw ADC Value: 1187
+Voltage: 0.957 V
+Raw ADC Value: 1254
+Voltage: 1.011 V
+Raw ADC Value: 1151
+Voltage: 0.928 V
+Raw ADC Value: 1265
+Voltage: 1.019 V
+Raw ADC Value: 1210
+Voltage: 0.975 V
+Raw ADC Value: 1491
+Voltage: 1.202 V
+Raw ADC Value: 1159
+Voltage: 0.934 V
+Raw ADC Value: 1671
+Voltage: 1.347 V
+Raw ADC Value: 1234
+Voltage: 0.994 V
+Raw ADC Value: 1319
+Voltage: 1.063 V
+Raw ADC Value: 1174
+Voltage: 0.946 V
+Raw ADC Value: 1457
+Voltage: 1.174 V
+Raw ADC Value: 1682
+Voltage: 1.355 V
+Raw ADC Value: 3131
+Voltage: 2.523 V
+Raw ADC Value: 3219
+Voltage: 2.594 V
+Raw ADC Value: 1485
+Voltage: 1.197 V
+Raw ADC Value: 1205
+Voltage: 0.971 V
+Raw ADC Value: 1566
+Voltage: 1.262 V
+Raw ADC Value: 1380
+Voltage: 1.112 V
+Raw ADC Value: 1156
+Voltage: 0.932 V
+Raw ADC Value: 1144
+Voltage: 0.922 V
+Raw ADC Value: 1725
+Voltage: 1.390 V
+Raw ADC Value: 1251
+Voltage: 1.008 V
+Raw ADC Value: 1153
+Voltage: 0.929 V
+Raw ADC Value: 1276
+Voltage: 1.028 V
+Raw ADC Value: 1315
+Voltage: 1.060 V
+Raw ADC Value: 1145
+Voltage: 0.923 V
+Raw ADC Value: 1198
+Voltage: 0.965 V
+Raw ADC Value: 1268
+Voltage: 1.022 V
+Raw ADC Value: 1517
+Voltage: 1.222 V
+Raw ADC Value: 1543
+Voltage: 1.243 V
+Raw ADC Value: 1443
+Voltage: 1.163 V
+Raw ADC Value: 1156
+Voltage: 0.932 V
+Raw ADC Value: 1171
+Voltage: 0.944 V
+Raw ADC Value: 1469
+Voltage: 1.184 V
+Raw ADC Value: 1270
+Voltage: 1.023 V
+Raw ADC Value: 1361
+Voltage: 1.097 V
+Raw ADC Value: 1619
+Voltage: 1.305 V
+Raw ADC Value: 1559
+Voltage: 1.256 V
+Raw ADC Value: 1148
+Voltage: 0.925 V
+Raw ADC Value: 1168
+Voltage: 0.941 V
+Raw ADC Value: 1223
+Voltage: 0.986 V
+Raw ADC Value: 1429
+Voltage: 1.152 V
+Raw ADC Value: 1161
+Voltage: 0.936 V
+Raw ADC Value: 1451
+Voltage: 1.169 V
+Raw ADC Value: 1164
+Voltage: 0.938 V
+Raw ADC Value: 1650
+Voltage: 1.330 V
+Raw ADC Value: 1324
+Voltage: 1.067 V
+Raw ADC Value: 1303
+Voltage: 1.050 V
+Raw ADC Value: 1296
+Voltage: 1.044 V
+Raw ADC Value: 1301
+Voltage: 1.048 V
+Raw ADC Value: 1301
+Voltage: 1.048 V
+Raw ADC Value: 1273
+Voltage: 1.026 V
+Raw ADC Value: 1297
+Voltage: 1.045 V
+Raw ADC Value: 1301
+Voltage: 1.048 V
+Raw ADC Value: 1297
+Voltage: 1.045 V
+Raw ADC Value: 1291
+Voltage: 1.040 V
+Raw ADC Value: 1290
+Voltage: 1.040 V
+Raw ADC Value: 1288
+Voltage: 1.038 V
+Raw ADC Value: 1277
+Voltage: 1.029 V
+Raw ADC Value: 1277
+Voltage: 1.029 V
+Raw ADC Value: 1252
+Voltage: 1.009 V
+Raw ADC Value: 1279
+Voltage: 1.031 V
+Raw ADC Value: 1286
+Voltage: 1.036 V
+Raw ADC Value: 1287
+Voltage: 1.037 V
+Raw ADC Value: 1263
+Voltage: 1.018 V
+Raw ADC Value: 1176
+Voltage: 0.948 V
+Raw ADC Value: 1260
+Voltage: 1.015 V
+Raw ADC Value: 1649
+Voltage: 1.329 V
+Raw ADC Value: 1293
+Voltage: 1.042 V
+Raw ADC Value: 1394
+Voltage: 1.123 V
+Raw ADC Value: 1402
+Voltage: 1.130 V
+Raw ADC Value: 1284
+Voltage: 1.035 V
+Raw ADC Value: 1308
+Voltage: 1.054 V
+Raw ADC Value: 1247
+Voltage: 1.005 V
+Raw ADC Value: 1266
+Voltage: 1.020 V
+Raw ADC Value: 1301
+Voltage: 1.048 V
+Raw ADC Value: 1277
+Voltage: 1.029 V
+Raw ADC Value: 1271
+Voltage: 1.024 V
+Raw ADC Value: 1287
+Voltage: 1.037 V
+Raw ADC Value: 1297
+Voltage: 1.045 V
+Raw ADC Value: 1290
+Voltage: 1.040 V
+Raw ADC Value: 1284
+Voltage: 1.035 V
+Raw ADC Value: 1292
+Voltage: 1.041 V
+Raw ADC Value: 1289
+Voltage: 1.039 V
+Raw ADC Value: 1275
+Voltage: 1.027 V
+Raw ADC Value: 1265
+Voltage: 1.019 V
+Raw ADC Value: 1280
+Voltage: 1.032 V
+Raw ADC Value: 1274
+Voltage: 1.027 V
+Raw ADC Value: 1273
+Voltage: 1.026 V
+Raw ADC Value: 1276
+Voltage: 1.028 V
+Raw ADC Value: 1283
+Voltage: 1.034 V
+Raw ADC Value: 1315
+Voltage: 1.060 V
+Raw ADC Value: 1278
+Voltage: 1.030 V
+Raw ADC Value: 1314
+Voltage: 1.059 V
+Raw ADC Value: 1263
+Voltage: 1.018 V
+Raw ADC Value: 1290
+Voltage: 1.040 V
+Raw ADC Value: 1276
+Voltage: 1.028 V
+Raw ADC Value: 1274
+Voltage: 1.027 V
+Raw ADC Value: 1276
+Voltage: 1.028 V
+Raw ADC Value: 1277
+Voltage: 1.029 V
+Raw ADC Value: 1275
+Voltage: 1.027 V
+Raw ADC Value: 1268
+Voltage: 1.022 V
+Raw ADC Value: 1353
+Voltage: 1.090 V
+Raw ADC Value: 1376
+Voltage: 1.109 V
+Raw ADC Value: 1234
+Voltage: 0.994 V
+Raw ADC Value: 1270
+Voltage: 1.023 V
+Raw ADC Value: 1287
+Voltage: 1.037 V
+Raw ADC Value: 1288
+Voltage: 1.038 V
+Raw ADC Value: 1282
+Voltage: 1.033 V
+Raw ADC Value: 1285
+Voltage: 1.036 V
+Raw ADC Value: 1283
+Voltage: 1.034 V
+Raw ADC Value: 1284
+Voltage: 1.035 V
+Raw ADC Value: 1274
+Voltage: 1.027 V
+Raw ADC Value: 1273
+Voltage: 1.026 V
+Raw ADC Value: 1274
+Voltage: 1.027 V
+Raw ADC Value: 1268
+Voltage: 1.022 V
+Raw ADC Value: 1257
+Voltage: 1.013 V
+Raw ADC Value: 1264
+Voltage: 1.019 V
+Raw ADC Value: 1269
+Voltage: 1.023 V
+Raw ADC Value: 1271
+Voltage: 1.024 V
+Raw ADC Value: 1268
+Voltage: 1.022 V
+Raw ADC Value: 1278
+Voltage: 1.030 V
+Raw ADC Value: 1281
+Voltage: 1.032 V
+Raw ADC Value: 1276
+Voltage: 1.028 V
+Raw ADC Value: 1281
+Voltage: 1.032 V
+Raw ADC Value: 1303
+Voltage: 1.050 V
+Raw ADC Value: 1276
+Voltage: 1.028 V
+Raw ADC Value: 1290
+Voltage: 1.040 V
+Raw ADC Value: 1263
+Voltage: 1.018 V
+Raw ADC Value: 1305
+Voltage: 1.052 V
+Raw ADC Value: 1177
+Voltage: 0.948 V
+Raw ADC Value: 1207
+Voltage: 0.973 V
+Raw ADC Value: 1251
+Voltage: 1.008 V
+Raw ADC Value: 1700
+Voltage: 1.370 V
+Raw ADC Value: 1408
+Voltage: 1.135 V
+Raw ADC Value: 1229
+Voltage: 0.990 V
+Raw ADC Value: 1299
+Voltage: 1.047 V
+Raw ADC Value: 1317
+Voltage: 1.061 V
+Raw ADC Value: 1300
+Voltage: 1.048 V
+Raw ADC Value: 1303
+Voltage: 1.050 V
+Raw ADC Value: 1205
+Voltage: 0.971 V
+Raw ADC Value: 1259
+Voltage: 1.015 V
+Raw ADC Value: 1451
+Voltage: 1.169 V
+Raw ADC Value: 1385
+Voltage: 1.116 V
+Raw ADC Value: 1292
+Voltage: 1.041 V
+Raw ADC Value: 1237
+Voltage: 0.997 V
+Raw ADC Value: 1266
+Voltage: 1.020 V
+Raw ADC Value: 1169
+Voltage: 0.942 V
+Raw ADC Value: 1314
+Voltage: 1.059 V
+Raw ADC Value: 1340
+Voltage: 1.080 V
+Raw ADC Value: 1317
+Voltage: 1.061 V
+Raw ADC Value: 1298
+Voltage: 1.046 V
+Raw ADC Value: 1293
+Voltage: 1.042 V
+Raw ADC Value: 1271
+Voltage: 1.024 V
+Raw ADC Value: 1251
+Voltage: 1.008 V
+Raw ADC Value: 1331
+Voltage: 1.073 V
+Raw ADC Value: 1318
+Voltage: 1.062 V
+Raw ADC Value: 1279
+Voltage: 1.031 V
+Raw ADC Value: 1275
+Voltage: 1.027 V
+Raw ADC Value: 1271
+Voltage: 1.024 V
+Raw ADC Value: 1282
+Voltage: 1.033 V
+Raw ADC Value: 1280
+Voltage: 1.032 V
+Raw ADC Value: 1278
+Voltage: 1.030 V
+Raw ADC Value: 1281
+Voltage: 1.032 V
+Raw ADC Value: 1286
+Voltage: 1.036 V
+Raw ADC Value: 1292
+Voltage: 1.041 V
+Raw ADC Value: 1291
+Voltage: 1.040 V
+Raw ADC Value: 1280
+Voltage: 1.032 V
+Raw ADC Value: 1280
+Voltage: 1.032 V
+Raw ADC Value: 1281
+Voltage: 1.032 V
+Raw ADC Value: 1277
+Voltage: 1.029 V
+Raw ADC Value: 1267
+Voltage: 1.021 V
+Raw ADC Value: 1268
+Voltage: 1.022 V
+Raw ADC Value: 1279
+Voltage: 1.031 V
+Raw ADC Value: 1276
+Voltage: 1.028 V
+Raw ADC Value: 1278
+Voltage: 1.030 V
+Raw ADC Value: 1280
+Voltage: 1.032 V
+Raw ADC Value: 1289
+Voltage: 1.039 V
+Raw ADC Value: 1283
+Voltage: 1.034 V
+Raw ADC Value: 1280
+Voltage: 1.032 V
+Raw ADC Value: 1276
+Voltage: 1.028 V
+Raw ADC Value: 1280
+Voltage: 1.032 V
+Raw ADC Value: 1278
+Voltage: 1.030 V
+Raw ADC Value: 1265
+Voltage: 1.019 V
+Raw ADC Value: 1275
+Voltage: 1.027 V
+Raw ADC Value: 1281
+Voltage: 1.032 V
+Raw ADC Value: 1275
+Voltage: 1.027 V
+Raw ADC Value: 1278
+Voltage: 1.030 V
+Raw ADC Value: 1277
+Voltage: 1.029 V
+Raw ADC Value: 1281
+Voltage: 1.032 V
+Raw ADC Value: 1327
+Voltage: 1.069 V
+Raw ADC Value: 1763
+Voltage: 1.421 V
+Raw ADC Value: 1154
+Voltage: 0.930 V
+Raw ADC Value: 1717
+Voltage: 1.384 V
+Raw ADC Value: 1443
+Voltage: 1.163 V
+Raw ADC Value: 1211
+Voltage: 0.976 V
+Raw ADC Value: 1243
+Voltage: 1.002 V
+Raw ADC Value: 1315
+Voltage: 1.060 V
+Raw ADC Value: 1288
+Voltage: 1.038 V
+Raw ADC Value: 1378
+Voltage: 1.110 V
+Raw ADC Value: 1302
+Voltage: 1.049 V
+Raw ADC Value: 1263
+Voltage: 1.018 V
+Raw ADC Value: 1173
+Voltage: 0.945 V
+Raw ADC Value: 1186
+Voltage: 0.956 V
+Raw ADC Value: 1680
+Voltage: 1.354 V
+Raw ADC Value: 1754
+Voltage: 1.413 V
+Raw ADC Value: 1652
+Voltage: 1.331 V
+Raw ADC Value: 1529
+Voltage: 1.232 V
+Raw ADC Value: 1536
+Voltage: 1.238 V
+Raw ADC Value: 1218
+Voltage: 0.982 V
+Raw ADC Value: 1235
+Voltage: 0.995 V
+Raw ADC Value: 1228
+Voltage: 0.990 V
+Raw ADC Value: 1233
+Voltage: 0.994 V
+Raw ADC Value: 1227
+Voltage: 0.989 V
+Raw ADC Value: 1230
+Voltage: 0.991 V
+Raw ADC Value: 1225
+Voltage: 0.987 V
+Raw ADC Value: 1261
+Voltage: 1.016 V
+Raw ADC Value: 485
+Voltage: 0.391 V
+Raw ADC Value: 1789
+Voltage: 1.442 V
+Raw ADC Value: 1723
+Voltage: 1.388 V
+Raw ADC Value: 1175
+Voltage: 0.947 V
+Raw ADC Value: 1253
+Voltage: 1.010 V
+Raw ADC Value: 1286
+Voltage: 1.036 V
+Raw ADC Value: 1305
+Voltage: 1.052 V
+Raw ADC Value: 1286
+Voltage: 1.036 V
+Raw ADC Value: 1289
+Voltage: 1.039 V
+Raw ADC Value: 1280
+Voltage: 1.032 V
+Raw ADC Value: 1255
+Voltage: 1.011 V
+Raw ADC Value: 1289
+Voltage: 1.039 V
+Raw ADC Value: 1370
+Voltage: 1.104 V
+Raw ADC Value: 1651
+Voltage: 1.330 V
+Raw ADC Value: 1547
+Voltage: 1.247 V
+Raw ADC Value: 1147
+Voltage: 0.924 V
+Raw ADC Value: 1330
+Voltage: 1.072 V
+Raw ADC Value: 1255
+Voltage: 1.011 V
+Raw ADC Value: 1261
+Voltage: 1.016 V
+Raw ADC Value: 1284
+Voltage: 1.035 V
+Raw ADC Value: 1285
+Voltage: 1.036 V
+Raw ADC Value: 1276
+Voltage: 1.028 V
+Raw ADC Value: 1277
+Voltage: 1.029 V
+Raw ADC Value: 1269
+Voltage: 1.023 V
+Raw ADC Value: 1268
+Voltage: 1.022 V
+Raw ADC Value: 1272
+Voltage: 1.025 V
+Raw ADC Value: 1258
+Voltage: 1.014 V
+Raw ADC Value: 1266
+Voltage: 1.020 V
+Raw ADC Value: 1275
+Voltage: 1.027 V
+Raw ADC Value: 1290
+Voltage: 1.040 V
+Raw ADC Value: 1266
+Voltage: 1.020 V
+Raw ADC Value: 1274
+Voltage: 1.027 V
+Raw ADC Value: 1243
+Voltage: 1.002 V
+Raw ADC Value: 1310
+Voltage: 1.056 V
+Raw ADC Value: 1305
+Voltage: 1.052 V
+Raw ADC Value: 1275
+Voltage: 1.027 V
+Raw ADC Value: 1278
+Voltage: 1.030 V
+Raw ADC Value: 1284
+Voltage: 1.035 V
+Raw ADC Value: 1274
+Voltage: 1.027 V
+Raw ADC Value: 1267
+Voltage: 1.021 V
+Raw ADC Value: 1274
+Voltage: 1.027 V
+Raw ADC Value: 1285
+Voltage: 1.036 V
+Raw ADC Value: 1282
+Voltage: 1.033 V
+Raw ADC Value: 1282
+Voltage: 1.033 V
+Raw ADC Value: 1285
+Voltage: 1.036 V
+Raw ADC Value: 1292
+Voltage: 1.041 V
+Raw ADC Value: 1284
+Voltage: 1.035 V
+Raw ADC Value: 1277
+Voltage: 1.029 V
+Raw ADC Value: 1282
+Voltage: 1.033 V
+Raw ADC Value: 1277
+Voltage: 1.029 V
+Raw ADC Value: 1277
+Voltage: 1.029 V
+Raw ADC Value: 1270
+Voltage: 1.023 V
+Raw ADC Value: 1262
+Voltage: 1.017 V
+Raw ADC Value: 1291
+Voltage: 1.040 V
+Raw ADC Value: 1334
+Voltage: 1.075 V
+Raw ADC Value: 1713
+Voltage: 1.380 V
+Raw ADC Value: 1278
+Voltage: 1.030 V
+Raw ADC Value: 1226
+Voltage: 0.988 V
+Raw ADC Value: 1153
+Voltage: 0.929 V
+Raw ADC Value: 1358
+Voltage: 1.094 V
+Raw ADC Value: 1153
+Voltage: 0.929 V
+Raw ADC Value: 1191
+Voltage: 0.960 V
+Raw ADC Value: 1237
+Voltage: 0.997 V
+Raw ADC Value: 1233
+Voltage: 0.994 V
+Raw ADC Value: 1196
+Voltage: 0.964 V
+Raw ADC Value: 1271
+Voltage: 1.024 V
+Raw ADC Value: 1713
+Voltage: 1.380 V
+Raw ADC Value: 1259
+Voltage: 1.015 V
+Raw ADC Value: 1195
+Voltage: 0.963 V
+Raw ADC Value: 1314
+Voltage: 1.059 V
+Raw ADC Value: 1298
+Voltage: 1.046 V
+Raw ADC Value: 1267
+Voltage: 1.021 V
+Raw ADC Value: 1271
+Voltage: 1.024 V
+Raw ADC Value: 1277
+Voltage: 1.029 V
+Raw ADC Value: 1272
+Voltage: 1.025 V
+Raw ADC Value: 1333
+Voltage: 1.074 V
+Raw ADC Value: 1482
+Voltage: 1.194 V
+Raw ADC Value: 1186
+Voltage: 0.956 V
+Raw ADC Value: 1519
+Voltage: 1.224 V
+Raw ADC Value: 1207
+Voltage: 0.973 V
+Raw ADC Value: 1236
+Voltage: 0.996 V
+Raw ADC Value: 1659
+Voltage: 1.337 V
+Raw ADC Value: 1352
+Voltage: 1.090 V
+Raw ADC Value: 1305
+Voltage: 1.052 V
+Raw ADC Value: 1333
+Voltage: 1.074 V
+Raw ADC Value: 1270
+Voltage: 1.023 V
+Raw ADC Value: 1253
+Voltage: 1.010 V
+Raw ADC Value: 1275
+Voltage: 1.027 V
+Raw ADC Value: 1272
+Voltage: 1.025 V
+Raw ADC Value: 1269
+Voltage: 1.023 V
+Raw ADC Value: 1270
+Voltage: 1.023 V
+Raw ADC Value: 1276
+Voltage: 1.028 V
+Raw ADC Value: 1281
+Voltage: 1.032 V
+Raw ADC Value: 1230
+Voltage: 0.991 V
+Raw ADC Value: 1727
+Voltage: 1.392 V
+Raw ADC Value: 1405
+Voltage: 1.132 V
+Raw ADC Value: 1569
+Voltage: 1.264 V
+Raw ADC Value: 1674
+Voltage: 1.349 V
+Raw ADC Value: 1696
+Voltage: 1.367 V
+Raw ADC Value: 1161
+Voltage: 0.936 V
+Raw ADC Value: 1194
+Voltage: 0.962 V
+Raw ADC Value: 1247
+Voltage: 1.005 V
+Raw ADC Value: 1166
+Voltage: 0.940 V
+Raw ADC Value: 1214
+Voltage: 0.978 V
+Raw ADC Value: 1627
+Voltage: 1.311 V
+Raw ADC Value: 1637
+Voltage: 1.319 V
+Raw ADC Value: 1248
+Voltage: 1.006 V
+Raw ADC Value: 1348
+Voltage: 1.086 V
+Raw ADC Value: 1300
+Voltage: 1.048 V
+Raw ADC Value: 1279
+Voltage: 1.031 V
+Raw ADC Value: 1240
+Voltage: 0.999 V
+Raw ADC Value: 1308
+Voltage: 1.054 V
+Raw ADC Value: 1292
+Voltage: 1.041 V
+Raw ADC Value: 1283
+Voltage: 1.034 V
+Raw ADC Value: 1286
+Voltage: 1.036 V
+Raw ADC Value: 1320
+Voltage: 1.064 V
+Raw ADC Value: 1302
+Voltage: 1.049 V
+Raw ADC Value: 1288
+Voltage: 1.038 V
+Raw ADC Value: 1180
+Voltage: 0.951 V
+Raw ADC Value: 1271
+Voltage: 1.024 V
+Raw ADC Value: 1250
+Voltage: 1.007 V
+Raw ADC Value: 1290
+Voltage: 1.040 V
+Raw ADC Value: 1276
+Voltage: 1.028 V
+Raw ADC Value: 1271
+Voltage: 1.024 V
+Raw ADC Value: 1279
+Voltage: 1.031 V
+Raw ADC Value: 1269
+Voltage: 1.023 V
+Raw ADC Value: 1270
+Voltage: 1.023 V
+Raw ADC Value: 1276
+Voltage: 1.028 V
+Raw ADC Value: 1277
+Voltage: 1.029 V
+Raw ADC Value: 1289
+Voltage: 1.039 V
+Raw ADC Value: 1287
+Voltage: 1.037 V
+Raw ADC Value: 1290
+Voltage: 1.040 V
+Raw ADC Value: 1296
+Voltage: 1.044 V
+Raw ADC Value: 1288
+Voltage: 1.038 V
+Raw ADC Value: 1275
+Voltage: 1.027 V
+Raw ADC Value: 1271
+Voltage: 1.024 V
+Raw ADC Value: 1277
+Voltage: 1.029 V
+Raw ADC Value: 1272
+Voltage: 1.025 V
+Raw ADC Value: 1305
+Voltage: 1.052 V
+Raw ADC Value: 1238
+Voltage: 0.998 V
+Raw ADC Value: 1276
+Voltage: 1.028 V
+Raw ADC Value: 1191
+Voltage: 0.960 V
+Raw ADC Value: 1225
+Voltage: 0.987 V
+Raw ADC Value: 1722
+Voltage: 1.388 V
+Raw ADC Value: 1377
+Voltage: 1.110 V
+Raw ADC Value: 1291
+Voltage: 1.040 V
+Raw ADC Value: 1300
+Voltage: 1.048 V
+Raw ADC Value: 1286
+Voltage: 1.036 V
+Raw ADC Value: 1288
+Voltage: 1.038 V
+Raw ADC Value: 1272
+Voltage: 1.025 V
+Raw ADC Value: 1277
+Voltage: 1.029 V
+Raw ADC Value: 1272
+Voltage: 1.025 V
+Raw ADC Value: 1313
+Voltage: 1.058 V
+Raw ADC Value: 1293
+Voltage: 1.042 V
+Raw ADC Value: 1289
+Voltage: 1.039 V
+Raw ADC Value: 1271
+Voltage: 1.024 V
+Raw ADC Value: 1281
+Voltage: 1.032 V
+Raw ADC Value: 1290
+Voltage: 1.040 V
+Raw ADC Value: 1312
+Voltage: 1.057 V
+Raw ADC Value: 1285
+Voltage: 1.036 V
+Raw ADC Value: 1276
+Voltage: 1.028 V
+Raw ADC Value: 1272
+Voltage: 1.025 V
+Raw ADC Value: 1287
+Voltage: 1.037 V
+Raw ADC Value: 1288
+Voltage: 1.038 V
+Raw ADC Value: 1258
+Voltage: 1.014 V
+Raw ADC Value: 1261
+Voltage: 1.016 V
+Raw ADC Value: 1209
+Voltage: 0.974 V
+Raw ADC Value: 1307
+Voltage: 1.053 V
+Raw ADC Value: 1303
+Voltage: 1.050 V
+Raw ADC Value: 1277
+Voltage: 1.029 V
+Raw ADC Value: 1257
+Voltage: 1.013 V
+Raw ADC Value: 1697
+Voltage: 1.368 V
+Raw ADC Value: 1287
+Voltage: 1.037 V
+Raw ADC Value: 1273
+Voltage: 1.026 V
+Raw ADC Value: 1271
+Voltage: 1.024 V
+Raw ADC Value: 1295
+Voltage: 1.044 V
+Raw ADC Value: 1317
+Voltage: 1.061 V
+Raw ADC Value: 1152
+Voltage: 0.928 V
+Raw ADC Value: 1251
+Voltage: 1.008 V
+Raw ADC Value: 1216
+Voltage: 0.980 V
+Raw ADC Value: 1262
+Voltage: 1.017 V
+Raw ADC Value: 1270
+Voltage: 1.023 V
+Raw ADC Value: 1291
+Voltage: 1.040 V
+Raw ADC Value: 1299
+Voltage: 1.047 V
+Raw ADC Value: 1300
+Voltage: 1.048 V
+Raw ADC Value: 1296
+Voltage: 1.044 V
+Raw ADC Value: 1292
+Voltage: 1.041 V
+Raw ADC Value: 1279
+Voltage: 1.031 V
+Raw ADC Value: 1280
+Voltage: 1.032 V
+Raw ADC Value: 1277
+Voltage: 1.029 V
+Raw ADC Value: 1280
+Voltage: 1.032 V
+Raw ADC Value: 1290
+Voltage: 1.040 V
+Raw ADC Value: 1287
+Voltage: 1.037 V
+Raw ADC Value: 1276
+Voltage: 1.028 V
+Raw ADC Value: 1283
+Voltage: 1.034 V
+Raw ADC Value: 1279
+Voltage: 1.031 V
+Raw ADC Value: 1280
+Voltage: 1.032 V
+Raw ADC Value: 1285
+Voltage: 1.036 V
+Raw ADC Value: 1287
+Voltage: 1.037 V
+Raw ADC Value: 1288
+Voltage: 1.038 V
+Raw ADC Value: 1259
+Voltage: 1.015 V
+Raw ADC Value: 1291
+Voltage: 1.040 V
+Raw ADC Value: 1283
+Voltage: 1.034 V
+Raw ADC Value: 1281
+Voltage: 1.032 V
+Raw ADC Value: 1274
+Voltage: 1.027 V
+Raw ADC Value: 1290
+Voltage: 1.040 V
+Raw ADC Value: 1266
+Voltage: 1.020 V
+Raw ADC Value: 1146
+Voltage: 0.924 V
+Raw ADC Value: 1413
+Voltage: 1.139 V
+Raw ADC Value: 1230
+Voltage: 0.991 V
+Raw ADC Value: 1296
+Voltage: 1.044 V
+Raw ADC Value: 1272
+Voltage: 1.025 V
+Raw ADC Value: 1283
+Voltage: 1.034 V
+Raw ADC Value: 1285
+Voltage: 1.036 V
+Raw ADC Value: 1257
+Voltage: 1.013 V
+Raw ADC Value: 1333
+Voltage: 1.074 V
+Raw ADC Value: 1292
+Voltage: 1.041 V
+Raw ADC Value: 1313
+Voltage: 1.058 V
+Raw ADC Value: 1224
+Voltage: 0.986 V
+Raw ADC Value: 1275
+Voltage: 1.027 V
+Raw ADC Value: 1344
+Voltage: 1.083 V
+Raw ADC Value: 1201
+Voltage: 0.968 V
+Raw ADC Value: 1296
+Voltage: 1.044 V
+Raw ADC Value: 1338
+Voltage: 1.078 V
+Raw ADC Value: 1383
+Voltage: 1.115 V
+Raw ADC Value: 1167
+Voltage: 0.940 V
+Raw ADC Value: 1351
+Voltage: 1.089 V
+Raw ADC Value: 1255
+Voltage: 1.011 V
+Raw ADC Value: 1243
+Voltage: 1.002 V
+Raw ADC Value: 1300
+Voltage: 1.048 V
+Raw ADC Value: 1270
+Voltage: 1.023 V
+Raw ADC Value: 1275
+Voltage: 1.027 V
+Raw ADC Value: 1280
+Voltage: 1.032 V
+Raw ADC Value: 1283
+Voltage: 1.034 V
+Raw ADC Value: 1282
+Voltage: 1.033 V
+Raw ADC Value: 1277
+Voltage: 1.029 V
+Raw ADC Value: 1272
+Voltage: 1.025 V
+Raw ADC Value: 1275
+Voltage: 1.027 V
+Raw ADC Value: 1276
+Voltage: 1.028 V
+Raw ADC Value: 1273
+Voltage: 1.026 V
+Raw ADC Value: 1281
+Voltage: 1.032 V
+Raw ADC Value: 1283
+Voltage: 1.034 V
+Raw ADC Value: 1280
+Voltage: 1.032 V
+Raw ADC Value: 1265
+Voltage: 1.019 V
+Raw ADC Value: 1277
+Voltage: 1.029 V
+Raw ADC Value: 1181
+Voltage: 0.952 V
+Raw ADC Value: 1238
+Voltage: 0.998 V
+Raw ADC Value: 1200
+Voltage: 0.967 V
+Raw ADC Value: 1347
+Voltage: 1.085 V
+Raw ADC Value: 1284
+Voltage: 1.035 V
+Raw ADC Value: 1288
+Voltage: 1.038 V
+Raw ADC Value: 1271
+Voltage: 1.024 V
+Raw ADC Value: 1291
+Voltage: 1.040 V
+Raw ADC Value: 1283
+Voltage: 1.034 V
+Raw ADC Value: 1315
+Voltage: 1.060 V
+Raw ADC Value: 1295
+Voltage: 1.044 V
+Raw ADC Value: 1279
+Voltage: 1.031 V
+Raw ADC Value: 1281
+Voltage: 1.032 V
+Raw ADC Value: 1287
+Voltage: 1.037 V
+Raw ADC Value: 1280
+Voltage: 1.032 V
+Raw ADC Value: 1289
+Voltage: 1.039 V
+Raw ADC Value: 1247
+Voltage: 1.005 V
+Raw ADC Value: 1289
+Voltage: 1.039 V
+Raw ADC Value: 1306
+Voltage: 1.052 V
+Raw ADC Value: 1294
+Voltage: 1.043 V
+Raw ADC Value: 1283
+Voltage: 1.034 V
+Raw ADC Value: 1255
+Voltage: 1.011 V
+Raw ADC Value: 1264
+Voltage: 1.019 V
+Raw ADC Value: 1274
+Voltage: 1.027 V
+Raw ADC Value: 1276
+Voltage: 1.028 V
+Raw ADC Value: 1284
+Voltage: 1.035 V
+Raw ADC Value: 1285
+Voltage: 1.036 V
+Raw ADC Value: 1291
+Voltage: 1.040 V
+Raw ADC Value: 1285
+Voltage: 1.036 V
+Raw ADC Value: 1280
+Voltage: 1.032 V
+Raw ADC Value: 1271
+Voltage: 1.024 V
+Raw ADC Value: 1155
+Voltage: 0.931 V
+Raw ADC Value: 1198
+Voltage: 0.965 V
+Raw ADC Value: 1153
+Voltage: 0.929 V
+Raw ADC Value: 1192
+Voltage: 0.961 V
+Raw ADC Value: 1258
+Voltage: 1.014 V
+Raw ADC Value: 0
+Voltage: 0.000 V
+Raw ADC Value: 0
+Voltage: 0.000 V
+Raw ADC Value: 0
+Voltage: 0.000 V
+Raw ADC Value: 2
+Voltage: 0.002 V
+Raw ADC Value: 0
+Voltage: 0.000 V
+Raw ADC Value: 0
+Voltage: 0.000 V
+Raw ADC Value: 1
+Voltage: 0.001 V
+Raw ADC Value: 0
+Voltage: 0.000 V
+Raw ADC Value: 0
+Voltage: 0.000 V
+Raw ADC Value: 0
+Voltage: 0.000 V
+Raw ADC Value: 0
+Voltage: 0.000 V
+Raw ADC Value: 3
+Voltage: 0.002 V
+Raw ADC Value: 1
+Voltage: 0.001 V
+Raw ADC Value: 2
+Voltage: 0.002 V
+Raw ADC Value: 0
+Voltage: 0.000 V
+Raw ADC Value: 0
+Voltage: 0.000 V
+Raw ADC Value: 0
+Voltage: 0.000 V
+Raw ADC Value: 12
+Voltage: 0.010 V
+Raw ADC Value: 0
+Voltage: 0.000 V
+Raw ADC Value: 0
+Voltage: 0.000 V
+Raw ADC Value: 0
+Voltage: 0.000 V
+Raw ADC Value: 0
+Voltage: 0.000 V
+Raw ADC Value: 1
+Voltage: 0.001 V
+Raw ADC Value: 0
+Voltage: 0.000 V
+Raw ADC Value: 2
+Voltage: 0.002 V
+Raw ADC Value: 2
+Voltage: 0.002 V
+Raw ADC Value: 0
+Voltage: 0.000 V
+Raw ADC Value: 0
+Voltage: 0.000 V
+Raw ADC Value: 2
+Voltage: 0.002 V
+Raw ADC Value: 0
+Voltage: 0.000 V
+Raw ADC Value: 6
+Voltage: 0.005 V
+Raw ADC Value: 0
+Voltage: 0.000 V
+Raw ADC Value: 0
+Voltage: 0.000 V
+Raw ADC Value: 0
+Voltage: 0.000 V
+Raw ADC Value: 0
+Voltage: 0.000 V
+Raw ADC Value: 3
+Voltage: 0.002 V
+Raw ADC Value: 0
+Voltage: 0.000 V
+Raw ADC Value: 0
+Voltage: 0.000 V
+Raw ADC Value: 10
+Voltage: 0.008 V
+Raw ADC Value: 2
+Voltage: 0.002 V
+Raw ADC Value: 1
+Voltage: 0.001 V
+Raw ADC Value: 0
+Voltage: 0.000 V
+Raw ADC Value: 1
+Voltage: 0.001 V
+Raw ADC Value: 0
+Voltage: 0.000 V
+Raw ADC Value: 1
+Voltage: 0.001 V
+Raw ADC Value: 2
+Voltage: 0.002 V
+Raw ADC Value: 23
+Voltage: 0.019 V
+Raw ADC Value: 2
+Voltage: 0.002 V
+Raw ADC Value: 0
+Voltage: 0.000 V
+Raw ADC Value: 1
+Voltage: 0.001 V
+Raw ADC Value: 0
+Voltage: 0.000 V
+Raw ADC Value: 0
+Voltage: 0.000 V
+Raw ADC Value: 0
+Voltage: 0.000 V
+Raw ADC Value: 0
+Voltage: 0.000 V
+Raw ADC Value: 1
+Voltage: 0.001 V
+Raw ADC Value: 3
+Voltage: 0.002 V
+Raw ADC Value: 0
+Voltage: 0.000 V
+Raw ADC Value: 0
+Voltage: 0.000 V
+Raw ADC Value: 0
+Voltage: 0.000 V
+Raw ADC Value: 0
+Voltage: 0.000 V
+Raw ADC Value: 1
+Voltage: 0.001 V
+Raw ADC Value: 0
+Voltage: 0.000 V
+Raw ADC Value: 0
+Voltage: 0.000 V
+Raw ADC Value: 1
+Voltage: 0.001 V
+Raw ADC Value: 3
+Voltage: 0.002 V
+Raw ADC Value: 0
+Voltage: 0.000 V
+Raw ADC Value: 2
+Voltage: 0.002 V
+Raw ADC Value: 0
+Voltage: 0.000 V
+Raw ADC Value: 1
+Voltage: 0.001 V
+Raw ADC Value: 0
+Voltage: 0.000 V
+Raw ADC Value: 0
+Voltage: 0.000 V
+Raw ADC Value: 1
+Voltage: 0.001 V
+Raw ADC Value: 0
+Voltage: 0.000 V
+Raw ADC Value: 0
+Voltage: 0.000 V
+Raw ADC Value: 0
+Voltage: 0.000 V
+Raw ADC Value: 0
+Voltage: 0.000 V
+Raw ADC Value: 0
+Voltage: 0.000 V
+Raw ADC Value: 0
+Voltage: 0.000 V
+Raw ADC Value: 2
+Voltage: 0.002 V
+Raw ADC Value: 0
+Voltage: 0.000 V
+Raw ADC Value: 2
+Voltage: 0.002 V
+Raw ADC Value: 0
+Voltage: 0.000 V
+Raw ADC Value: 1
+Voltage: 0.001 V
+Raw ADC Value: 3
+Voltage: 0.002 V
+Raw ADC Value: 1
+Voltage: 0.001 V
+Raw ADC Value: 2
+Voltage: 0.002 V
+Raw ADC Value: 0
+Voltage: 0.000 V
+Raw ADC Value: 3
+Voltage: 0.002 V
+Raw ADC Value: 4
+Voltage: 0.003 V
+Raw ADC Value: 0
+Voltage: 0.000 V
+Raw ADC Value: 2
+Voltage: 0.002 V
+Raw ADC Value: 2
+Voltage: 0.002 V
+Raw ADC Value: 0
+Voltage: 0.000 V
+Raw ADC Value: 0
+Voltage: 0.000 V
+Raw ADC Value: 0
+Voltage: 0.000 V
+Raw ADC Value: 0
+Voltage: 0.000 V
+Raw ADC Value: 0
+Voltage: 0.000 V
+Raw ADC Value: 0
+Voltage: 0.000 V
+Raw ADC Value: 2
+Voltage: 0.002 V
+Raw ADC Value: 0
+Voltage: 0.000 V
+Raw ADC Value: 2
+Voltage: 0.002 V
+Raw ADC Value: 4
+Voltage: 0.003 V
+Raw ADC Value: 1
+Voltage: 0.001 V
+Raw ADC Value: 0
+Voltage: 0.000 V
+Raw ADC Value: 1
+Voltage: 0.001 V
+Raw ADC Value: 18
+Voltage: 0.015 V
+Raw ADC Value: 3
+Voltage: 0.002 V
+Raw ADC Value: 0
+Voltage: 0.000 V
+Raw ADC Value: 0
+Voltage: 0.000 V
+Raw ADC Value: 3
+Voltage: 0.002 V
+Raw ADC Value: 2
+Voltage: 0.002 V
+Raw ADC Value: 2
+Voltage: 0.002 V
+Raw ADC Value: 3
+Voltage: 0.002 V
+Raw ADC Value: 0
+Voltage: 0.000 V
+Raw ADC Value: 1
+Voltage: 0.001 V
+Raw ADC Value: 10
+Voltage: 0.008 V
+Raw ADC Value: 0
+Voltage: 0.000 V
+Raw ADC Value: 0
+Voltage: 0.000 V
+Raw ADC Value: 0
+Voltage: 0.000 V
+Raw ADC Value: 2
+Voltage: 0.002 V
+Raw ADC Value: 2
+Voltage: 0.002 V
+Raw ADC Value: 0
+Voltage: 0.000 V
+Raw ADC Value: 3
+Voltage: 0.002 V
+Raw ADC Value: 0
+Voltage: 0.000 V
+Raw ADC Value: 2
+Voltage: 0.002 V
+Raw ADC Value: 0
+Voltage: 0.000 V
+Raw ADC Value: 0
+Voltage: 0.000 V
+Raw ADC Value: 4
+Voltage: 0.003 V
+Raw ADC Value: 1
+Voltage: 0.001 V
+Raw ADC Value: 0
+Voltage: 0.000 V
+Raw ADC Value: 0
+Voltage: 0.000 V
+Raw ADC Value: 3
+Voltage: 0.002 V
+Raw ADC Value: 0
+Voltage: 0.000 V
+Raw ADC Value: 0
+Voltage: 0.000 V
+Raw ADC Value: 0
+Voltage: 0.000 V
+Raw ADC Value: 2
+Voltage: 0.002 V
+Raw ADC Value: 0
+Voltage: 0.000 V
+Raw ADC Value: 2
+Voltage: 0.002 V
+Raw ADC Value: 0
+Voltage: 0.000 V
+Raw ADC Value: 0
+Voltage: 0.000 V
+Raw ADC Value: 1
+Voltage: 0.001 V
+Raw ADC Value: 0
+Voltage: 0.000 V
+Raw ADC Value: 1
+Voltage: 0.001 V
+Raw ADC Value: 3
+Voltage: 0.002 V
+Raw ADC Value: 0
+Voltage: 0.000 V
+Raw ADC Value: 0
+Voltage: 0.000 V
+Raw ADC Value: 2
+Voltage: 0.002 V
+Raw ADC Value: 0
+Voltage: 0.000 V
+Raw ADC Value: 1
+Voltage: 0.001 V
+Raw ADC Value: 1
+Voltage: 0.001 V
+Raw ADC Value: 0
+Voltage: 0.000 V
+Raw ADC Value: 0
+Voltage: 0.000 V
+Raw ADC Value: 0
+Voltage: 0.000 V
+Raw ADC Value: 3
+Voltage: 0.002 V
+Raw ADC Value: 2
+Voltage: 0.002 V
+Raw ADC Value: 2
+Voltage: 0.002 V
+Raw ADC Value: 0
+Voltage: 0.000 V
+Raw ADC Value: 0
+Voltage: 0.000 V
+Raw ADC Value: 0
+Voltage: 0.000 V
+Raw ADC Value: 0
+Voltage: 0.000 V
+Raw ADC Value: 0
+Voltage: 0.000 V
+Raw ADC Value: 0
+Voltage: 0.000 V
+Raw ADC Value: 0
+Voltage: 0.000 V
+Raw ADC Value: 2
+Voltage: 0.002 V
+Raw ADC Value: 0
+Voltage: 0.000 V
+Raw ADC Value: 21
+Voltage: 0.017 V
+Raw ADC Value: 1
+Voltage: 0.001 V
+Raw ADC Value: 2
+Voltage: 0.002 V
+Raw ADC Value: 0
+Voltage: 0.000 V
+Raw ADC Value: 2
+Voltage: 0.002 V
+Raw ADC Value: 1
+Voltage: 0.001 V
+Raw ADC Value: 3
+Voltage: 0.002 V
+Raw ADC Value: 0
+Voltage: 0.000 V
+Raw ADC Value: 1
+Voltage: 0.001 V
+Raw ADC Value: 1273
+Voltage: 1.026 V
+Raw ADC Value: 1163
+Voltage: 0.937 V
+Raw ADC Value: 1223
+Voltage: 0.986 V
+Raw ADC Value: 1267
+Voltage: 1.021 V
+Raw ADC Value: 1268
+Voltage: 1.022 V
+Raw ADC Value: 1270
+Voltage: 1.023 V
+Raw ADC Value: 2
+Voltage: 0.002 V
+Raw ADC Value: 2
+Voltage: 0.002 V
+Raw ADC Value: 1
+Voltage: 0.001 V
+Raw ADC Value: 0
+Voltage: 0.000 V
+Raw ADC Value: 1
+Voltage: 0.001 V
+Raw ADC Value: 0
+Voltage: 0.000 V
+Raw ADC Value: 0
+Voltage: 0.000 V
+Raw ADC Value: 0
+Voltage: 0.000 V
+Raw ADC Value: 1
+Voltage: 0.001 V
+Raw ADC Value: 0
+Voltage: 0.000 V
+Raw ADC Value: 0
+Voltage: 0.000 V
+Raw ADC Value: 2
+Voltage: 0.002 V
+Raw ADC Value: 1
+Voltage: 0.001 V
+Raw ADC Value: 1
+Voltage: 0.001 V
+Raw ADC Value: 0
+Voltage: 0.000 V
+Raw ADC Value: 0
+Voltage: 0.000 V
+Raw ADC Value: 1
+Voltage: 0.001 V
+Raw ADC Value: 0
+Voltage: 0.000 V
+Raw ADC Value: 0
+Voltage: 0.000 V
+Raw ADC Value: 1270
+Voltage: 1.023 V
+Raw ADC Value: 1268
+Voltage: 1.022 V
+Raw ADC Value: 1257
+Voltage: 1.013 V
+Raw ADC Value: 1251
+Voltage: 1.008 V
+Raw ADC Value: 1253
+Voltage: 1.010 V
+Raw ADC Value: 0
+Voltage: 0.000 V
+Raw ADC Value: 0
+Voltage: 0.000 V
+Raw ADC Value: 1
+Voltage: 0.001 V
+Raw ADC Value: 1
+Voltage: 0.001 V
+Raw ADC Value: 2
+Voltage: 0.002 V
+Raw ADC Value: 2
+Voltage: 0.002 V
+Raw ADC Value: 0
+Voltage: 0.000 V
+Raw ADC Value: 0
+Voltage: 0.000 V
+Raw ADC Value: 0
+Voltage: 0.000 V
+Raw ADC Value: 0
+Voltage: 0.000 V
+Raw ADC Value: 1
+Voltage: 0.001 V
+Raw ADC Value: 0
+Voltage: 0.000 V
+Raw ADC Value: 1
+Voltage: 0.001 V
+Raw ADC Value: 0
+Voltage: 0.000 V
+Raw ADC Value: 0
+Voltage: 0.000 V
+Raw ADC Value: 4
+Voltage: 0.003 V
+Raw ADC Value: 0
+Voltage: 0.000 V
+Raw ADC Value: 1
+Voltage: 0.001 V
+Raw ADC Value: 2
+Voltage: 0.002 V
+Raw ADC Value: 1
+Voltage: 0.001 V
+Raw ADC Value: 0
+Voltage: 0.000 V
+Raw ADC Value: 3
+Voltage: 0.002 V
+Raw ADC Value: 0
+Voltage: 0.000 V
+Raw ADC Value: 0
+Voltage: 0.000 V
+Raw ADC Value: 1269
+Voltage: 1.023 V
+Raw ADC Value: 1278
+Voltage: 1.030 V
+Raw ADC Value: 1278
+Voltage: 1.030 V
+Raw ADC Value: 1326
+Voltage: 1.069 V
+Raw ADC Value: 1274
+Voltage: 1.027 V
+Raw ADC Value: 1297
+Voltage: 1.045 V
+Raw ADC Value: 1273
+Voltage: 1.026 V
+Raw ADC Value: 1248
+Voltage: 1.006 V
+Raw ADC Value: 2
+Voltage: 0.002 V
+Raw ADC Value: 0
+Voltage: 0.000 V
+Raw ADC Value: 0
+Voltage: 0.000 V
+Raw ADC Value: 0
+Voltage: 0.000 V
+Raw ADC Value: 0
+Voltage: 0.000 V
+Raw ADC Value: 0
+Voltage: 0.000 V
+Raw ADC Value: 0
+Voltage: 0.000 V
+Raw ADC Value: 0
+Voltage: 0.000 V
+Raw ADC Value: 0
+Voltage: 0.000 V
+Raw ADC Value: 1
+Voltage: 0.001 V
+Raw ADC Value: 0
+Voltage: 0.000 V
+Raw ADC Value: 0
+Voltage: 0.000 V
+Raw ADC Value: 0
+Voltage: 0.000 V
+Raw ADC Value: 1
+Voltage: 0.001 V
+Raw ADC Value: 6
+Voltage: 0.005 V
+Raw ADC Value: 0
+Voltage: 0.000 V
+Raw ADC Value: 0
+Voltage: 0.000 V
+Raw ADC Value: 1
+Voltage: 0.001 V
+Raw ADC Value: 4
+Voltage: 0.003 V
+Raw ADC Value: 0
+Voltage: 0.000 V
+Raw ADC Value: 0
+Voltage: 0.000 V
+Raw ADC Value: 1215
+Voltage: 0.979 V
+Raw ADC Value: 1344
+Voltage: 1.083 V
+Raw ADC Value: 1272
+Voltage: 1.025 V
+Raw ADC Value: 1
+Voltage: 0.001 V
+Raw ADC Value: 0
+Voltage: 0.000 V
+Raw ADC Value: 1255
+Voltage: 1.011 V
+Raw ADC Value: 1275
+Voltage: 1.027 V
+Raw ADC Value: 1296
+Voltage: 1.044 V
+Raw ADC Value: 1307
+Voltage: 1.053 V
+Raw ADC Value: 1301
+Voltage: 1.048 V
+Raw ADC Value: 1290
+Voltage: 1.040 V
+Raw ADC Value: 1230
+Voltage: 0.991 V
+Raw ADC Value: 1335
+Voltage: 1.076 V
+Raw ADC Value: 1271
+Voltage: 1.024 V
+Raw ADC Value: 1281
+Voltage: 1.032 V
+Raw ADC Value: 1300
+Voltage: 1.048 V
+Raw ADC Value: 0
+Voltage: 0.000 V
+Raw ADC Value: 0
+Voltage: 0.000 V
+Raw ADC Value: 19
+Voltage: 0.015 V
+Raw ADC Value: 0
+Voltage: 0.000 V
+Raw ADC Value: 0
+Voltage: 0.000 V
+Raw ADC Value: 0
+Voltage: 0.000 V
+Raw ADC Value: 1
+Voltage: 0.001 V
+Raw ADC Value: 0
+Voltage: 0.000 V
+Raw ADC Value: 0
+Voltage: 0.000 V
+Raw ADC Value: 0
+Voltage: 0.000 V
+Raw ADC Value: 1
+Voltage: 0.001 V
+Raw ADC Value: 4
+Voltage: 0.003 V
+Raw ADC Value: 0
+Voltage: 0.000 V
+Raw ADC Value: 0
+Voltage: 0.000 V
+Raw ADC Value: 3
+Voltage: 0.002 V
+Raw ADC Value: 2
+Voltage: 0.002 V
+Raw ADC Value: 0
+Voltage: 0.000 V
+Raw ADC Value: 0
+Voltage: 0.000 V
+Raw ADC Value: 0
+Voltage: 0.000 V
+Raw ADC Value: 4
+Voltage: 0.003 V
+Raw ADC Value: 2
+Voltage: 0.002 V
+Raw ADC Value: 1
+Voltage: 0.001 V
+Raw ADC Value: 0
+Voltage: 0.000 V
+Raw ADC Value: 1
+Voltage: 0.001 V
+Raw ADC Value: 0
+Voltage: 0.000 V
+Raw ADC Value: 2
+Voltage: 0.002 V
+Raw ADC Value: 0
+Voltage: 0.000 V
+Raw ADC Value: 0
+Voltage: 0.000 V
+Raw ADC Value: 0
+Voltage: 0.000 V
+Raw ADC Value: 4
+Voltage: 0.003 V
+Raw ADC Value: 7
+Voltage: 0.006 V
+Raw ADC Value: 0
+Voltage: 0.000 V
+Raw ADC Value: 16
+Voltage: 0.013 V
+Raw ADC Value: 5
+Voltage: 0.004 V
+Raw ADC Value: 32
+Voltage: 0.026 V
+Raw ADC Value: 6
+Voltage: 0.005 V
+Raw ADC Value: 6
+Voltage: 0.005 V
+Raw ADC Value: 2
+Voltage: 0.002 V
+Raw ADC Value: 3
+Voltage: 0.002 V
+Raw ADC Value: 0
+Voltage: 0.000 V
+Raw ADC Value: 8
+Voltage: 0.006 V
+Raw ADC Value: 3
+Voltage: 0.002 V
+Raw ADC Value: 6
+Voltage: 0.005 V
+Raw ADC Value: 1
+Voltage: 0.001 V
+Raw ADC Value: 16
+Voltage: 0.013 V
+Raw ADC Value: 3
+Voltage: 0.002 V
+Raw ADC Value: 5
+Voltage: 0.004 V
+Raw ADC Value: 0
+Voltage: 0.000 V
+Raw ADC Value: 0
+Voltage: 0.000 V
+Raw ADC Value: 6
+Voltage: 0.005 V
+Raw ADC Value: 1
+Voltage: 0.001 V
+Raw ADC Value: 4
+Voltage: 0.003 V
+Raw ADC Value: 6
+Voltage: 0.005 V
+Raw ADC Value: 2
+Voltage: 0.002 V
+Raw ADC Value: 0
+Voltage: 0.000 V
+Raw ADC Value: 0
+Voltage: 0.000 V
+Raw ADC Value: 0
+Voltage: 0.000 V
+Raw ADC Value: 4
+Voltage: 0.003 V
+Raw ADC Value: 9
+Voltage: 0.007 V
+Raw ADC Value: 7
+Voltage: 0.006 V
+Raw ADC Value: 4
+Voltage: 0.003 V
+Raw ADC Value: 9
+Voltage: 0.007 V
+Raw ADC Value: 0
+Voltage: 0.000 V
+Raw ADC Value: 5
+Voltage: 0.004 V
+Raw ADC Value: 37
+Voltage: 0.030 V
+Raw ADC Value: 0
+Voltage: 0.000 V
+Raw ADC Value: 3
+Voltage: 0.002 V
+Raw ADC Value: 1
+Voltage: 0.001 V
+Raw ADC Value: 6
+Voltage: 0.005 V
+Raw ADC Value: 8
+Voltage: 0.006 V
+Raw ADC Value: 2
+Voltage: 0.002 V
+Raw ADC Value: 0
+Voltage: 0.000 V
+Raw ADC Value: 6
+Voltage: 0.005 V
+Raw ADC Value: 3
+Voltage: 0.002 V
+Raw ADC Value: 4
+Voltage: 0.003 V
+Raw ADC Value: 23
+Voltage: 0.019 V
+Raw ADC Value: 23
+Voltage: 0.019 V
+Raw ADC Value: 8
+Voltage: 0.006 V
+Raw ADC Value: 0
+Voltage: 0.000 V
+Raw ADC Value: 4
+Voltage: 0.003 V
+Raw ADC Value: 2
+Voltage: 0.002 V
+Raw ADC Value: 24
+Voltage: 0.019 V
+Raw ADC Value: 3
+Voltage: 0.002 V
+Raw ADC Value: 40
+Voltage: 0.032 V
+Raw ADC Value: 5
+Voltage: 0.004 V
+Raw ADC Value: 0
+Voltage: 0.000 V
+Raw ADC Value: 7
+Voltage: 0.006 V
+Raw ADC Value: 32
+Voltage: 0.026 V
+Raw ADC Value: 12
+Voltage: 0.010 V
+Raw ADC Value: 7
+Voltage: 0.006 V
+Raw ADC Value: 42
+Voltage: 0.034 V
+Raw ADC Value: 7
+Voltage: 0.006 V
+Raw ADC Value: 4
+Voltage: 0.003 V
+Raw ADC Value: 0
+Voltage: 0.000 V
+Raw ADC Value: 4
+Voltage: 0.003 V
+Raw ADC Value: 0
+Voltage: 0.000 V
+Raw ADC Value: 5
+Voltage: 0.004 V
+Raw ADC Value: 6
+Voltage: 0.005 V
+Raw ADC Value: 5
+Voltage: 0.004 V
+Raw ADC Value: 9
+Voltage: 0.007 V
+Raw ADC Value: 4
+Voltage: 0.003 V
+Raw ADC Value: 7
+Voltage: 0.006 V
+Raw ADC Value: 5
+Voltage: 0.004 V
+Raw ADC Value: 0
+Voltage: 0.000 V
+Raw ADC Value: 19
+Voltage: 0.015 V
+Raw ADC Value: 11
+Voltage: 0.009 V
+Raw ADC Value: 2
+Voltage: 0.002 V
+Raw ADC Value: 4
+Voltage: 0.003 V
+Raw ADC Value: 7
+Voltage: 0.006 V
+Raw ADC Value: 0
+Voltage: 0.000 V
+Raw ADC Value: 8
+Voltage: 0.006 V
+Raw ADC Value: 8
+Voltage: 0.006 V
+Raw ADC Value: 4
+Voltage: 0.003 V
+Raw ADC Value: 0
+Voltage: 0.000 V
+Raw ADC Value: 5
+Voltage: 0.004 V
+Raw ADC Value: 18
+Voltage: 0.015 V
+Raw ADC Value: 5
+Voltage: 0.004 V
+Raw ADC Value: 0
+Voltage: 0.000 V
+Raw ADC Value: 2
+Voltage: 0.002 V
+Raw ADC Value: 4
+Voltage: 0.003 V
+Raw ADC Value: 0
+Voltage: 0.000 V
+Raw ADC Value: 13
+Voltage: 0.010 V
+Raw ADC Value: 5
+Voltage: 0.004 V
+Raw ADC Value: 1
+Voltage: 0.001 V
+Raw ADC Value: 7
+Voltage: 0.006 V
+Raw ADC Value: 3
+Voltage: 0.002 V
+Raw ADC Value: 5
+Voltage: 0.004 V
+Raw ADC Value: 0
+Voltage: 0.000 V
+Raw ADC Value: 5
+Voltage: 0.004 V
+Raw ADC Value: 13
+Voltage: 0.010 V
+Raw ADC Value: 9
+Voltage: 0.007 V
+Raw ADC Value: 14
+Voltage: 0.011 V
+Raw ADC Value: 2
+Voltage: 0.002 V
+Raw ADC Value: 5
+Voltage: 0.004 V
+Raw ADC Value: 5
+Voltage: 0.004 V
+Raw ADC Value: 10
+Voltage: 0.008 V
+Raw ADC Value: 5
+Voltage: 0.004 V
+Raw ADC Value: 0
+Voltage: 0.000 V
+Raw ADC Value: 11
+Voltage: 0.009 V
+Raw ADC Value: 4
+Voltage: 0.003 V
+Raw ADC Value: 0
+Voltage: 0.000 V
+Raw ADC Value: 0
+Voltage: 0.000 V
+Raw ADC Value: 0
+Voltage: 0.000 V
+Raw ADC Value: 0
+Voltage: 0.000 V
+Raw ADC Value: 0
+Voltage: 0.000 V
+Raw ADC Value: 0
+Voltage: 0.000 V
+Raw ADC Value: 0
+Voltage: 0.000 V
+Raw ADC Value: 0
+Voltage: 0.000 V
+Raw ADC Value: 0
+Voltage: 0.000 V
+Raw ADC Value: 0
+Voltage: 0.000 V
+Raw ADC Value: 0
+Voltage: 0.000 V
+Raw ADC Value: 0
+Voltage: 0.000 V
+Raw ADC Value: 0
+Voltage: 0.000 V
+Raw ADC Value: 0
+Voltage: 0.000 V
+Raw ADC Value: 0
+Voltage: 0.000 V
+Raw ADC Value: 0
+Voltage: 0.000 V
+Raw ADC Value: 0
+Voltage: 0.000 V
+Raw ADC Value: 0
+Voltage: 0.000 V
+Raw ADC Value: 0
+Voltage: 0.000 V
+Raw ADC Value: 0
+Voltage: 0.000 V
+Raw ADC Value: 0
+Voltage: 0.000 V
+Raw ADC Value: 0
+Voltage: 0.000 V
+Raw ADC Value: 0
+Voltage: 0.000 V
+Raw ADC Value: 0
+Voltage: 0.000 V
+Raw ADC Value: 0
+Voltage: 0.000 V
+Raw ADC Value: 0
+Voltage: 0.000 V
+Raw ADC Value: 0
+Voltage: 0.000 V
+Raw ADC Value: 0
+Voltage: 0.000 V
+Raw ADC Value: 0
+Voltage: 0.000 V
+Raw ADC Value: 0
+Voltage: 0.000 V
+Raw ADC Value: 0
+Voltage: 0.000 V
+Raw ADC Value: 0
+Voltage: 0.000 V
+Raw ADC Value: 0
+Voltage: 0.000 V
+Raw ADC Value: 0
+Voltage: 0.000 V
+Raw ADC Value: 0
+Voltage: 0.000 V
+Raw ADC Value: 0
+Voltage: 0.000 V
+Raw ADC Value: 0
+Voltage: 0.000 V
+Raw ADC Value: 0
+Voltage: 0.000 V
+Raw ADC Value: 0
+Voltage: 0.000 V
+Raw ADC Value: 0
+Voltage: 0.000 V
+Raw ADC Value: 0
+Voltage: 0.000 V
+Raw ADC Value: 0
+Voltage: 0.000 V
+Raw ADC Value: 0
+Voltage: 0.000 V
+Raw ADC Value: 0
+Voltage: 0.000 V
+Raw ADC Value: 0
+Voltage: 0.000 V
+Raw ADC Value: 0
+Voltage: 0.000 V
+Raw ADC Value: 0
+Voltage: 0.000 V
+Raw ADC Value: 0
+Voltage: 0.000 V
+Raw ADC Value: 0
+Voltage: 0.000 V
+Raw ADC Value: 0
+Voltage: 0.000 V
+Raw ADC Value: 0
+Voltage: 0.000 V
+Raw ADC Value: 0
+Voltage: 0.000 V
+Raw ADC Value: 0
+Voltage: 0.000 V
+Raw ADC Value: 0
+Voltage: 0.000 V
+Raw ADC Value: 0
+Voltage: 0.000 V
+Raw ADC Value: 0
+Voltage: 0.000 V
+Raw ADC Value: 0
+Voltage: 0.000 V
+Raw ADC Value: 0
+Voltage: 0.000 V
+Raw ADC Value: 0
+Voltage: 0.000 V
+Raw ADC Value: 0
+Voltage: 0.000 V
+Raw ADC Value: 0
+Voltage: 0.000 V
+Raw ADC Value: 0
+Voltage: 0.000 V
+Raw ADC Value: 0
+Voltage: 0.000 V
+Raw ADC Value: 0
+Voltage: 0.000 V
+Raw ADC Value: 0
+Voltage: 0.000 V
+Raw ADC Value: 0
+Voltage: 0.000 V
+Raw ADC Value: 0
+Voltage: 0.000 V
+Raw ADC Value: 0
+Voltage: 0.000 V
+Raw ADC Value: 0
+Voltage: 0.000 V
+Raw ADC Value: 0
+Voltage: 0.000 V
+Raw ADC Value: 0
+Voltage: 0.000 V
+Raw ADC Value: 0
+Voltage: 0.000 V
+Raw ADC Value: 0
+Voltage: 0.000 V
+Raw ADC Value: 0
+Voltage: 0.000 V
+Raw ADC Value: 0
+Voltage: 0.000 V
+Raw ADC Value: 0
+Voltage: 0.000 V
+Raw ADC Value: 0
+Voltage: 0.000 V
+Raw ADC Value: 0
+Voltage: 0.000 V
+Raw ADC Value: 0
+Voltage: 0.000 V
+Raw ADC Value: 0
+Voltage: 0.000 V
+Raw ADC Value: 0
+Voltage: 0.000 V
+Raw ADC Value: 0
+Voltage: 0.000 V
+Raw ADC Value: 0
+Voltage: 0.000 V
+Raw ADC Value: 0
+Voltage: 0.000 V
+Raw ADC Value: 0
+Voltage: 0.000 V
+Raw ADC Value: 0
+Voltage: 0.000 V
+Raw ADC Value: 0
+Voltage: 0.000 V
+Raw ADC Value: 0
+Voltage: 0.000 V
+Raw ADC Value: 0
+Voltage: 0.000 V
+Raw ADC Value: 0
+Voltage: 0.000 V
+Raw ADC Value: 0
+Voltage: 0.000 V
+Raw ADC Value: 0
+Voltage: 0.000 V
+Raw ADC Value: 0
+Voltage: 0.000 V
+Raw ADC Value: 0
+Voltage: 0.000 V
+Raw ADC Value: 0
+Voltage: 0.000 V
+Raw ADC Value: 0
+Voltage: 0.000 V
+Raw ADC Value: 0
+Voltage: 0.000 V
+Raw ADC Value: 0
+Voltage: 0.000 V
+Raw ADC Value: 0
+Voltage: 0.000 V
+Raw ADC Value: 0
+Voltage: 0.000 V
+Raw ADC Value: 0
+Voltage: 0.000 V
+Raw ADC Value: 0
+Voltage: 0.000 V
+Raw ADC Value: 0
+Voltage: 0.000 V
+Raw ADC Value: 0
+Voltage: 0.000 V
+Raw ADC Value: 0
+Voltage: 0.000 V
+Raw ADC Value: 0
+Voltage: 0.000 V
+Raw ADC Value: 0
+Voltage: 0.000 V
+Raw ADC Value: 0
+Voltage: 0.000 V
+Raw ADC Value: 0
+Voltage: 0.000 V
+Raw ADC Value: 0
+Voltage: 0.000 V
+Raw ADC Value: 0
+Voltage: 0.000 V
+Raw ADC Value: 0
+Voltage: 0.000 V
+Raw ADC Value: 0
+Voltage: 0.000 V
+Raw ADC Value: 0
+Voltage: 0.000 V
+Raw ADC Value: 0
+Voltage: 0.000 V
+Raw ADC Value: 0
+Voltage: 0.000 V
+Raw ADC Value: 0
+Voltage: 0.000 V
+Raw ADC Value: 0
+Voltage: 0.000 V
+Raw ADC Value: 0
+Voltage: 0.000 V
+Raw ADC Value: 0
+Voltage: 0.000 V
+Raw ADC Value: 0
+Voltage: 0.000 V
+Raw ADC Value: 0
+Voltage: 0.000 V
+Raw ADC Value: 0
+Voltage: 0.000 V
+Raw ADC Value: 0
+Voltage: 0.000 V
+Raw ADC Value: 0
+Voltage: 0.000 V
+Raw ADC Value: 0
+Voltage: 0.000 V
+Raw ADC Value: 0
+Voltage: 0.000 V
+Raw ADC Value: 0
+Voltage: 0.000 V
+Raw ADC Value: 0
+Voltage: 0.000 V
+Raw ADC Value: 0
+Voltage: 0.000 V
+Raw ADC Value: 0
+Voltage: 0.000 V
+Raw ADC Value: 0
+Voltage: 0.000 V
+Raw ADC Value: 0
+Voltage: 0.000 V
+Raw ADC Value: 0
+Voltage: 0.000 V
+Raw ADC Value: 0
+Voltage: 0.000 V
+Raw ADC Value: 0
+Voltage: 0.000 V
+Raw ADC Value: 0
+Voltage: 0.000 V
+Raw ADC Value: 0
+Voltage: 0.000 V
+Raw ADC Value: 0
+Voltage: 0.000 V
+Raw ADC Value: 0
+Voltage: 0.000 V
+Raw ADC Value: 0
+Voltage: 0.000 V
+Raw ADC Value: 0
+Voltage: 0.000 V
+Raw ADC Value: 0
+Voltage: 0.000 V
+Raw ADC Value: 0
+Voltage: 0.000 V
+Raw ADC Value: 0
+Voltage: 0.000 V
+Raw ADC Value: 0
+Voltage: 0.000 V
+Raw ADC Value: 0
+Voltage: 0.000 V
+Raw ADC Value: 0
+Voltage: 0.000 V
+Raw ADC Value: 0
+Voltage: 0.000 V
+Raw ADC Value: 0
+Voltage: 0.000 V
+Raw ADC Value: 0
+Voltage: 0.000 V
+Raw ADC Value: 0
+Voltage: 0.000 V
+Raw ADC Value: 0
+Voltage: 0.000 V
+Raw ADC Value: 0
+Voltage: 0.000 V
+Raw ADC Value: 0
+Voltage: 0.000 V
+Raw ADC Value: 0
+Voltage: 0.000 V
+Raw ADC Value: 0
+Voltage: 0.000 V
+Raw ADC Value: 0
+Voltage: 0.000 V
+Raw ADC Value: 0
+Voltage: 0.000 V
+Raw ADC Value: 0
+Voltage: 0.000 V
+Raw ADC Value: 0
+Voltage: 0.000 V
+Raw ADC Value: 0
+Voltage: 0.000 V
+Raw ADC Value: 0
+Voltage: 0.000 V
+Raw ADC Value: 0
+Voltage: 0.000 V
+Raw ADC Value: 0
+Voltage: 0.000 V
+Raw ADC Value: 0
+Voltage: 0.000 V
+Raw ADC Value: 0
+Voltage: 0.000 V
+Raw ADC Value: 0
+Voltage: 0.000 V
+Raw ADC Value: 0
+Voltage: 0.000 V
+Raw ADC Value: 0
+Voltage: 0.000 V
+Raw ADC Value: 0
+Voltage: 0.000 V
+Raw ADC Value: 0
+Voltage: 0.000 V
+Raw ADC Value: 0
+Voltage: 0.000 V
+Raw ADC Value: 0
+Voltage: 0.000 V
+Raw ADC Value: 0
+Voltage: 0.000 V
+Raw ADC Value: 0
+Voltage: 0.000 V
+Raw ADC Value: 0
+Voltage: 0.000 V
+Raw ADC Value: 0
+Voltage: 0.000 V
+Raw ADC Value: 0
+Voltage: 0.000 V
+Raw ADC Value: 0
+Voltage: 0.000 V
+Raw ADC Value: 0
+Voltage: 0.000 V
+Raw ADC Value: 0
+Voltage: 0.000 V
+Raw ADC Value: 0
+Voltage: 0.000 V
+Raw ADC Value: 0
+Voltage: 0.000 V
+Raw ADC Value: 0
+Voltage: 0.000 V
+Raw ADC Value: 0
+Voltage: 0.000 V
+Raw ADC Value: 0
+Voltage: 0.000 V
+Raw ADC Value: 0
+Voltage: 0.000 V
+Raw ADC Value: 0
+Voltage: 0.000 V
+Raw ADC Value: 0
+Voltage: 0.000 V
+Raw ADC Value: 0
+Voltage: 0.000 V
+Raw ADC Value: 0
+Voltage: 0.000 V
+Raw ADC Value: 0
+Voltage: 0.000 V
+Raw ADC Value: 0
+Voltage: 0.000 V
+Raw ADC Value: 0
+Voltage: 0.000 V
+Raw ADC Value: 0
+Voltage: 0.000 V
+Raw ADC Value: 0
+Voltage: 0.000 V
+Raw ADC Value: 0
+Voltage: 0.000 V
+Raw ADC Value: 0
+Voltage: 0.000 V
+Raw ADC Value: 0
+Voltage: 0.000 V
+Raw ADC Value: 0
+Voltage: 0.000 V
+Raw ADC Value: 0
+Voltage: 0.000 V
+Raw ADC Value: 0
+Voltage: 0.000 V
+Raw ADC Value: 0
+Voltage: 0.000 V
+Raw ADC Value: 0
+Voltage: 0.000 V
+Raw ADC Value: 0
+Voltage: 0.000 V
+Raw ADC Value: 0
+Voltage: 0.000 V
+Raw ADC Value: 0
+Voltage: 0.000 V
+Raw ADC Value: 0
+Voltage: 0.000 V
+Raw ADC Value: 0
+Voltage: 0.000 V
+Raw ADC Value: 0
+Voltage: 0.000 V
+Raw ADC Value: 0
+Voltage: 0.000 V
+Raw ADC Value: 0
+Voltage: 0.000 V
+Raw ADC Value: 0
+Voltage: 0.000 V
+Raw ADC Value: 0
+Voltage: 0.000 V
+Raw ADC Value: 0
+Voltage: 0.000 V
+Raw ADC Value: 0
+Voltage: 0.000 V
+Raw ADC Value: 0
+Voltage: 0.000 V
+Raw ADC Value: 0
+Voltage: 0.000 V
+Raw ADC Value: 0
+Voltage: 0.000 V
+Raw ADC Value: 0
+Voltage: 0.000 V
+Raw ADC Value: 0
+Voltage: 0.000 V
+Raw ADC Value: 0
+Voltage: 0.000 V
+Raw ADC Value: 0
+Voltage: 0.000 V
+Raw ADC Value: 0
+Voltage: 0.000 V
+Raw ADC Value: 0
+Voltage: 0.000 V
+Raw ADC Value: 0
+Voltage: 0.000 V
+Raw ADC Value: 0
+Voltage: 0.000 V
+Raw ADC Value: 0
+Voltage: 0.000 V
+Raw ADC Value: 0
+Voltage: 0.000 V
+Raw ADC Value: 0
+Voltage: 0.000 V
+Raw ADC Value: 0
+Voltage: 0.000 V
+Raw ADC Value: 0
+Voltage: 0.000 V
+Raw ADC Value: 0
+Voltage: 0.000 V
+Raw ADC Value: 0
+Voltage: 0.000 V
+Raw ADC Value: 160
+Voltage: 0.129 V
+Raw ADC Value: 0
+Voltage: 0.000 V
+Raw ADC Value: 0
+Voltage: 0.000 V
+Raw ADC Value: 0
+Voltage: 0.000 V
+Raw ADC Value: 0
+Voltage: 0.000 V
+Raw ADC Value: 0
+Voltage: 0.000 V
+Raw ADC Value: 0
+Voltage: 0.000 V
+Raw ADC Value: 0
+Voltage: 0.000 V
+Raw ADC Value: 0
+Voltage: 0.000 V
+Raw ADC Value: 0
+Voltage: 0.000 V
+Raw ADC Value: 0
+Voltage: 0.000 V
+Raw ADC Value: 0
+Voltage: 0.000 V
+Raw ADC Value: 0
+Voltage: 0.000 V
+Raw ADC Value: 0
+Voltage: 0.000 V
+Raw ADC Value: 0
+Voltage: 0.000 V
+Raw ADC Value: 0
+Voltage: 0.000 V
+Raw ADC Value: 0
+Voltage: 0.000 V
+Raw ADC Value: 0
+Voltage: 0.000 V
+Raw ADC Value: 0
+Voltage: 0.000 V
+Raw ADC Value: 0
+Voltage: 0.000 V
+Raw ADC Value: 0
+Voltage: 0.000 V
+Raw ADC Value: 0
+Voltage: 0.000 V
+Raw ADC Value: 0
+Voltage: 0.000 V
+Raw ADC Value: 0
+Voltage: 0.000 V
+Raw ADC Value: 0
+Voltage: 0.000 V
+Raw ADC Value: 0
+Voltage: 0.000 V
+Raw ADC Value: 0
+Voltage: 0.000 V
+Raw ADC Value: 0
+Voltage: 0.000 V
+Raw ADC Value: 0
+Voltage: 0.000 V
+Raw ADC Value: 0
+Voltage: 0.000 V
+Raw ADC Value: 0
+Voltage: 0.000 V
+Raw ADC Value: 0
+Voltage: 0.000 V
+Raw ADC Value: 0
+Voltage: 0.000 V
+Raw ADC Value: 0
+Voltage: 0.000 V
+Raw ADC Value: 0
+Voltage: 0.000 V
+Raw ADC Value: 0
+Voltage: 0.000 V
+Raw ADC Value: 0
+Voltage: 0.000 V
+Raw ADC Value: 0
+Voltage: 0.000 V
+Raw ADC Value: 0
+Voltage: 0.000 V
+Raw ADC Value: 0
+Voltage: 0.000 V
+Raw ADC Value: 0
+Voltage: 0.000 V
+Raw ADC Value: 0
+Voltage: 0.000 V
+Raw ADC Value: 0
+Voltage: 0.000 V
+Raw ADC Value: 0
+Voltage: 0.000 V
+Raw ADC Value: 0
+Voltage: 0.000 V
+Raw ADC Value: 0
+Voltage: 0.000 V
+Raw ADC Value: 0
+Voltage: 0.000 V
+Raw ADC Value: 0
+Voltage: 0.000 V
+Raw ADC Value: 0
+Voltage: 0.000 V
+Raw ADC Value: 0
+Voltage: 0.000 V
+Raw ADC Value: 0
+Voltage: 0.000 V
+Raw ADC Value: 0
+Voltage: 0.000 V
+Raw ADC Value: 0
+Voltage: 0.000 V
+Raw ADC Value: 0
+Voltage: 0.000 V
+Raw ADC Value: 0
+Voltage: 0.000 V
+Raw ADC Value: 0
+Voltage: 0.000 V
+Raw ADC Value: 0
+Voltage: 0.000 V
+Raw ADC Value: 0
+Voltage: 0.000 V
+Raw ADC Value: 0
+Voltage: 0.000 V
+Raw ADC Value: 0
+Voltage: 0.000 V
+Raw ADC Value: 0
+Voltage: 0.000 V
+Raw ADC Value: 0
+Voltage: 0.000 V
+Raw ADC Value: 0
+Voltage: 0.000 V
+Raw ADC Value: 0
+Voltage: 0.000 V
+Raw ADC Value: 0
+Voltage: 0.000 V
+Raw ADC Value: 0
+Voltage: 0.000 V
+Raw ADC Value: 0
+Voltage: 0.000 V
+Raw ADC Value: 0
+Voltage: 0.000 V
+Raw ADC Value: 0
+Voltage: 0.000 V
+Raw ADC Value: 0
+Voltage: 0.000 V
+Raw ADC Value: 0
+Voltage: 0.000 V
+Raw ADC Value: 88
+Voltage: 0.071 V
+Raw ADC Value: 0
+Voltage: 0.000 V
+Raw ADC Value: 0
+Voltage: 0.000 V
+Raw ADC Value: 0
+Voltage: 0.000 V
+Raw ADC Value: 0
+Voltage: 0.000 V
+Raw ADC Value: 0
+Voltage: 0.000 V
+Raw ADC Value: 0
+Voltage: 0.000 V
+Raw ADC Value: 0
+Voltage: 0.000 V
+Raw ADC Value: 0
+Voltage: 0.000 V
+Raw ADC Value: 0
+Voltage: 0.000 V
+Raw ADC Value: 0
+Voltage: 0.000 V
+Raw ADC Value: 0
+Voltage: 0.000 V
+Raw ADC Value: 0
+Voltage: 0.000 V
+Raw ADC Value: 0
+Voltage: 0.000 V
+Raw ADC Value: 0
+Voltage: 0.000 V
+Raw ADC Value: 0
+Voltage: 0.000 V
+Raw ADC Value: 0
+Voltage: 0.000 V
+Raw ADC Value: 0
+Voltage: 0.000 V
+Raw ADC Value: 0
+Voltage: 0.000 V
+Raw ADC Value: 0
+Voltage: 0.000 V
+Raw ADC Value: 0
+Voltage: 0.000 V
+Raw ADC Value: 0
+Voltage: 0.000 V
+Raw ADC Value: 0
+Voltage: 0.000 V
+Raw ADC Value: 0
+Voltage: 0.000 V
+Raw ADC Value: 0
+Voltage: 0.000 V
+Raw ADC Value: 0
+Voltage: 0.000 V
+Raw ADC Value: 0
+Voltage: 0.000 V
+Raw ADC Value: 0
+Voltage: 0.000 V
+Raw ADC Value: 0
+Voltage: 0.000 V
+Raw ADC Value: 0
+Voltage: 0.000 V
+Raw ADC Value: 0
+Voltage: 0.000 V
+Raw ADC Value: 0
+Voltage: 0.000 V
+Raw ADC Value: 0
+Voltage: 0.000 V
+Raw ADC Value: 0
+Voltage: 0.000 V
+Raw ADC Value: 0
+Voltage: 0.000 V
+Raw ADC Value: 0
+Voltage: 0.000 V
+Raw ADC Value: 0
+Voltage: 0.000 V
+Raw ADC Value: 0
+Voltage: 0.000 V
+Raw ADC Value: 0
+Voltage: 0.000 V
+Raw ADC Value: 0
+Voltage: 0.000 V
+Raw ADC Value: 0
+Voltage: 0.000 V
+Raw ADC Value: 0
+Voltage: 0.000 V
+Raw ADC Value: 0
+Voltage: 0.000 V
+Raw ADC Value: 0
+Voltage: 0.000 V
+Raw ADC Value: 0
+Voltage: 0.000 V
+Raw ADC Value: 0
+Voltage: 0.000 V
+Raw ADC Value: 0
+Voltage: 0.000 V
+Raw ADC Value: 0
+Voltage: 0.000 V
+Raw ADC Value: 0
+Voltage: 0.000 V
+Raw ADC Value: 0
+Voltage: 0.000 V
+Raw ADC Value: 0
+Voltage: 0.000 V
+Raw ADC Value: 0
+Voltage: 0.000 V
+Raw ADC Value: 0
+Voltage: 0.000 V
+Raw ADC Value: 0
+Voltage: 0.000 V
+Raw ADC Value: 0
+Voltage: 0.000 V
+Raw ADC Value: 0
+Voltage: 0.000 V
+Raw ADC Value: 0
+Voltage: 0.000 V
+Raw ADC Value: 0
+Voltage: 0.000 V
+Raw ADC Value: 0
+Voltage: 0.000 V
+Raw ADC Value: 0
+Voltage: 0.000 V
+Raw ADC Value: 0
+Voltage: 0.000 V
+Raw ADC Value: 0
+Voltage: 0.000 V
+Raw ADC Value: 0
+Voltage: 0.000 V
+Raw ADC Value: 0
+Voltage: 0.000 V
+Raw ADC Value: 0
+Voltage: 0.000 V
+Raw ADC Value: 0
+Voltage: 0.000 V
+Raw ADC Value: 0
+Voltage: 0.000 V
+Raw ADC Value: 0
+Voltage: 0.000 V
+Raw ADC Value: 0
+Voltage: 0.000 V
+Raw ADC Value: 0
+Voltage: 0.000 V
+Raw ADC Value: 0
+Voltage: 0.000 V
+Raw ADC Value: 6
+Voltage: 0.005 V
+Raw ADC Value: 0
+Voltage: 0.000 V
+Raw ADC Value: 0
+Voltage: 0.000 V
+Raw ADC Value: 0
+Voltage: 0.000 V
+Raw ADC Value: 0
+Voltage: 0.000 V
+Raw ADC Value: 0
+Voltage: 0.000 V
+Raw ADC Value: 0
+Voltage: 0.000 V
+Raw ADC Value: 0
+Voltage: 0.000 V
+Raw ADC Value: 0
+Voltage: 0.000 V
+Raw ADC Value: 0
+Voltage: 0.000 V
+Raw ADC Value: 0
+Voltage: 0.000 V
+Raw ADC Value: 0
+Voltage: 0.000 V
+Raw ADC Value: 0
+Voltage: 0.000 V
+Raw ADC Value: 0
+Voltage: 0.000 V
+Raw ADC Value: 0
+Voltage: 0.000 V
+Raw ADC Value: 0
+Voltage: 0.000 V
+Raw ADC Value: 0
+Voltage: 0.000 V
+Raw ADC Value: 0
+Voltage: 0.000 V
+Raw ADC Value: 0
+Voltage: 0.000 V
+Raw ADC Value: 0
+Voltage: 0.000 V
+Raw ADC Value: 0
+Voltage: 0.000 V
+Raw ADC Value: 0
+Voltage: 0.000 V
+Raw ADC Value: 0
+Voltage: 0.000 V
+Raw ADC Value: 0
+Voltage: 0.000 V
+Raw ADC Value: 0
+Voltage: 0.000 V
+Raw ADC Value: 0
+Voltage: 0.000 V
+Raw ADC Value: 0
+Voltage: 0.000 V
+Raw ADC Value: 0
+Voltage: 0.000 V
+Raw ADC Value: 0
+Voltage: 0.000 V
+Raw ADC Value: 0
+Voltage: 0.000 V
+Raw ADC Value: 0
+Voltage: 0.000 V
+Raw ADC Value: 0
+Voltage: 0.000 V
+Raw ADC Value: 0
+Voltage: 0.000 V
+Raw ADC Value: 0
+Voltage: 0.000 V
+Raw ADC Value: 0
+Voltage: 0.000 V
+Raw ADC Value: 0
+Voltage: 0.000 V
+Raw ADC Value: 0
+Voltage: 0.000 V
+Raw ADC Value: 0
+Voltage: 0.000 V
+Raw ADC Value: 0
+Voltage: 0.000 V
+Raw ADC Value: 0
+Voltage: 0.000 V
+Raw ADC Value: 0
+Voltage: 0.000 V
+Raw ADC Value: 0
+Voltage: 0.000 V
+Raw ADC Value: 0
+Voltage: 0.000 V
+Raw ADC Value: 0
+Voltage: 0.000 V
+Raw ADC Value: 0
+Voltage: 0.000 V
+Raw ADC Value: 0
+Voltage: 0.000 V
+Raw ADC Value: 0
+Voltage: 0.000 V
+Raw ADC Value: 0
+Voltage: 0.000 V
+Raw ADC Value: 0
+Voltage: 0.000 V
+Raw ADC Value: 0
+Voltage: 0.000 V
+Raw ADC Value: 0
+Voltage: 0.000 V
+Raw ADC Value: 0
+Voltage: 0.000 V
+Raw ADC Value: 0
+Voltage: 0.000 V
+Raw ADC Value: 0
+Voltage: 0.000 V
+Raw ADC Value: 0
+Voltage: 0.000 V
+Raw ADC Value: 0
+Voltage: 0.000 V
+Raw ADC Value: 0
+Voltage: 0.000 V
+Raw ADC Value: 0
+Voltage: 0.000 V
+Raw ADC Value: 0
+Voltage: 0.000 V
+Raw ADC Value: 0
+Voltage: 0.000 V
+Raw ADC Value: 0
+Voltage: 0.000 V
+Raw ADC Value: 0
+Voltage: 0.000 V
+Raw ADC Value: 37
+Voltage: 0.030 V
+Raw ADC Value: 0
+Voltage: 0.000 V
+Raw ADC Value: 0
+Voltage: 0.000 V
+Raw ADC Value: 0
+Voltage: 0.000 V
+Raw ADC Value: 0
+Voltage: 0.000 V
+Raw ADC Value: 0
+Voltage: 0.000 V
+Raw ADC Value: 0
+Voltage: 0.000 V
+Raw ADC Value: 0
+Voltage: 0.000 V
+Raw ADC Value: 0
+Voltage: 0.000 V
+Raw ADC Value: 0
+Voltage: 0.000 V
+Raw ADC Value: 0
+Voltage: 0.000 V
+Raw ADC Value: 0
+Voltage: 0.000 V
+Raw ADC Value: 0
+Voltage: 0.000 V
+Raw ADC Value: 0
+Voltage: 0.000 V
+Raw ADC Value: 0
+Voltage: 0.000 V
+Raw ADC Value: 0
+Voltage: 0.000 V
+Raw ADC Value: 0
+Voltage: 0.000 V
+Raw ADC Value: 0
+Voltage: 0.000 V
+Raw ADC Value: 0
+Voltage: 0.000 V
+Raw ADC Value: 0
+Voltage: 0.000 V
+Raw ADC Value: 0
+Voltage: 0.000 V
+Raw ADC Value: 0
+Voltage: 0.000 V
+Raw ADC Value: 0
+Voltage: 0.000 V
+Raw ADC Value: 0
+Voltage: 0.000 V
+Raw ADC Value: 0
+Voltage: 0.000 V
+Raw ADC Value: 0
+Voltage: 0.000 V
+Raw ADC Value: 0
+Voltage: 0.000 V
+Raw ADC Value: 0
+Voltage: 0.000 V
+Raw ADC Value: 0
+Voltage: 0.000 V
+Raw ADC Value: 0
+Voltage: 0.000 V
+Raw ADC Value: 0
+Voltage: 0.000 V
+Raw ADC Value: 0
+Voltage: 0.000 V
+Raw ADC Value: 0
+Voltage: 0.000 V
+Raw ADC Value: 0
+Voltage: 0.000 V
+Raw ADC Value: 0
+Voltage: 0.000 V
+Raw ADC Value: 0
+Voltage: 0.000 V
+Raw ADC Value: 0
+Voltage: 0.000 V
+Raw ADC Value: 0
+Voltage: 0.000 V
+Raw ADC Value: 0
+Voltage: 0.000 V
+Raw ADC Value: 0
+Voltage: 0.000 V
+Raw ADC Value: 0
+Voltage: 0.000 V
+Raw ADC Value: 0
+Voltage: 0.000 V
+Raw ADC Value: 0
+Voltage: 0.000 V
+Raw ADC Value: 0
+Voltage: 0.000 V
+Raw ADC Value: 0
+Voltage: 0.000 V
+Raw ADC Value: 0
+Voltage: 0.000 V
+Raw ADC Value: 0
+Voltage: 0.000 V
+Raw ADC Value: 0
+Voltage: 0.000 V
+Raw ADC Value: 0
+Voltage: 0.000 V
+Raw ADC Value: 0
+Voltage: 0.000 V
+Raw ADC Value: 0
+Voltage: 0.000 V
+Raw ADC Value: 0
+Voltage: 0.000 V
+Raw ADC Value: 0
+Voltage: 0.000 V
+Raw ADC Value: 0
+Voltage: 0.000 V
+Raw ADC Value: 0
+Voltage: 0.000 V
+Raw ADC Value: 0
+Voltage: 0.000 V
+Raw ADC Value: 0
+Voltage: 0.000 V
+Raw ADC Value: 0
+Voltage: 0.000 V
+Raw ADC Value: 0
+Voltage: 0.000 V
+Raw ADC Value: 0
+Voltage: 0.000 V
+Raw ADC Value: 0
+Voltage: 0.000 V
+Raw ADC Value: 0
+Voltage: 0.000 V
+Raw ADC Value: 0
+Voltage: 0.000 V
+Raw ADC Value: 61
+Voltage: 0.049 V
+Raw ADC Value: 0
+Voltage: 0.000 V
+Raw ADC Value: 0
+Voltage: 0.000 V
+Raw ADC Value: 0
+Voltage: 0.000 V
+Raw ADC Value: 0
+Voltage: 0.000 V
+Raw ADC Value: 0
+Voltage: 0.000 V
+Raw ADC Value: 0
+Voltage: 0.000 V
+Raw ADC Value: 0
+Voltage: 0.000 V
+Raw ADC Value: 0
+Voltage: 0.000 V
+Raw ADC Value: 0
+Voltage: 0.000 V
+Raw ADC Value: 0
+Voltage: 0.000 V
+Raw ADC Value: 22
+Voltage: 0.018 V
+Raw ADC Value: 0
+Voltage: 0.000 V
+Raw ADC Value: 0
+Voltage: 0.000 V
+Raw ADC Value: 0
+Voltage: 0.000 V
+Raw ADC Value: 0
+Voltage: 0.000 V
+Raw ADC Value: 0
+Voltage: 0.000 V
+Raw ADC Value: 0
+Voltage: 0.000 V
+Raw ADC Value: 0
+Voltage: 0.000 V
+Raw ADC Value: 0
+Voltage: 0.000 V
+Raw ADC Value: 0
+Voltage: 0.000 V
+Raw ADC Value: 0
+Voltage: 0.000 V
+Raw ADC Value: 0
+Voltage: 0.000 V
+Raw ADC Value: 0
+Voltage: 0.000 V
+Raw ADC Value: 0
+Voltage: 0.000 V
+Raw ADC Value: 0
+Voltage: 0.000 V
+Raw ADC Value: 0
+Voltage: 0.000 V
+Raw ADC Value: 0
+Voltage: 0.000 V
+Raw ADC Value: 0
+Voltage: 0.000 V
+Raw ADC Value: 0
+Voltage: 0.000 V
+Raw ADC Value: 0
+Voltage: 0.000 V
+Raw ADC Value: 0
+Voltage: 0.000 V
+Raw ADC Value: 0
+Voltage: 0.000 V
+Raw ADC Value: 0
+Voltage: 0.000 V
+Raw ADC Value: 2
+Voltage: 0.002 V
+Raw ADC Value: 0
+Voltage: 0.000 V
+Raw ADC Value: 0
+Voltage: 0.000 V
+Raw ADC Value: 0
+Voltage: 0.000 V
+Raw ADC Value: 0
+Voltage: 0.000 V
+Raw ADC Value: 0
+Voltage: 0.000 V
+Raw ADC Value: 0
+Voltage: 0.000 V
+Raw ADC Value: 0
+Voltage: 0.000 V
+Raw ADC Value: 0
+Voltage: 0.000 V
+Raw ADC Value: 0
+Voltage: 0.000 V
+Raw ADC Value: 0
+Voltage: 0.000 V
+Raw ADC Value: 0
+Voltage: 0.000 V
+Raw ADC Value: 0
+Voltage: 0.000 V
+Raw ADC Value: 0
+Voltage: 0.000 V
+Raw ADC Value: 0
+Voltage: 0.000 V
+Raw ADC Value: 0
+Voltage: 0.000 V
+Raw ADC Value: 0
+Voltage: 0.000 V
+Raw ADC Value: 0
+Voltage: 0.000 V
+Raw ADC Value: 0
+Voltage: 0.000 V
+Raw ADC Value: 0
+Voltage: 0.000 V
+Raw ADC Value: 0
+Voltage: 0.000 V
+Raw ADC Value: 0
+Voltage: 0.000 V
+Raw ADC Value: 0
+Voltage: 0.000 V
+Raw ADC Value: 0
+Voltage: 0.000 V
+Raw ADC Value: 0
+Voltage: 0.000 V
+Raw ADC Value: 0
+Voltage: 0.000 V
+Raw ADC Value: 0
+Voltage: 0.000 V
+Raw ADC Value: 0
+Voltage: 0.000 V
+Raw ADC Value: 0
+Voltage: 0.000 V
+Raw ADC Value: 0
+Voltage: 0.000 V
+Raw ADC Value: 0
+Voltage: 0.000 V
+Raw ADC Value: 0
+Voltage: 0.000 V
+Raw ADC Value: 0
+Voltage: 0.000 V
+Raw ADC Value: 0
+Voltage: 0.000 V
+Raw ADC Value: 0
+Voltage: 0.000 V
+Raw ADC Value: 0
+Voltage: 0.000 V
+Raw ADC Value: 0
+Voltage: 0.000 V
+Raw ADC Value: 0
+Voltage: 0.000 V
+Raw ADC Value: 0
+Voltage: 0.000 V
+Raw ADC Value: 0
+Voltage: 0.000 V
+Raw ADC Value: 0
+Voltage: 0.000 V
+Raw ADC Value: 0
+Voltage: 0.000 V
+Raw ADC Value: 0
+Voltage: 0.000 V
+Raw ADC Value: 0
+Voltage: 0.000 V
+Raw ADC Value: 0
+Voltage: 0.000 V
+Raw ADC Value: 0
+Voltage: 0.000 V
+Raw ADC Value: 0
+Voltage: 0.000 V
+Raw ADC Value: 0
+Voltage: 0.000 V
+Raw ADC Value: 0
+Voltage: 0.000 V
+Raw ADC Value: 0
+Voltage: 0.000 V
+Raw ADC Value: 0
+Voltage: 0.000 V
+Raw ADC Value: 0
+Voltage: 0.000 V
+Raw ADC Value: 0
+Voltage: 0.000 V
+Raw ADC Value: 0
+Voltage: 0.000 V
+Raw ADC Value: 2
+Voltage: 0.002 V
+Raw ADC Value: 0
+Voltage: 0.000 V
+Raw ADC Value: 0
+Voltage: 0.000 V
+Raw ADC Value: 0
+Voltage: 0.000 V
+Raw ADC Value: 0
+Voltage: 0.000 V
+Raw ADC Value: 0
+Voltage: 0.000 V
+Raw ADC Value: 0
+Voltage: 0.000 V
+Raw ADC Value: 0
+Voltage: 0.000 V
+Raw ADC Value: 0
+Voltage: 0.000 V
+Raw ADC Value: 0
+Voltage: 0.000 V
+Raw ADC Value: 0
+Voltage: 0.000 V
+Raw ADC Value: 0
+Voltage: 0.000 V
+Raw ADC Value: 0
+Voltage: 0.000 V
+Raw ADC Value: 0
+Voltage: 0.000 V
+Raw ADC Value: 0
+Voltage: 0.000 V
+Raw ADC Value: 0
+Voltage: 0.000 V
+Raw ADC Value: 0
+Voltage: 0.000 V
+Raw ADC Value: 0
+Voltage: 0.000 V
+Raw ADC Value: 0
+Voltage: 0.000 V
+Raw ADC Value: 0
+Voltage: 0.000 V
+Raw ADC Value: 0
+Voltage: 0.000 V
+Raw ADC Value: 0
+Voltage: 0.000 V
+Raw ADC Value: 0
+Voltage: 0.000 V
+Raw ADC Value: 0
+Voltage: 0.000 V
+Raw ADC Value: 0
+Voltage: 0.000 V
+Raw ADC Value: 0
+Voltage: 0.000 V
+Raw ADC Value: 0
+Voltage: 0.000 V
+Raw ADC Value: 0
+Voltage: 0.000 V
+Raw ADC Value: 0
+Voltage: 0.000 V
+Raw ADC Value: 0
+Voltage: 0.000 V
+Raw ADC Value: 0
+Voltage: 0.000 V
+Raw ADC Value: 0
+Voltage: 0.000 V
+Raw ADC Value: 0
+Voltage: 0.000 V
+Raw ADC Value: 0
+Voltage: 0.000 V
+Raw ADC Value: 0
+Voltage: 0.000 V
+Raw ADC Value: 0
+Voltage: 0.000 V
+Raw ADC Value: 0
+Voltage: 0.000 V
+Raw ADC Value: 0
+Voltage: 0.000 V
+Raw ADC Value: 0
+Voltage: 0.000 V
+Raw ADC Value: 0
+Voltage: 0.000 V
+Raw ADC Value: 0
+Voltage: 0.000 V
+Raw ADC Value: 0
+Voltage: 0.000 V
+Raw ADC Value: 0
+Voltage: 0.000 V
+Raw ADC Value: 0
+Voltage: 0.000 V
+Raw ADC Value: 0
+Voltage: 0.000 V
+Raw ADC Value: 0
+Voltage: 0.000 V
+Raw ADC Value: 0
+Voltage: 0.000 V
+Raw ADC Value: 0
+Voltage: 0.000 V
+Raw ADC Value: 0
+Voltage: 0.000 V
+Raw ADC Value: 0
+Voltage: 0.000 V
+Raw ADC Value: 0
+Voltage: 0.000 V
+Raw ADC Value: 0
+Voltage: 0.000 V
+Raw ADC Value: 0
+Voltage: 0.000 V
+Raw ADC Value: 0
+Voltage: 0.000 V
+Raw ADC Value: 0
+Voltage: 0.000 V
+Raw ADC Value: 0
+Voltage: 0.000 V
+Raw ADC Value: 0
+Voltage: 0.000 V
+Raw ADC Value: 0
+Voltage: 0.000 V
+Raw ADC Value: 0
+Voltage: 0.000 V
+Raw ADC Value: 0
+Voltage: 0.000 V
+Raw ADC Value: 0
+Voltage: 0.000 V
+Raw ADC Value: 0
+Voltage: 0.000 V
+Raw ADC Value: 0
+Voltage: 0.000 V
+Raw ADC Value: 0
+Voltage: 0.000 V
+Raw ADC Value: 0
+Voltage: 0.000 V
+Raw ADC Value: 0
+Voltage: 0.000 V
+Raw ADC Value: 0
+Voltage: 0.000 V
+Raw ADC Value: 0
+Voltage: 0.000 V
+Raw ADC Value: 0
+Voltage: 0.000 V
+Raw ADC Value: 0
+Voltage: 0.000 V
+Raw ADC Value: 0
+Voltage: 0.000 V
+Raw ADC Value: 0
+Voltage: 0.000 V
+Raw ADC Value: 0
+Voltage: 0.000 V
+Raw ADC Value: 0
+Voltage: 0.000 V
+Raw ADC Value: 34
+Voltage: 0.027 V
+Raw ADC Value: 0
+Voltage: 0.000 V
+Raw ADC Value: 0
+Voltage: 0.000 V
+Raw ADC Value: 0
+Voltage: 0.000 V
+Raw ADC Value: 0
+Voltage: 0.000 V
+Raw ADC Value: 47
+Voltage: 0.038 V
+Raw ADC Value: 0
+Voltage: 0.000 V
+Raw ADC Value: 1
+Voltage: 0.001 V
+Raw ADC Value: 0
+Voltage: 0.000 V
+Raw ADC Value: 0
+Voltage: 0.000 V
+Raw ADC Value: 0
+Voltage: 0.000 V
+Raw ADC Value: 0
+Voltage: 0.000 V
+Raw ADC Value: 0
+Voltage: 0.000 V
+Raw ADC Value: 0
+Voltage: 0.000 V
+Raw ADC Value: 0
+Voltage: 0.000 V
+Raw ADC Value: 0
+Voltage: 0.000 V
+Raw ADC Value: 0
+Voltage: 0.000 V
+Raw ADC Value: 0
+Voltage: 0.000 V
+Raw ADC Value: 0
+Voltage: 0.000 V
+Raw ADC Value: 0
+Voltage: 0.000 V
+Raw ADC Value: 0
+Voltage: 0.000 V
+Raw ADC Value: 0
+Voltage: 0.000 V
+Raw ADC Value: 47
+Voltage: 0.038 V
+Raw ADC Value: 0
+Voltage: 0.000 V
+Raw ADC Value: 0
+Voltage: 0.000 V
+Raw ADC Value: 0
+Voltage: 0.000 V
+Raw ADC Value: 0
+Voltage: 0.000 V
+Raw ADC Value: 25
+Voltage: 0.020 V
+Raw ADC Value: 0
+Voltage: 0.000 V
+Raw ADC Value: 0
+Voltage: 0.000 V
+Raw ADC Value: 0
+Voltage: 0.000 V
+Raw ADC Value: 8
+Voltage: 0.006 V
+Raw ADC Value: 0
+Voltage: 0.000 V
+Raw ADC Value: 0
+Voltage: 0.000 V
+Raw ADC Value: 0
+Voltage: 0.000 V
+Raw ADC Value: 0
+Voltage: 0.000 V
+Raw ADC Value: 0
+Voltage: 0.000 V
+Raw ADC Value: 0
+Voltage: 0.000 V
+Raw ADC Value: 0
+Voltage: 0.000 V
+Raw ADC Value: 0
+Voltage: 0.000 V
+Raw ADC Value: 0
+Voltage: 0.000 V
+Raw ADC Value: 0
+Voltage: 0.000 V
+Raw ADC Value: 0
+Voltage: 0.000 V
+Raw ADC Value: 0
+Voltage: 0.000 V
+Raw ADC Value: 0
+Voltage: 0.000 V
+Raw ADC Value: 0
+Voltage: 0.000 V
+Raw ADC Value: 0
+Voltage: 0.000 V
+Raw ADC Value: 0
+Voltage: 0.000 V
+Raw ADC Value: 0
+Voltage: 0.000 V
+Raw ADC Value: 0
+Voltage: 0.000 V
+Raw ADC Value: 0
+Voltage: 0.000 V
+Raw ADC Value: 0
+Voltage: 0.000 V
+Raw ADC Value: 0
+Voltage: 0.000 V
+Raw ADC Value: 0
+Voltage: 0.000 V
+Raw ADC Value: 0
+Voltage: 0.000 V
+Raw ADC Value: 0
+Voltage: 0.000 V
+Raw ADC Value: 0
+Voltage: 0.000 V
+Raw ADC Value: 0
+Voltage: 0.000 V
+Raw ADC Value: 0
+Voltage: 0.000 V
+Raw ADC Value: 0
+Voltage: 0.000 V
+Raw ADC Value: 0
+Voltage: 0.000 V
+Raw ADC Value: 0
+Voltage: 0.000 V
+Raw ADC Value: 0
+Voltage: 0.000 V
+Raw ADC Value: 0
+Voltage: 0.000 V
+Raw ADC Value: 0
+Voltage: 0.000 V
+Raw ADC Value: 0
+Voltage: 0.000 V
+Raw ADC Value: 40
+Voltage: 0.032 V
+Raw ADC Value: 0
+Voltage: 0.000 V
+Raw ADC Value: 45
+Voltage: 0.036 V
+Raw ADC Value: 0
+Voltage: 0.000 V
+Raw ADC Value: 0
+Voltage: 0.000 V
+Raw ADC Value: 0
+Voltage: 0.000 V
+Raw ADC Value: 0
+Voltage: 0.000 V
+Raw ADC Value: 0
+Voltage: 0.000 V
+Raw ADC Value: 0
+Voltage: 0.000 V
+Raw ADC Value: 0
+Voltage: 0.000 V
+Raw ADC Value: 0
+Voltage: 0.000 V
+Raw ADC Value: 0
+Voltage: 0.000 V
+Raw ADC Value: 0
+Voltage: 0.000 V
+Raw ADC Value: 0
+Voltage: 0.000 V
+Raw ADC Value: 0
+Voltage: 0.000 V
+Raw ADC Value: 0
+Voltage: 0.000 V
+Raw ADC Value: 0
+Voltage: 0.000 V
+Raw ADC Value: 0
+Voltage: 0.000 V
+Raw ADC Value: 0
+Voltage: 0.000 V
+Raw ADC Value: 0
+Voltage: 0.000 V
+Raw ADC Value: 0
+Voltage: 0.000 V
+Raw ADC Value: 0
+Voltage: 0.000 V
+Raw ADC Value: 0
+Voltage: 0.000 V
+Raw ADC Value: 0
+Voltage: 0.000 V
+Raw ADC Value: 0
+Voltage: 0.000 V
+Raw ADC Value: 0
+Voltage: 0.000 V
+Raw ADC Value: 2
+Voltage: 0.002 V
+Raw ADC Value: 19
+Voltage: 0.015 V
+Raw ADC Value: 0
+Voltage: 0.000 V
+Raw ADC Value: 0
+Voltage: 0.000 V
+Raw ADC Value: 0
+Voltage: 0.000 V
+Raw ADC Value: 0
+Voltage: 0.000 V
+Raw ADC Value: 0
+Voltage: 0.000 V
+Raw ADC Value: 0
+Voltage: 0.000 V
+Raw ADC Value: 0
+Voltage: 0.000 V
+Raw ADC Value: 0
+Voltage: 0.000 V
+Raw ADC Value: 0
+Voltage: 0.000 V
+Raw ADC Value: 0
+Voltage: 0.000 V
+Raw ADC Value: 0
+Voltage: 0.000 V
+Raw ADC Value: 0
+Voltage: 0.000 V
+Raw ADC Value: 0
+Voltage: 0.000 V
+Raw ADC Value: 0
+Voltage: 0.000 V
+Raw ADC Value: 0
+Voltage: 0.000 V
+Raw ADC Value: 0
+Voltage: 0.000 V
+Raw ADC Value: 0
+Voltage: 0.000 V
+Raw ADC Value: 0
+Voltage: 0.000 V
+Raw ADC Value: 0
+Voltage: 0.000 V
+Raw ADC Value: 0
+Voltage: 0.000 V
+Raw ADC Value: 0
+Voltage: 0.000 V
+Raw ADC Value: 0
+Voltage: 0.000 V
+Raw ADC Value: 0
+Voltage: 0.000 V
+Raw ADC Value: 0
+Voltage: 0.000 V
+Raw ADC Value: 0
+Voltage: 0.000 V
+Raw ADC Value: 0
+Voltage: 0.000 V
+Raw ADC Value: 0
+Voltage: 0.000 V
+Raw ADC Value: 0
+Voltage: 0.000 V
+Raw ADC Value: 0
+Voltage: 0.000 V
+Raw ADC Value: 0
+Voltage: 0.000 V
+Raw ADC Value: 0
+Voltage: 0.000 V
+Raw ADC Value: 0
+Voltage: 0.000 V
+Raw ADC Value: 0
+Voltage: 0.000 V
+Raw ADC Value: 0
+Voltage: 0.000 V
+Raw ADC Value: 0
+Voltage: 0.000 V
+Raw ADC Value: 0
+Voltage: 0.000 V
+Raw ADC Value: 0
+Voltage: 0.000 V
+Raw ADC Value: 0
+Voltage: 0.000 V
+Raw ADC Value: 0
+Voltage: 0.000 V
+Raw ADC Value: 0
+Voltage: 0.000 V
+Raw ADC Value: 0
+Voltage: 0.000 V
+Raw ADC Value: 0
+Voltage: 0.000 V
+Raw ADC Value: 0
+Voltage: 0.000 V
+Raw ADC Value: 0
+Voltage: 0.000 V
+Raw ADC Value: 0
+Voltage: 0.000 V
+Raw ADC Value: 0
+Voltage: 0.000 V
+Raw ADC Value: 0
+Voltage: 0.000 V
+Raw ADC Value: 0
+Voltage: 0.000 V
+Raw ADC Value: 0
+Voltage: 0.000 V
+Raw ADC Value: 0
+Voltage: 0.000 V
+Raw ADC Value: 0
+Voltage: 0.000 V
+Raw ADC Value: 0
+Voltage: 0.000 V
+Raw ADC Value: 0
+Voltage: 0.000 V
+Raw ADC Value: 0
+Voltage: 0.000 V
+Raw ADC Value: 0
+Voltage: 0.000 V
+Raw ADC Value: 0
+Voltage: 0.000 V
+Raw ADC Value: 78
+Voltage: 0.063 V
+Raw ADC Value: 0
+Voltage: 0.000 V
+Raw ADC Value: 0
+Voltage: 0.000 V
+Raw ADC Value: 0
+Voltage: 0.000 V
+Raw ADC Value: 0
+Voltage: 0.000 V
+Raw ADC Value: 0
+Voltage: 0.000 V
+Raw ADC Value: 0
+Voltage: 0.000 V
+Raw ADC Value: 0
+Voltage: 0.000 V
+Raw ADC Value: 0
+Voltage: 0.000 V
+Raw ADC Value: 0
+Voltage: 0.000 V
+Raw ADC Value: 0
+Voltage: 0.000 V
+Raw ADC Value: 0
+Voltage: 0.000 V
+Raw ADC Value: 0
+Voltage: 0.000 V
+Raw ADC Value: 0
+Voltage: 0.000 V
+Raw ADC Value: 0
+Voltage: 0.000 V
+Raw ADC Value: 0
+Voltage: 0.000 V
+Raw ADC Value: 10
+Voltage: 0.008 V
+Raw ADC Value: 0
+Voltage: 0.000 V
+Raw ADC Value: 0
+Voltage: 0.000 V
+Raw ADC Value: 39
+Voltage: 0.031 V
+Raw ADC Value: 0
+Voltage: 0.000 V
+Raw ADC Value: 0
+Voltage: 0.000 V
+Raw ADC Value: 0
+Voltage: 0.000 V
+Raw ADC Value: 0
+Voltage: 0.000 V
+Raw ADC Value: 0
+Voltage: 0.000 V
+Raw ADC Value: 0
+Voltage: 0.000 V
+Raw ADC Value: 0
+Voltage: 0.000 V
+Raw ADC Value: 0
+Voltage: 0.000 V
+Raw ADC Value: 0
+Voltage: 0.000 V
+Raw ADC Value: 0
+Voltage: 0.000 V
+Raw ADC Value: 0
+Voltage: 0.000 V
+Raw ADC Value: 0
+Voltage: 0.000 V
+Raw ADC Value: 0
+Voltage: 0.000 V
+Raw ADC Value: 0
+Voltage: 0.000 V
+Raw ADC Value: 0
+Voltage: 0.000 V
+Raw ADC Value: 0
+Voltage: 0.000 V
+Raw ADC Value: 0
+Voltage: 0.000 V
+Raw ADC Value: 45
+Voltage: 0.036 V
+Raw ADC Value: 0
+Voltage: 0.000 V
+Raw ADC Value: 0
+Voltage: 0.000 V
+Raw ADC Value: 0
+Voltage: 0.000 V
+Raw ADC Value: 0
+Voltage: 0.000 V
+Raw ADC Value: 0
+Voltage: 0.000 V
+Raw ADC Value: 0
+Voltage: 0.000 V
+Raw ADC Value: 0
+Voltage: 0.000 V
+Raw ADC Value: 0
+Voltage: 0.000 V
+Raw ADC Value: 0
+Voltage: 0.000 V
+Raw ADC Value: 0
+Voltage: 0.000 V
+Raw ADC Value: 0
+Voltage: 0.000 V
+Raw ADC Value: 0
+Voltage: 0.000 V
+Raw ADC Value: 0
+Voltage: 0.000 V
+Raw ADC Value: 0
+Voltage: 0.000 V
+Raw ADC Value: 0
+Voltage: 0.000 V
+Raw ADC Value: 21
+Voltage: 0.017 V
+Raw ADC Value: 0
+Voltage: 0.000 V
+Raw ADC Value: 0
+Voltage: 0.000 V
+Raw ADC Value: 0
+Voltage: 0.000 V
+Raw ADC Value: 7
+Voltage: 0.006 V
+Raw ADC Value: 51
+Voltage: 0.041 V
+Raw ADC Value: 0
+Voltage: 0.000 V
+Raw ADC Value: 1
+Voltage: 0.001 V
+Raw ADC Value: 0
+Voltage: 0.000 V
+Raw ADC Value: 0
+Voltage: 0.000 V
+Raw ADC Value: 0
+Voltage: 0.000 V
+Raw ADC Value: 1
+Voltage: 0.001 V
+Raw ADC Value: 2
+Voltage: 0.002 V
+Raw ADC Value: 0
+Voltage: 0.000 V
+Raw ADC Value: 2
+Voltage: 0.002 V
+Raw ADC Value: 0
+Voltage: 0.000 V
+Raw ADC Value: 21
+Voltage: 0.017 V
+Raw ADC Value: 0
+Voltage: 0.000 V
+Raw ADC Value: 0
+Voltage: 0.000 V
+Raw ADC Value: 2
+Voltage: 0.002 V
+Raw ADC Value: 0
+Voltage: 0.000 V
+Raw ADC Value: 0
+Voltage: 0.000 V
+Raw ADC Value: 0
+Voltage: 0.000 V
+Raw ADC Value: 4
+Voltage: 0.003 V
+Raw ADC Value: 2
+Voltage: 0.002 V
+Raw ADC Value: 0
+Voltage: 0.000 V
+Raw ADC Value: 6
+Voltage: 0.005 V
+Raw ADC Value: 3
+Voltage: 0.002 V
+Raw ADC Value: 0
+Voltage: 0.000 V
+Raw ADC Value: 0
+Voltage: 0.000 V
+Raw ADC Value: 4
+Voltage: 0.003 V
+Raw ADC Value: 3
+Voltage: 0.002 V
+Raw ADC Value: 17
+Voltage: 0.014 V
+Raw ADC Value: 2
+Voltage: 0.002 V
+Raw ADC Value: 0
+Voltage: 0.000 V
+Raw ADC Value: 0
+Voltage: 0.000 V
+Raw ADC Value: 2
+Voltage: 0.002 V
+Raw ADC Value: 0
+Voltage: 0.000 V
+Raw ADC Value: 2
+Voltage: 0.002 V
+Raw ADC Value: 0
+Voltage: 0.000 V
+Raw ADC Value: 0
+Voltage: 0.000 V
+Raw ADC Value: 10
+Voltage: 0.008 V
+Raw ADC Value: 22
+Voltage: 0.018 V
+Raw ADC Value: 3
+Voltage: 0.002 V
+Raw ADC Value: 21
+Voltage: 0.017 V
+Raw ADC Value: 3
+Voltage: 0.002 V
+Raw ADC Value: 0
+Voltage: 0.000 V
+Raw ADC Value: 0
+Voltage: 0.000 V
+Raw ADC Value: 0
+Voltage: 0.000 V
+Raw ADC Value: 0
+Voltage: 0.000 V
+Raw ADC Value: 1
+Voltage: 0.001 V
+Raw ADC Value: 2
+Voltage: 0.002 V
+Raw ADC Value: 2
+Voltage: 0.002 V
+Raw ADC Value: 2
+Voltage: 0.002 V
+Raw ADC Value: 0
+Voltage: 0.000 V
+Raw ADC Value: 0
+Voltage: 0.000 V
+Raw ADC Value: 0
+Voltage: 0.000 V
+Raw ADC Value: 0
+Voltage: 0.000 V
+Raw ADC Value: 2
+Voltage: 0.002 V
+Raw ADC Value: 0
+Voltage: 0.000 V
+Raw ADC Value: 2
+Voltage: 0.002 V
+Raw ADC Value: 0
+Voltage: 0.000 V
+Raw ADC Value: 0
+Voltage: 0.000 V
+Raw ADC Value: 2
+Voltage: 0.002 V
+Raw ADC Value: 0
+Voltage: 0.000 V
+Raw ADC Value: 4
+Voltage: 0.003 V
+Raw ADC Value: 0
+Voltage: 0.000 V
+Raw ADC Value: 2
+Voltage: 0.002 V
+Raw ADC Value: 0
+Voltage: 0.000 V
+Raw ADC Value: 0
+Voltage: 0.000 V
+Raw ADC Value: 4
+Voltage: 0.003 V
+Raw ADC Value: 3
+Voltage: 0.002 V
+Raw ADC Value: 0
+Voltage: 0.000 V
+Raw ADC Value: 3
+Voltage: 0.002 V
+Raw ADC Value: 1
+Voltage: 0.001 V
+Raw ADC Value: 2
+Voltage: 0.002 V
+Raw ADC Value: 10
+Voltage: 0.008 V
+Raw ADC Value: 0
+Voltage: 0.000 V
+Raw ADC Value: 0
+Voltage: 0.000 V
+Raw ADC Value: 5
+Voltage: 0.004 V
+Raw ADC Value: 0
+Voltage: 0.000 V
+Raw ADC Value: 0
+Voltage: 0.000 V
+Raw ADC Value: 12
+Voltage: 0.010 V
+Raw ADC Value: 0
+Voltage: 0.000 V
+Raw ADC Value: 0
+Voltage: 0.000 V
+Raw ADC Value: 0
+Voltage: 0.000 V
+Raw ADC Value: 0
+Voltage: 0.000 V
+Raw ADC Value: 1
+Voltage: 0.001 V
+Raw ADC Value: 3
+Voltage: 0.002 V
+Raw ADC Value: 3
+Voltage: 0.002 V
+Raw ADC Value: 18
+Voltage: 0.015 V
+Raw ADC Value: 0
+Voltage: 0.000 V
+Raw ADC Value: 0
+Voltage: 0.000 V
+Raw ADC Value: 0
+Voltage: 0.000 V
+Raw ADC Value: 2
+Voltage: 0.002 V
+Raw ADC Value: 1
+Voltage: 0.001 V
+Raw ADC Value: 2
+Voltage: 0.002 V
+Raw ADC Value: 1
+Voltage: 0.001 V
+Raw ADC Value: 0
+Voltage: 0.000 V
+Raw ADC Value: 0
+Voltage: 0.000 V
+Raw ADC Value: 1
+Voltage: 0.001 V
+Raw ADC Value: 0
+Voltage: 0.000 V
+Raw ADC Value: 0
+Voltage: 0.000 V
+Raw ADC Value: 2
+Voltage: 0.002 V
+Raw ADC Value: 11
+Voltage: 0.009 V
+Raw ADC Value: 8
+Voltage: 0.006 V
+Raw ADC Value: 0
+Voltage: 0.000 V
+Raw ADC Value: 8
+Voltage: 0.006 V
+Raw ADC Value: 3
+Voltage: 0.002 V
+Raw ADC Value: 15
+Voltage: 0.012 V
+Raw ADC Value: 6
+Voltage: 0.005 V
+Raw ADC Value: 0
+Voltage: 0.000 V
+Raw ADC Value: 26
+Voltage: 0.021 V
+Raw ADC Value: 5
+Voltage: 0.004 V
+Raw ADC Value: 4
+Voltage: 0.003 V
+Raw ADC Value: 0
+Voltage: 0.000 V
+Raw ADC Value: 1192
+Voltage: 0.961 V
+Raw ADC Value: 10
+Voltage: 0.008 V
+Raw ADC Value: 3
+Voltage: 0.002 V
+Raw ADC Value: 0
+Voltage: 0.000 V
+Raw ADC Value: 21
+Voltage: 0.017 V
+Raw ADC Value: 0
+Voltage: 0.000 V
+Raw ADC Value: 0
+Voltage: 0.000 V
+Raw ADC Value: 0
+Voltage: 0.000 V
+Raw ADC Value: 0
+Voltage: 0.000 V
+Raw ADC Value: 0
+Voltage: 0.000 V
+Raw ADC Value: 23
+Voltage: 0.019 V
+Raw ADC Value: 17
+Voltage: 0.014 V
+Raw ADC Value: 0
+Voltage: 0.000 V
+Raw ADC Value: 0
+Voltage: 0.000 V
+Raw ADC Value: 0
+Voltage: 0.000 V
+Raw ADC Value: 0
+Voltage: 0.000 V
+Raw ADC Value: 13
+Voltage: 0.010 V
+Raw ADC Value: 0
+Voltage: 0.000 V
+Raw ADC Value: 0
+Voltage: 0.000 V
+Raw ADC Value: 0
+Voltage: 0.000 V
+Raw ADC Value: 0
+Voltage: 0.000 V
+Raw ADC Value: 0
+Voltage: 0.000 V
+Raw ADC Value: 0
+Voltage: 0.000 V
+Raw ADC Value: 0
+Voltage: 0.000 V
+Raw ADC Value: 0
+Voltage: 0.000 V
+Raw ADC Value: 0
+Voltage: 0.000 V
+Raw ADC Value: 0
+Voltage: 0.000 V
+Raw ADC Value: 0
+Voltage: 0.000 V
+Raw ADC Value: 0
+Voltage: 0.000 V
+Raw ADC Value: 0
+Voltage: 0.000 V
+Raw ADC Value: 0
+Voltage: 0.000 V
+Raw ADC Value: 0
+Voltage: 0.000 V
+Raw ADC Value: 0
+Voltage: 0.000 V
+Raw ADC Value: 0
+Voltage: 0.000 V
+Raw ADC Value: 0
+Voltage: 0.000 V
+Raw ADC Value: 0
+Voltage: 0.000 V
+Raw ADC Value: 0
+Voltage: 0.000 V
+Raw ADC Value: 4
+Voltage: 0.003 V
+Raw ADC Value: 0
+Voltage: 0.000 V
+Raw ADC Value: 0
+Voltage: 0.000 V
+Raw ADC Value: 0
+Voltage: 0.000 V
+Raw ADC Value: 0
+Voltage: 0.000 V
+Raw ADC Value: 59
+Voltage: 0.048 V
+Raw ADC Value: 0
+Voltage: 0.000 V
+Raw ADC Value: 0
+Voltage: 0.000 V
+Raw ADC Value: 0
+Voltage: 0.000 V
+Raw ADC Value: 3
+Voltage: 0.002 V
+Raw ADC Value: 0
+Voltage: 0.000 V
+Raw ADC Value: 0
+Voltage: 0.000 V
+Raw ADC Value: 0
+Voltage: 0.000 V
+Raw ADC Value: 0
+Voltage: 0.000 V
+Raw ADC Value: 0
+Voltage: 0.000 V
+Raw ADC Value: 0
+Voltage: 0.000 V
+Raw ADC Value: 0
+Voltage: 0.000 V
+Raw ADC Value: 0
+Voltage: 0.000 V
+Raw ADC Value: 0
+Voltage: 0.000 V
+Raw ADC Value: 0
+Voltage: 0.000 V
+Raw ADC Value: 0
+Voltage: 0.000 V
+Raw ADC Value: 0
+Voltage: 0.000 V
+Raw ADC Value: 0
+Voltage: 0.000 V
+Raw ADC Value: 0
+Voltage: 0.000 V
+Raw ADC Value: 0
+Voltage: 0.000 V
+Raw ADC Value: 42
+Voltage: 0.034 V
+Raw ADC Value: 0
+Voltage: 0.000 V
+Raw ADC Value: 0
+Voltage: 0.000 V
+Raw ADC Value: 0
+Voltage: 0.000 V
+Raw ADC Value: 0
+Voltage: 0.000 V
+Raw ADC Value: 0
+Voltage: 0.000 V
+Raw ADC Value: 0
+Voltage: 0.000 V
+Raw ADC Value: 0
+Voltage: 0.000 V
+Raw ADC Value: 0
+Voltage: 0.000 V
+Raw ADC Value: 0
+Voltage: 0.000 V
+Raw ADC Value: 0
+Voltage: 0.000 V
+Raw ADC Value: 0
+Voltage: 0.000 V
+Raw ADC Value: 0
+Voltage: 0.000 V
+Raw ADC Value: 0
+Voltage: 0.000 V
+Raw ADC Value: 0
+Voltage: 0.000 V
+Raw ADC Value: 0
+Voltage: 0.000 V
+Raw ADC Value: 15
+Voltage: 0.012 V
+Raw ADC Value: 0
+Voltage: 0.000 V
+Raw ADC Value: 0
+Voltage: 0.000 V
+Raw ADC Value: 0
+Voltage: 0.000 V
+Raw ADC Value: 0
+Voltage: 0.000 V
+Raw ADC Value: 0
+Voltage: 0.000 V
+Raw ADC Value: 0
+Voltage: 0.000 V
+Raw ADC Value: 0
+Voltage: 0.000 V
+Raw ADC Value: 0
+Voltage: 0.000 V
+Raw ADC Value: 0
+Voltage: 0.000 V
+Raw ADC Value: 0
+Voltage: 0.000 V
+Raw ADC Value: 0
+Voltage: 0.000 V
+Raw ADC Value: 0
+Voltage: 0.000 V
+Raw ADC Value: 0
+Voltage: 0.000 V
+Raw ADC Value: 0
+Voltage: 0.000 V
+Raw ADC Value: 0
+Voltage: 0.000 V
+Raw ADC Value: 0
+Voltage: 0.000 V
+Raw ADC Value: 0
+Voltage: 0.000 V
+Raw ADC Value: 0
+Voltage: 0.000 V
+Raw ADC Value: 19
+Voltage: 0.015 V
+Raw ADC Value: 0
+Voltage: 0.000 V
+Raw ADC Value: 0
+Voltage: 0.000 V
+Raw ADC Value: 0
+Voltage: 0.000 V
+Raw ADC Value: 4
+Voltage: 0.003 V
+Raw ADC Value: 0
+Voltage: 0.000 V
+Raw ADC Value: 0
+Voltage: 0.000 V
+Raw ADC Value: 0
+Voltage: 0.000 V
+Raw ADC Value: 0
+Voltage: 0.000 V
+Raw ADC Value: 0
+Voltage: 0.000 V
+Raw ADC Value: 0
+Voltage: 0.000 V
+Raw ADC Value: 0
+Voltage: 0.000 V
+Raw ADC Value: 0
+Voltage: 0.000 V
+Raw ADC Value: 0
+Voltage: 0.000 V
+Raw ADC Value: 0
+Voltage: 0.000 V
+Raw ADC Value: 0
+Voltage: 0.000 V
+Raw ADC Value: 0
+Voltage: 0.000 V
+Raw ADC Value: 0
+Voltage: 0.000 V
+Raw ADC Value: 0
+Voltage: 0.000 V
+Raw ADC Value: 0
+Voltage: 0.000 V
+Raw ADC Value: 0
+Voltage: 0.000 V
+Raw ADC Value: 0
+Voltage: 0.000 V
+Raw ADC Value: 0
+Voltage: 0.000 V
+Raw ADC Value: 0
+Voltage: 0.000 V
+Raw ADC Value: 0
+Voltage: 0.000 V
+Raw ADC Value: 0
+Voltage: 0.000 V
+Raw ADC Value: 0
+Voltage: 0.000 V
+Raw ADC Value: 0
+Voltage: 0.000 V
+Raw ADC Value: 0
+Voltage: 0.000 V
+Raw ADC Value: 0
+Voltage: 0.000 V
+Raw ADC Value: 0
+Voltage: 0.000 V
+Raw ADC Value: 0
+Voltage: 0.000 V
+Raw ADC Value: 0
+Voltage: 0.000 V
+Raw ADC Value: 0
+Voltage: 0.000 V
+Raw ADC Value: 5
+Voltage: 0.004 V
+Raw ADC Value: 0
+Voltage: 0.000 V
+Raw ADC Value: 0
+Voltage: 0.000 V
+Raw ADC Value: 0
+Voltage: 0.000 V
+Raw ADC Value: 0
+Voltage: 0.000 V
+Raw ADC Value: 0
+Voltage: 0.000 V
+Raw ADC Value: 0
+Voltage: 0.000 V
+Raw ADC Value: 0
+Voltage: 0.000 V
+Raw ADC Value: 0
+Voltage: 0.000 V
+Raw ADC Value: 37
+Voltage: 0.030 V
+Raw ADC Value: 0
+Voltage: 0.000 V
+Raw ADC Value: 0
+Voltage: 0.000 V
+Raw ADC Value: 0
+Voltage: 0.000 V
+Raw ADC Value: 0
+Voltage: 0.000 V
+Raw ADC Value: 0
+Voltage: 0.000 V
+Raw ADC Value: 0
+Voltage: 0.000 V
+Raw ADC Value: 20
+Voltage: 0.016 V
+Raw ADC Value: 0
+Voltage: 0.000 V
+Raw ADC Value: 0
+Voltage: 0.000 V
+Raw ADC Value: 0
+Voltage: 0.000 V
+Raw ADC Value: 0
+Voltage: 0.000 V
+Raw ADC Value: 0
+Voltage: 0.000 V
+Raw ADC Value: 0
+Voltage: 0.000 V
+Raw ADC Value: 0
+Voltage: 0.000 V
+Raw ADC Value: 0
+Voltage: 0.000 V
+Raw ADC Value: 0
+Voltage: 0.000 V
+Raw ADC Value: 0
+Voltage: 0.000 V
+Raw ADC Value: 0
+Voltage: 0.000 V
+Raw ADC Value: 0
+Voltage: 0.000 V
+Raw ADC Value: 0
+Voltage: 0.000 V
+Raw ADC Value: 0
+Voltage: 0.000 V
+Raw ADC Value: 0
+Voltage: 0.000 V
+Raw ADC Value: 0
+Voltage: 0.000 V
+Raw ADC Value: 66
+Voltage: 0.053 V
+Raw ADC Value: 0
+Voltage: 0.000 V
+Raw ADC Value: 0
+Voltage: 0.000 V
+Raw ADC Value: 0
+Voltage: 0.000 V
+Raw ADC Value: 0
+Voltage: 0.000 V
+Raw ADC Value: 0
+Voltage: 0.000 V
+Raw ADC Value: 0
+Voltage: 0.000 V
+Raw ADC Value: 0
+Voltage: 0.000 V
+Raw ADC Value: 0
+Voltage: 0.000 V
+Raw ADC Value: 0
+Voltage: 0.000 V
+Raw ADC Value: 0
+Voltage: 0.000 V
+Raw ADC Value: 0
+Voltage: 0.000 V
+Raw ADC Value: 0
+Voltage: 0.000 V
+Raw ADC Value: 0
+Voltage: 0.000 V
+Raw ADC Value: 0
+Voltage: 0.000 V
+Raw ADC Value: 0
+Voltage: 0.000 V
+Raw ADC Value: 0
+Voltage: 0.000 V
+Raw ADC Value: 0
+Voltage: 0.000 V
+Raw ADC Value: 0
+Voltage: 0.000 V
+Raw ADC Value: 0
+Voltage: 0.000 V
+Raw ADC Value: 0
+Voltage: 0.000 V
+Raw ADC Value: 0
+Voltage: 0.000 V
+Raw ADC Value: 0
+Voltage: 0.000 V
+Raw ADC Value: 0
+Voltage: 0.000 V
+Raw ADC Value: 0
+Voltage: 0.000 V
+Raw ADC Value: 0
+Voltage: 0.000 V
+Raw ADC Value: 0
+Voltage: 0.000 V
+Raw ADC Value: 0
+Voltage: 0.000 V
+Raw ADC Value: 0
+Voltage: 0.000 V
+Raw ADC Value: 0
+Voltage: 0.000 V
+Raw ADC Value: 0
+Voltage: 0.000 V
+Raw ADC Value: 0
+Voltage: 0.000 V
+Raw ADC Value: 0
+Voltage: 0.000 V
+Raw ADC Value: 0
+Voltage: 0.000 V
+Raw ADC Value: 0
+Voltage: 0.000 V
+Raw ADC Value: 0
+Voltage: 0.000 V
+Raw ADC Value: 0
+Voltage: 0.000 V
+Raw ADC Value: 0
+Voltage: 0.000 V
+Raw ADC Value: 0
+Voltage: 0.000 V
+Raw ADC Value: 0
+Voltage: 0.000 V
+Raw ADC Value: 0
+Voltage: 0.000 V
+Raw ADC Value: 0
+Voltage: 0.000 V
+Raw ADC Value: 0
+Voltage: 0.000 V
+Raw ADC Value: 0
+Voltage: 0.000 V
+Raw ADC Value: 0
+Voltage: 0.000 V
+Raw ADC Value: 0
+Voltage: 0.000 V
+Raw ADC Value: 0
+Voltage: 0.000 V
+Raw ADC Value: 0
+Voltage: 0.000 V
+Raw ADC Value: 0
+Voltage: 0.000 V
+Raw ADC Value: 0
+Voltage: 0.000 V
+Raw ADC Value: 30
+Voltage: 0.024 V
+Raw ADC Value: 0
+Voltage: 0.000 V
+Raw ADC Value: 0
+Voltage: 0.000 V
+Raw ADC Value: 0
+Voltage: 0.000 V
+Raw ADC Value: 0
+Voltage: 0.000 V
+Raw ADC Value: 0
+Voltage: 0.000 V
+Raw ADC Value: 0
+Voltage: 0.000 V
+Raw ADC Value: 0
+Voltage: 0.000 V
+Raw ADC Value: 0
+Voltage: 0.000 V
+Raw ADC Value: 0
+Voltage: 0.000 V
+Raw ADC Value: 0
+Voltage: 0.000 V
+Raw ADC Value: 0
+Voltage: 0.000 V
+Raw ADC Value: 0
+Voltage: 0.000 V
+Raw ADC Value: 0
+Voltage: 0.000 V
+Raw ADC Value: 0
+Voltage: 0.000 V
+Raw ADC Value: 0
+Voltage: 0.000 V
+Raw ADC Value: 0
+Voltage: 0.000 V
+Raw ADC Value: 0
+Voltage: 0.000 V
+Raw ADC Value: 0
+Voltage: 0.000 V
+Raw ADC Value: 0
+Voltage: 0.000 V
+Raw ADC Value: 0
+Voltage: 0.000 V
+Raw ADC Value: 0
+Voltage: 0.000 V
+Raw ADC Value: 0
+Voltage: 0.000 V
+Raw ADC Value: 0
+Voltage: 0.000 V
+Raw ADC Value: 0
+Voltage: 0.000 V
+Raw ADC Value: 0
+Voltage: 0.000 V
+Raw ADC Value: 0
+Voltage: 0.000 V
+Raw ADC Value: 0
+Voltage: 0.000 V
+Raw ADC Value: 0
+Voltage: 0.000 V
+Raw ADC Value: 0
+Voltage: 0.000 V
+Raw ADC Value: 0
+Voltage: 0.000 V
+Raw ADC Value: 0
+Voltage: 0.000 V
+Raw ADC Value: 0
+Voltage: 0.000 V
+Raw ADC Value: 0
+Voltage: 0.000 V
+Raw ADC Value: 0
+Voltage: 0.000 V
+Raw ADC Value: 0
+Voltage: 0.000 V
+Raw ADC Value: 0
+Voltage: 0.000 V
+Raw ADC Value: 0
+Voltage: 0.000 V
+Raw ADC Value: 0
+Voltage: 0.000 V
+Raw ADC Value: 0
+Voltage: 0.000 V
+Raw ADC Value: 0
+Voltage: 0.000 V
+Raw ADC Value: 0
+Voltage: 0.000 V
+Raw ADC Value: 1171
+Voltage: 0.944 V
+Raw ADC Value: 0
+Voltage: 0.000 V
+Raw ADC Value: 0
+Voltage: 0.000 V
+Raw ADC Value: 0
+Voltage: 0.000 V
+Raw ADC Value: 0
+Voltage: 0.000 V
+Raw ADC Value: 0
+Voltage: 0.000 V
+Raw ADC Value: 0
+Voltage: 0.000 V
+Raw ADC Value: 0
+Voltage: 0.000 V
+Raw ADC Value: 0
+Voltage: 0.000 V
+Raw ADC Value: 0
+Voltage: 0.000 V
+Raw ADC Value: 0
+Voltage: 0.000 V
+Raw ADC Value: 0
+Voltage: 0.000 V
+Raw ADC Value: 0
+Voltage: 0.000 V
+Raw ADC Value: 0
+Voltage: 0.000 V
+Raw ADC Value: 0
+Voltage: 0.000 V
+Raw ADC Value: 0
+Voltage: 0.000 V
+Raw ADC Value: 0
+Voltage: 0.000 V
+Raw ADC Value: 1250
+Voltage: 1.007 V
+Raw ADC Value: 1283
+Voltage: 1.034 V
+Raw ADC Value: 1289
+Voltage: 1.039 V
+Raw ADC Value: 1288
+Voltage: 1.038 V
+Raw ADC Value: 1294
+Voltage: 1.043 V
+Raw ADC Value: 0
+Voltage: 0.000 V
+Raw ADC Value: 0
+Voltage: 0.000 V
+Raw ADC Value: 0
+Voltage: 0.000 V
+Raw ADC Value: 0
+Voltage: 0.000 V
+Raw ADC Value: 0
+Voltage: 0.000 V
+Raw ADC Value: 0
+Voltage: 0.000 V
+Raw ADC Value: 0
+Voltage: 0.000 V
+Raw ADC Value: 0
+Voltage: 0.000 V
+Raw ADC Value: 0
+Voltage: 0.000 V
+Raw ADC Value: 0
+Voltage: 0.000 V
+Raw ADC Value: 1146
+Voltage: 0.924 V
+Raw ADC Value: 0
+Voltage: 0.000 V
+Raw ADC Value: 0
+Voltage: 0.000 V
+Raw ADC Value: 1278
+Voltage: 1.030 V
+Raw ADC Value: 1279
+Voltage: 1.031 V
+Raw ADC Value: 1271
+Voltage: 1.024 V
+Raw ADC Value: 1264
+Voltage: 1.019 V
+Raw ADC Value: 1176
+Voltage: 0.948 V
+Raw ADC Value: 1206
+Voltage: 0.972 V
+Raw ADC Value: 1270
+Voltage: 1.023 V
+Raw ADC Value: 1254
+Voltage: 1.011 V
+Raw ADC Value: 1264
+Voltage: 1.019 V
+Raw ADC Value: 1247
+Voltage: 1.005 V
+Raw ADC Value: 1273
+Voltage: 1.026 V
+Raw ADC Value: 1246
+Voltage: 1.004 V
+Raw ADC Value: 1254
+Voltage: 1.011 V
+Raw ADC Value: 1284
+Voltage: 1.035 V
+Raw ADC Value: 1289
+Voltage: 1.039 V
+Raw ADC Value: 1293
+Voltage: 1.042 V
+Raw ADC Value: 1264
+Voltage: 1.019 V
+Raw ADC Value: 1275
+Voltage: 1.027 V
+Raw ADC Value: 1267
+Voltage: 1.021 V
+Raw ADC Value: 1259
+Voltage: 1.015 V
+Raw ADC Value: 1242
+Voltage: 1.001 V
+Raw ADC Value: 1257
+Voltage: 1.013 V
+Raw ADC Value: 1248
+Voltage: 1.006 V
+Raw ADC Value: 1261
+Voltage: 1.016 V
+Raw ADC Value: 1270
+Voltage: 1.023 V
+Raw ADC Value: 1296
+Voltage: 1.044 V
+Raw ADC Value: 1300
+Voltage: 1.048 V
+Raw ADC Value: 1281
+Voltage: 1.032 V
+Raw ADC Value: 1288
+Voltage: 1.038 V
+Raw ADC Value: 1294
+Voltage: 1.043 V
+Raw ADC Value: 1294
+Voltage: 1.043 V
+Raw ADC Value: 1280
+Voltage: 1.032 V
+Raw ADC Value: 0
+Voltage: 0.000 V
+Raw ADC Value: 0
+Voltage: 0.000 V
+Raw ADC Value: 0
+Voltage: 0.000 V
+Raw ADC Value: 0
+Voltage: 0.000 V
+Raw ADC Value: 1225
+Voltage: 0.987 V
+Raw ADC Value: 1249
+Voltage: 1.007 V
+Raw ADC Value: 1261
+Voltage: 1.016 V
+Raw ADC Value: 0
+Voltage: 0.000 V
+Raw ADC Value: 21
+Voltage: 0.017 V
+Raw ADC Value: 0
+Voltage: 0.000 V
+Raw ADC Value: 0
+Voltage: 0.000 V
+Raw ADC Value: 0
+Voltage: 0.000 V
+Raw ADC Value: 1176
+Voltage: 0.948 V
+Raw ADC Value: 1228
+Voltage: 0.990 V
+Raw ADC Value: 0
+Voltage: 0.000 V
+Raw ADC Value: 0
+Voltage: 0.000 V
+Raw ADC Value: 0
+Voltage: 0.000 V
+Raw ADC Value: 1176
+Voltage: 0.948 V
+Raw ADC Value: 1252
+Voltage: 1.009 V
+Raw ADC Value: 0
+Voltage: 0.000 V
+Raw ADC Value: 0
+Voltage: 0.000 V
+Raw ADC Value: 0
+Voltage: 0.000 V
+Raw ADC Value: 0
+Voltage: 0.000 V
+Raw ADC Value: 0
+Voltage: 0.000 V
+Raw ADC Value: 0
+Voltage: 0.000 V
+Raw ADC Value: 0
+Voltage: 0.000 V
+Raw ADC Value: 5
+Voltage: 0.004 V
+Raw ADC Value: 0
+Voltage: 0.000 V
+Raw ADC Value: 0
+Voltage: 0.000 V
+Raw ADC Value: 0
+Voltage: 0.000 V
+Raw ADC Value: 0
+Voltage: 0.000 V
+Raw ADC Value: 0
+Voltage: 0.000 V
+Raw ADC Value: 0
+Voltage: 0.000 V
+Raw ADC Value: 0
+Voltage: 0.000 V
+Raw ADC Value: 0
+Voltage: 0.000 V
+Raw ADC Value: 0
+Voltage: 0.000 V
+Raw ADC Value: 0
+Voltage: 0.000 V
+Raw ADC Value: 0
+Voltage: 0.000 V
+Raw ADC Value: 0
+Voltage: 0.000 V
+Raw ADC Value: 0
+Voltage: 0.000 V
+Raw ADC Value: 0
+Voltage: 0.000 V
+Raw ADC Value: 0
+Voltage: 0.000 V
+Raw ADC Value: 0
+Voltage: 0.000 V
+Raw ADC Value: 0
+Voltage: 0.000 V
+Raw ADC Value: 0
+Voltage: 0.000 V
+Raw ADC Value: 0
+Voltage: 0.000 V
+Raw ADC Value: 0
+Voltage: 0.000 V
+Raw ADC Value: 0
+Voltage: 0.000 V
+Raw ADC Value: 0
+Voltage: 0.000 V
+Raw ADC Value: 0
+Voltage: 0.000 V
+Raw ADC Value: 0
+Voltage: 0.000 V
+Raw ADC Value: 0
+Voltage: 0.000 V
+Raw ADC Value: 0
+Voltage: 0.000 V
+Raw ADC Value: 0
+Voltage: 0.000 V
+Raw ADC Value: 0
+Voltage: 0.000 V
+Raw ADC Value: 0
+Voltage: 0.000 V
+Raw ADC Value: 0
+Voltage: 0.000 V
+Raw ADC Value: 0
+Voltage: 0.000 V
+Raw ADC Value: 1223
+Voltage: 0.986 V
+Raw ADC Value: 1251
+Voltage: 1.008 V
+Raw ADC Value: 1269
+Voltage: 1.023 V
+Raw ADC Value: 1241
+Voltage: 1.000 V
+Raw ADC Value: 26
+Voltage: 0.021 V
+Raw ADC Value: 1240
+Voltage: 0.999 V
+Raw ADC Value: 0
+Voltage: 0.000 V
+Raw ADC Value: 46
+Voltage: 0.037 V
+Raw ADC Value: 0
+Voltage: 0.000 V
+Raw ADC Value: 0
+Voltage: 0.000 V
+Raw ADC Value: 0
+Voltage: 0.000 V
+Raw ADC Value: 0
+Voltage: 0.000 V
+Raw ADC Value: 0
+Voltage: 0.000 V
+Raw ADC Value: 0
+Voltage: 0.000 V
+Raw ADC Value: 0
+Voltage: 0.000 V
+Raw ADC Value: 0
+Voltage: 0.000 V
+Raw ADC Value: 4
+Voltage: 0.003 V
+Raw ADC Value: 0
+Voltage: 0.000 V
+Raw ADC Value: 0
+Voltage: 0.000 V
+Raw ADC Value: 0
+Voltage: 0.000 V
+Raw ADC Value: 0
+Voltage: 0.000 V
+Raw ADC Value: 0
+Voltage: 0.000 V
+Raw ADC Value: 0
+Voltage: 0.000 V
+Raw ADC Value: 1265
+Voltage: 1.019 V
+Raw ADC Value: 1292
+Voltage: 1.041 V
+Raw ADC Value: 1301
+Voltage: 1.048 V
+Raw ADC Value: 1300
+Voltage: 1.048 V
+Raw ADC Value: 1295
+Voltage: 1.044 V
+Raw ADC Value: 1276
+Voltage: 1.028 V
+Raw ADC Value: 1278
+Voltage: 1.030 V
+Raw ADC Value: 1273
+Voltage: 1.026 V
+Raw ADC Value: 1270
+Voltage: 1.023 V
+Raw ADC Value: 1268
+Voltage: 1.022 V
+Raw ADC Value: 1257
+Voltage: 1.013 V
+Raw ADC Value: 1264
+Voltage: 1.019 V
+Raw ADC Value: 1266
+Voltage: 1.020 V
+Raw ADC Value: 1269
+Voltage: 1.023 V
+Raw ADC Value: 1279
+Voltage: 1.031 V
+Raw ADC Value: 0
+Voltage: 0.000 V
+Raw ADC Value: 1277
+Voltage: 1.029 V
+Raw ADC Value: 1293
+Voltage: 1.042 V
+Raw ADC Value: 1289
+Voltage: 1.039 V
+Raw ADC Value: 1282
+Voltage: 1.033 V
+Raw ADC Value: 1276
+Voltage: 1.028 V
+Raw ADC Value: 1274
+Voltage: 1.027 V
+Raw ADC Value: 1266
+Voltage: 1.020 V
+Raw ADC Value: 1306
+Voltage: 1.052 V
+Raw ADC Value: 1260
+Voltage: 1.015 V
+Raw ADC Value: 1254
+Voltage: 1.011 V
+Raw ADC Value: 1257
+Voltage: 1.013 V
+Raw ADC Value: 1279
+Voltage: 1.031 V
+Raw ADC Value: 1279
+Voltage: 1.031 V
+Raw ADC Value: 1285
+Voltage: 1.036 V
+Raw ADC Value: 1291
+Voltage: 1.040 V
+Raw ADC Value: 1290
+Voltage: 1.040 V
+Raw ADC Value: 1289
+Voltage: 1.039 V
+Raw ADC Value: 1281
+Voltage: 1.032 V
+Raw ADC Value: 1214
+Voltage: 0.978 V
+Raw ADC Value: 1023
+Voltage: 0.824 V
+Raw ADC Value: 1193
+Voltage: 0.961 V
+Raw ADC Value: 0
+Voltage: 0.000 V
+Raw ADC Value: 0
+Voltage: 0.000 V
+Raw ADC Value: 1153
+Voltage: 0.929 V
+Raw ADC Value: 1
+Voltage: 0.001 V
+Raw ADC Value: 0
+Voltage: 0.000 V
+Raw ADC Value: 0
+Voltage: 0.000 V
+Raw ADC Value: 0
+Voltage: 0.000 V
+Raw ADC Value: 0
+Voltage: 0.000 V
+Raw ADC Value: 0
+Voltage: 0.000 V
+Raw ADC Value: 0
+Voltage: 0.000 V
+Raw ADC Value: 0
+Voltage: 0.000 V
+Raw ADC Value: 0
+Voltage: 0.000 V
+Raw ADC Value: 0
+Voltage: 0.000 V
+Raw ADC Value: 0
+Voltage: 0.000 V
+Raw ADC Value: 0
+Voltage: 0.000 V
+Raw ADC Value: 0
+Voltage: 0.000 V
+Raw ADC Value: 0
+Voltage: 0.000 V
+Raw ADC Value: 0
+Voltage: 0.000 V
+Raw ADC Value: 0
+Voltage: 0.000 V
+Raw ADC Value: 0
+Voltage: 0.000 V
+Raw ADC Value: 0
+Voltage: 0.000 V
+Raw ADC Value: 0
+Voltage: 0.000 V
+Raw ADC Value: 0
+Voltage: 0.000 V
+Raw ADC Value: 0
+Voltage: 0.000 V
+Raw ADC Value: 0
+Voltage: 0.000 V
+Raw ADC Value: 0
+Voltage: 0.000 V
+Raw ADC Value: 0
+Voltage: 0.000 V
+Raw ADC Value: 0
+Voltage: 0.000 V
+Raw ADC Value: 0
+Voltage: 0.000 V
+Raw ADC Value: 0
+Voltage: 0.000 V
+Raw ADC Value: 0
+Voltage: 0.000 V
+Raw ADC Value: 0
+Voltage: 0.000 V
+Raw ADC Value: 0
+Voltage: 0.000 V
+Raw ADC Value: 0
+Voltage: 0.000 V
+Raw ADC Value: 0
+Voltage: 0.000 V
+Raw ADC Value: 0
+Voltage: 0.000 V
+Raw ADC Value: 0
+Voltage: 0.000 V
+Raw ADC Value: 0
+Voltage: 0.000 V
+Raw ADC Value: 0
+Voltage: 0.000 V
+Raw ADC Value: 0
+Voltage: 0.000 V
+Raw ADC Value: 0
+Voltage: 0.000 V
+Raw ADC Value: 0
+Voltage: 0.000 V
+Raw ADC Value: 0
+Voltage: 0.000 V
+Raw ADC Value: 0
+Voltage: 0.000 V
+Raw ADC Value: 0
+Voltage: 0.000 V
+Raw ADC Value: 0
+Voltage: 0.000 V
+Raw ADC Value: 0
+Voltage: 0.000 V
+Raw ADC Value: 0
+Voltage: 0.000 V
+Raw ADC Value: 0
+Voltage: 0.000 V
+Raw ADC Value: 0
+Voltage: 0.000 V
+Raw ADC Value: 0
+Voltage: 0.000 V
+Raw ADC Value: 0
+Voltage: 0.000 V
+Raw ADC Value: 0
+Voltage: 0.000 V
+Raw ADC Value: 0
+Voltage: 0.000 V
+Raw ADC Value: 0
+Voltage: 0.000 V
+Raw ADC Value: 0
+Voltage: 0.000 V
+Raw ADC Value: 0
+Voltage: 0.000 V
+Raw ADC Value: 0
+Voltage: 0.000 V
+Raw ADC Value: 0
+Voltage: 0.000 V
+Raw ADC Value: 0
+Voltage: 0.000 V
+Raw ADC Value: 0
+Voltage: 0.000 V
+Raw ADC Value: 0
+Voltage: 0.000 V
+Raw ADC Value: 0
+Voltage: 0.000 V
+Raw ADC Value: 0
+Voltage: 0.000 V
+Raw ADC Value: 0
+Voltage: 0.000 V
+Raw ADC Value: 0
+Voltage: 0.000 V
+Raw ADC Value: 0
+Voltage: 0.000 V
+Raw ADC Value: 0
+Voltage: 0.000 V
+Raw ADC Value: 0
+Voltage: 0.000 V
+Raw ADC Value: 0
+Voltage: 0.000 V
+Raw ADC Value: 0
+Voltage: 0.000 V
+Raw ADC Value: 0
+Voltage: 0.000 V
+Raw ADC Value: 0
+Voltage: 0.000 V
+Raw ADC Value: 0
+Voltage: 0.000 V
+Raw ADC Value: 0
+Voltage: 0.000 V
+Raw ADC Value: 1151
+Voltage: 0.928 V
+Raw ADC Value: 1252
+Voltage: 1.009 V
+Raw ADC Value: 1254
+Voltage: 1.011 V
+Raw ADC Value: 1275
+Voltage: 1.027 V
+Raw ADC Value: 1279
+Voltage: 1.031 V
+Raw ADC Value: 1286
+Voltage: 1.036 V
+Raw ADC Value: 1287
+Voltage: 1.037 V
+Raw ADC Value: 1296
+Voltage: 1.044 V
+Raw ADC Value: 1290
+Voltage: 1.040 V
+Raw ADC Value: 0
+Voltage: 0.000 V
+Raw ADC Value: 0
+Voltage: 0.000 V
+Raw ADC Value: 0
+Voltage: 0.000 V
+Raw ADC Value: 0
+Voltage: 0.000 V
+Raw ADC Value: 0
+Voltage: 0.000 V
+Raw ADC Value: 0
+Voltage: 0.000 V
+Raw ADC Value: 0
+Voltage: 0.000 V
+Raw ADC Value: 0
+Voltage: 0.000 V
+Raw ADC Value: 0
+Voltage: 0.000 V
+Raw ADC Value: 0
+Voltage: 0.000 V
+Raw ADC Value: 0
+Voltage: 0.000 V
+Raw ADC Value: 0
+Voltage: 0.000 V
+Raw ADC Value: 0
+Voltage: 0.000 V
+Raw ADC Value: 0
+Voltage: 0.000 V
+Raw ADC Value: 0
+Voltage: 0.000 V
+Raw ADC Value: 0
+Voltage: 0.000 V
+Raw ADC Value: 0
+Voltage: 0.000 V
+Raw ADC Value: 0
+Voltage: 0.000 V
+Raw ADC Value: 0
+Voltage: 0.000 V
+Raw ADC Value: 0
+Voltage: 0.000 V
+Raw ADC Value: 0
+Voltage: 0.000 V
+Raw ADC Value: 0
+Voltage: 0.000 V
+Raw ADC Value: 0
+Voltage: 0.000 V
+Raw ADC Value: 0
+Voltage: 0.000 V
+Raw ADC Value: 0
+Voltage: 0.000 V
+Raw ADC Value: 0
+Voltage: 0.000 V
+Raw ADC Value: 0
+Voltage: 0.000 V
+Raw ADC Value: 0
+Voltage: 0.000 V
+Raw ADC Value: 0
+Voltage: 0.000 V
+Raw ADC Value: 0
+Voltage: 0.000 V
+Raw ADC Value: 0
+Voltage: 0.000 V
+Raw ADC Value: 0
+Voltage: 0.000 V
+Raw ADC Value: 0
+Voltage: 0.000 V
+Raw ADC Value: 0
+Voltage: 0.000 V
+Raw ADC Value: 0
+Voltage: 0.000 V
+Raw ADC Value: 0
+Voltage: 0.000 V
+Raw ADC Value: 0
+Voltage: 0.000 V
+Raw ADC Value: 0
+Voltage: 0.000 V
+Raw ADC Value: 14
+Voltage: 0.011 V
+Raw ADC Value: 0
+Voltage: 0.000 V
+Raw ADC Value: 0
+Voltage: 0.000 V
+Raw ADC Value: 0
+Voltage: 0.000 V
+Raw ADC Value: 0
+Voltage: 0.000 V
+Raw ADC Value: 1291
+Voltage: 1.040 V
+Raw ADC Value: 2031
+Voltage: 1.637 V
+Raw ADC Value: 1239
+Voltage: 0.998 V
+Raw ADC Value: 1235
+Voltage: 0.995 V
+Raw ADC Value: 1229
+Voltage: 0.990 V
+Raw ADC Value: 1232
+Voltage: 0.993 V
+Raw ADC Value: 1235
+Voltage: 0.995 V
+Raw ADC Value: 1231
+Voltage: 0.992 V
+Raw ADC Value: 1232
+Voltage: 0.993 V
+Raw ADC Value: 1232
+Voltage: 0.993 V
+Raw ADC Value: 1234
+Voltage: 0.994 V
+Raw ADC Value: 1228
+Voltage: 0.990 V
+Raw ADC Value: 1232
+Voltage: 0.993 V
+Raw ADC Value: 1236
+Voltage: 0.996 V
+Raw ADC Value: 1228
+Voltage: 0.990 V
+Raw ADC Value: 1232
+Voltage: 0.993 V
+Raw ADC Value: 1228
+Voltage: 0.990 V
+Raw ADC Value: 1232
+Voltage: 0.993 V
+Raw ADC Value: 1232
+Voltage: 0.993 V
+Raw ADC Value: 1238
+Voltage: 0.998 V
+Raw ADC Value: 1235
+Voltage: 0.995 V
+Raw ADC Value: 1235
+Voltage: 0.995 V
+Raw ADC Value: 1229
+Voltage: 0.990 V
+Raw ADC Value: 1227
+Voltage: 0.989 V
+Raw ADC Value: 1232
+Voltage: 0.993 V
+Raw ADC Value: 1230
+Voltage: 0.991 V
+Raw ADC Value: 1227
+Voltage: 0.989 V
+Raw ADC Value: 1230
+Voltage: 0.991 V
+Raw ADC Value: 1226
+Voltage: 0.988 V
+Raw ADC Value: 1236
+Voltage: 0.996 V
+Raw ADC Value: 1233
+Voltage: 0.994 V
+Raw ADC Value: 1235
+Voltage: 0.995 V
+Raw ADC Value: 1234
+Voltage: 0.994 V
+Raw ADC Value: 1228
+Voltage: 0.990 V
+Raw ADC Value: 1229
+Voltage: 0.990 V
+Raw ADC Value: 1232
+Voltage: 0.993 V
+Raw ADC Value: 1234
+Voltage: 0.994 V
+Raw ADC Value: 1235
+Voltage: 0.995 V
+Raw ADC Value: 1231
+Voltage: 0.992 V
+Raw ADC Value: 1227
+Voltage: 0.989 V
+Raw ADC Value: 1229
+Voltage: 0.990 V
+Raw ADC Value: 1234
+Voltage: 0.994 V
+Raw ADC Value: 1228
+Voltage: 0.990 V
+Raw ADC Value: 1229
+Voltage: 0.990 V
+Raw ADC Value: 1233
+Voltage: 0.994 V
+Raw ADC Value: 1225
+Voltage: 0.987 V
+Raw ADC Value: 1232
+Voltage: 0.993 V
+Raw ADC Value: 1231
+Voltage: 0.992 V
+Raw ADC Value: 1236
+Voltage: 0.996 V
+Raw ADC Value: 1233
+Voltage: 0.994 V
+Raw ADC Value: 1232
+Voltage: 0.993 V
+Raw ADC Value: 1227
+Voltage: 0.989 V
+Raw ADC Value: 1229
+Voltage: 0.990 V
+Raw ADC Value: 1231
+Voltage: 0.992 V
+Raw ADC Value: 1226
+Voltage: 0.988 V
+Raw ADC Value: 1230
+Voltage: 0.991 V
+Raw ADC Value: 1232
+Voltage: 0.993 V
+Raw ADC Value: 1227
+Voltage: 0.989 V
+Raw ADC Value: 1229
+Voltage: 0.990 V
+Raw ADC Value: 1234
+Voltage: 0.994 V
+Raw ADC Value: 1234
+Voltage: 0.994 V
+Raw ADC Value: 1236
+Voltage: 0.996 V
+Raw ADC Value: 1226
+Voltage: 0.988 V
+Raw ADC Value: 1229
+Voltage: 0.990 V
+Raw ADC Value: 1228
+Voltage: 0.990 V
+Raw ADC Value: 1236
+Voltage: 0.996 V
+Raw ADC Value: 1235
+Voltage: 0.995 V
+Raw ADC Value: 1224
+Voltage: 0.986 V
+Raw ADC Value: 1235
+Voltage: 0.995 V
+Raw ADC Value: 1236
+Voltage: 0.996 V
+Raw ADC Value: 1235
+Voltage: 0.995 V
+Raw ADC Value: 1230
+Voltage: 0.991 V
+Raw ADC Value: 1235
+Voltage: 0.995 V
+Raw ADC Value: 1234
+Voltage: 0.994 V
+Raw ADC Value: 1236
+Voltage: 0.996 V
+Raw ADC Value: 1237
+Voltage: 0.997 V
+Raw ADC Value: 1235
+Voltage: 0.995 V
+Raw ADC Value: 1230
+Voltage: 0.991 V
+Raw ADC Value: 1230
+Voltage: 0.991 V
+Raw ADC Value: 1235
+Voltage: 0.995 V
+Raw ADC Value: 1236
+Voltage: 0.996 V
+Raw ADC Value: 1232
+Voltage: 0.993 V
+Raw ADC Value: 1230
+Voltage: 0.991 V
+Raw ADC Value: 1235
+Voltage: 0.995 V
+Raw ADC Value: 1234
+Voltage: 0.994 V
+Raw ADC Value: 1234
+Voltage: 0.994 V
+Raw ADC Value: 1229
+Voltage: 0.990 V
+Raw ADC Value: 1230
+Voltage: 0.991 V
+Raw ADC Value: 1227
+Voltage: 0.989 V
+Raw ADC Value: 1225
+Voltage: 0.987 V
+Raw ADC Value: 1227
+Voltage: 0.989 V
+Raw ADC Value: 1235
+Voltage: 0.995 V
+Raw ADC Value: 1237
+Voltage: 0.997 V
+Raw ADC Value: 1233
+Voltage: 0.994 V
+Raw ADC Value: 1237
+Voltage: 0.997 V
+Raw ADC Value: 1235
+Voltage: 0.995 V
+Raw ADC Value: 1228
+Voltage: 0.990 V
+Raw ADC Value: 1233
+Voltage: 0.994 V
+Raw ADC Value: 1231
+Voltage: 0.992 V
+Raw ADC Value: 1233
+Voltage: 0.994 V
+Raw ADC Value: 1237
+Voltage: 0.997 V
+Raw ADC Value: 1227
+Voltage: 0.989 V
+Raw ADC Value: 1232
+Voltage: 0.993 V
+Raw ADC Value: 1235
+Voltage: 0.995 V
+Raw ADC Value: 1226
+Voltage: 0.988 V
+Raw ADC Value: 1226
+Voltage: 0.988 V
+Raw ADC Value: 1227
+Voltage: 0.989 V
+Raw ADC Value: 1224
+Voltage: 0.986 V
+Raw ADC Value: 1236
+Voltage: 0.996 V
+Raw ADC Value: 1235
+Voltage: 0.995 V
+Raw ADC Value: 1235
+Voltage: 0.995 V
+Raw ADC Value: 1235
+Voltage: 0.995 V
+Raw ADC Value: 1229
+Voltage: 0.990 V
+Raw ADC Value: 1230
+Voltage: 0.991 V
+Raw ADC Value: 1230
+Voltage: 0.991 V
+Raw ADC Value: 1233
+Voltage: 0.994 V
+Raw ADC Value: 1235
+Voltage: 0.995 V
+Raw ADC Value: 1234
+Voltage: 0.994 V
+Raw ADC Value: 1229
+Voltage: 0.990 V
+Raw ADC Value: 1227
+Voltage: 0.989 V
+Raw ADC Value: 1230
+Voltage: 0.991 V
+Raw ADC Value: 1234
+Voltage: 0.994 V
+Raw ADC Value: 1227
+Voltage: 0.989 V
+Raw ADC Value: 1234
+Voltage: 0.994 V
+Raw ADC Value: 1235
+Voltage: 0.995 V
+Raw ADC Value: 1227
+Voltage: 0.989 V
+Raw ADC Value: 1227
+Voltage: 0.989 V
+Raw ADC Value: 1227
+Voltage: 0.989 V
+Raw ADC Value: 1231
+Voltage: 0.992 V
+Raw ADC Value: 1229
+Voltage: 0.990 V
+Raw ADC Value: 1228
+Voltage: 0.990 V
+Raw ADC Value: 1227
+Voltage: 0.989 V
+Raw ADC Value: 1235
+Voltage: 0.995 V
+Raw ADC Value: 1228
+Voltage: 0.990 V
+Raw ADC Value: 1234
+Voltage: 0.994 V
+Raw ADC Value: 1236
+Voltage: 0.996 V
+Raw ADC Value: 1228
+Voltage: 0.990 V
+Raw ADC Value: 1235
+Voltage: 0.995 V
+Raw ADC Value: 1231
+Voltage: 0.992 V
+Raw ADC Value: 1230
+Voltage: 0.991 V
+Raw ADC Value: 1227
+Voltage: 0.989 V
+Raw ADC Value: 1236
+Voltage: 0.996 V
+Raw ADC Value: 1226
+Voltage: 0.988 V
+Raw ADC Value: 1230
+Voltage: 0.991 V
+Raw ADC Value: 1232
+Voltage: 0.993 V
+Raw ADC Value: 1234
+Voltage: 0.994 V
+Raw ADC Value: 1233
+Voltage: 0.994 V
+Raw ADC Value: 1230
+Voltage: 0.991 V
+Raw ADC Value: 1235
+Voltage: 0.995 V
+Raw ADC Value: 1235
+Voltage: 0.995 V
+Raw ADC Value: 1235
+Voltage: 0.995 V
+Raw ADC Value: 1235
+Voltage: 0.995 V
+Raw ADC Value: 1237
+Voltage: 0.997 V
+Raw ADC Value: 1237
+Voltage: 0.997 V
+Raw ADC Value: 1238
+Voltage: 0.998 V
+Raw ADC Value: 1232
+Voltage: 0.993 V
+Raw ADC Value: 1231
+Voltage: 0.992 V
+Raw ADC Value: 1228
+Voltage: 0.990 V
+Raw ADC Value: 1239
+Voltage: 0.998 V
+Raw ADC Value: 1230
+Voltage: 0.991 V
+Raw ADC Value: 1234
+Voltage: 0.994 V
+Raw ADC Value: 1233
+Voltage: 0.994 V
+Raw ADC Value: 1230
+Voltage: 0.991 V
+Raw ADC Value: 1230
+Voltage: 0.991 V
+Raw ADC Value: 1227
+Voltage: 0.989 V
+Raw ADC Value: 1232
+Voltage: 0.993 V
+Raw ADC Value: 1228
+Voltage: 0.990 V
+Raw ADC Value: 1237
+Voltage: 0.997 V
+Raw ADC Value: 1237
+Voltage: 0.997 V
+Raw ADC Value: 1234
+Voltage: 0.994 V
+Raw ADC Value: 1230
+Voltage: 0.991 V
+Raw ADC Value: 1234
+Voltage: 0.994 V
+Raw ADC Value: 1229
+Voltage: 0.990 V
+Raw ADC Value: 1238
+Voltage: 0.998 V
+Raw ADC Value: 1235
+Voltage: 0.995 V
+Raw ADC Value: 1230
+Voltage: 0.991 V
+Raw ADC Value: 1228
+Voltage: 0.990 V
+Raw ADC Value: 1236
+Voltage: 0.996 V
+Raw ADC Value: 1234
+Voltage: 0.994 V
+Raw ADC Value: 1229
+Voltage: 0.990 V
+Raw ADC Value: 1236
+Voltage: 0.996 V
+Raw ADC Value: 1227
+Voltage: 0.989 V
+Raw ADC Value: 1237
+Voltage: 0.997 V
+Raw ADC Value: 1229
+Voltage: 0.990 V
+Raw ADC Value: 1235
+Voltage: 0.995 V
+Raw ADC Value: 1234
+Voltage: 0.994 V
+Raw ADC Value: 1237
+Voltage: 0.997 V
+Raw ADC Value: 1235
+Voltage: 0.995 V
+Raw ADC Value: 1235
+Voltage: 0.995 V
+Raw ADC Value: 1231
+Voltage: 0.992 V
+Raw ADC Value: 1230
+Voltage: 0.991 V
+Raw ADC Value: 1237
+Voltage: 0.997 V
+Raw ADC Value: 1228
+Voltage: 0.990 V
+Raw ADC Value: 1230
+Voltage: 0.991 V
+Raw ADC Value: 1229
+Voltage: 0.990 V
+Raw ADC Value: 1227
+Voltage: 0.989 V
+Raw ADC Value: 1235
+Voltage: 0.995 V
+Raw ADC Value: 1237
+Voltage: 0.997 V
+Raw ADC Value: 1237
+Voltage: 0.997 V
+Raw ADC Value: 1237
+Voltage: 0.997 V
+Raw ADC Value: 1234
+Voltage: 0.994 V
+Raw ADC Value: 1231
+Voltage: 0.992 V
+Raw ADC Value: 1234
+Voltage: 0.994 V
+Raw ADC Value: 1236
+Voltage: 0.996 V
+Raw ADC Value: 1232
+Voltage: 0.993 V
+Raw ADC Value: 1232
+Voltage: 0.993 V
+Raw ADC Value: 1240
+Voltage: 0.999 V
+Raw ADC Value: 1232
+Voltage: 0.993 V
+Raw ADC Value: 1231
+Voltage: 0.992 V
+Raw ADC Value: 1230
+Voltage: 0.991 V
+Raw ADC Value: 1231
+Voltage: 0.992 V
+Raw ADC Value: 1231
+Voltage: 0.992 V
+Raw ADC Value: 1232
+Voltage: 0.993 V
+Raw ADC Value: 1231
+Voltage: 0.992 V
+Raw ADC Value: 1235
+Voltage: 0.995 V
+Raw ADC Value: 1229
+Voltage: 0.990 V
+Raw ADC Value: 1227
+Voltage: 0.989 V
+Raw ADC Value: 1239
+Voltage: 0.998 V
+Raw ADC Value: 1230
+Voltage: 0.991 V
+Raw ADC Value: 1238
+Voltage: 0.998 V
+Raw ADC Value: 1234
+Voltage: 0.994 V
+Raw ADC Value: 1229
+Voltage: 0.990 V
+Raw ADC Value: 1238
+Voltage: 0.998 V
+Raw ADC Value: 1230
+Voltage: 0.991 V
+Raw ADC Value: 1231
+Voltage: 0.992 V
+Raw ADC Value: 1240
+Voltage: 0.999 V
+Raw ADC Value: 1230
+Voltage: 0.991 V
+Raw ADC Value: 1237
+Voltage: 0.997 V
+Raw ADC Value: 1230
+Voltage: 0.991 V
+Raw ADC Value: 1237
+Voltage: 0.997 V
+Raw ADC Value: 1243
+Voltage: 1.002 V
+Raw ADC Value: 1231
+Voltage: 0.992 V
+Raw ADC Value: 1235
+Voltage: 0.995 V
+Raw ADC Value: 1229
+Voltage: 0.990 V
+Raw ADC Value: 1230
+Voltage: 0.991 V
+Raw ADC Value: 1237
+Voltage: 0.997 V
+Raw ADC Value: 1227
+Voltage: 0.989 V
+Raw ADC Value: 1237
+Voltage: 0.997 V
+Raw ADC Value: 1237
+Voltage: 0.997 V
+Raw ADC Value: 1235
+Voltage: 0.995 V
+Raw ADC Value: 1236
+Voltage: 0.996 V
+Raw ADC Value: 1230
+Voltage: 0.991 V
+Raw ADC Value: 1233
+Voltage: 0.994 V
+Raw ADC Value: 1239
+Voltage: 0.998 V
+Raw ADC Value: 1237
+Voltage: 0.997 V
+Raw ADC Value: 1231
+Voltage: 0.992 V
+Raw ADC Value: 1231
+Voltage: 0.992 V
+Raw ADC Value: 1230
+Voltage: 0.991 V
+Raw ADC Value: 1238
+Voltage: 0.998 V
+Raw ADC Value: 1241
+Voltage: 1.000 V
+Raw ADC Value: 1238
+Voltage: 0.998 V
+Raw ADC Value: 1231
+Voltage: 0.992 V
+Raw ADC Value: 1234
+Voltage: 0.994 V
+Raw ADC Value: 1237
+Voltage: 0.997 V
+Raw ADC Value: 1238
+Voltage: 0.998 V
+Raw ADC Value: 1232
+Voltage: 0.993 V
+Raw ADC Value: 1230
+Voltage: 0.991 V
+Raw ADC Value: 1230
+Voltage: 0.991 V
+Raw ADC Value: 1238
+Voltage: 0.998 V
+Raw ADC Value: 1231
+Voltage: 0.992 V
+Raw ADC Value: 1232
+Voltage: 0.993 V
+Raw ADC Value: 1236
+Voltage: 0.996 V
+Raw ADC Value: 1239
+Voltage: 0.998 V
+Raw ADC Value: 1240
+Voltage: 0.999 V
+Raw ADC Value: 1233
+Voltage: 0.994 V
+Raw ADC Value: 1232
+Voltage: 0.993 V
+Raw ADC Value: 1233
+Voltage: 0.994 V
+Raw ADC Value: 1230
+Voltage: 0.991 V
+Raw ADC Value: 1232
+Voltage: 0.993 V
+Raw ADC Value: 1234
+Voltage: 0.994 V
+Raw ADC Value: 1233
+Voltage: 0.994 V
+Raw ADC Value: 1229
+Voltage: 0.990 V
+Raw ADC Value: 1229
+Voltage: 0.990 V
+Raw ADC Value: 1234
+Voltage: 0.994 V
+Raw ADC Value: 1236
+Voltage: 0.996 V
+Raw ADC Value: 1233
+Voltage: 0.994 V
+Raw ADC Value: 1233
+Voltage: 0.994 V
+Raw ADC Value: 1236
+Voltage: 0.996 V
+Raw ADC Value: 1238
+Voltage: 0.998 V
+Raw ADC Value: 1232
+Voltage: 0.993 V
+Raw ADC Value: 1230
+Voltage: 0.991 V
+Raw ADC Value: 1231
+Voltage: 0.992 V
+Raw ADC Value: 1236
+Voltage: 0.996 V
+Raw ADC Value: 1237
+Voltage: 0.997 V
+Raw ADC Value: 1235
+Voltage: 0.995 V
+Raw ADC Value: 1230
+Voltage: 0.991 V
+Raw ADC Value: 1233
+Voltage: 0.994 V
+Raw ADC Value: 1236
+Voltage: 0.996 V
+Raw ADC Value: 1230
+Voltage: 0.991 V
+Raw ADC Value: 1233
+Voltage: 0.994 V
+Raw ADC Value: 1235
+Voltage: 0.995 V
+Raw ADC Value: 1227
+Voltage: 0.989 V
+Raw ADC Value: 1229
+Voltage: 0.990 V
+Raw ADC Value: 1231
+Voltage: 0.992 V
+Raw ADC Value: 1231
+Voltage: 0.992 V
+Raw ADC Value: 1228
+Voltage: 0.990 V
+Raw ADC Value: 1233
+Voltage: 0.994 V
+Raw ADC Value: 1235
+Voltage: 0.995 V
+Raw ADC Value: 1231
+Voltage: 0.992 V
+Raw ADC Value: 1236
+Voltage: 0.996 V
+Raw ADC Value: 1231
+Voltage: 0.992 V
+Raw ADC Value: 1229
+Voltage: 0.990 V
+Raw ADC Value: 1228
+Voltage: 0.990 V
+Raw ADC Value: 1230
+Voltage: 0.991 V
+Raw ADC Value: 1233
+Voltage: 0.994 V
+Raw ADC Value: 1237
+Voltage: 0.997 V
+Raw ADC Value: 1234
+Voltage: 0.994 V
+Raw ADC Value: 1230
+Voltage: 0.991 V
+Raw ADC Value: 1238
+Voltage: 0.998 V
+Raw ADC Value: 1234
+Voltage: 0.994 V
+Raw ADC Value: 1230
+Voltage: 0.991 V
+Raw ADC Value: 1233
+Voltage: 0.994 V
+Raw ADC Value: 1234
+Voltage: 0.994 V
+Raw ADC Value: 1231
+Voltage: 0.992 V
+Raw ADC Value: 1238
+Voltage: 0.998 V
+Raw ADC Value: 1238
+Voltage: 0.998 V
+Raw ADC Value: 1229
+Voltage: 0.990 V
+Raw ADC Value: 1235
+Voltage: 0.995 V
+Raw ADC Value: 1230
+Voltage: 0.991 V
+Raw ADC Value: 1238
+Voltage: 0.998 V
+Raw ADC Value: 1237
+Voltage: 0.997 V
+Raw ADC Value: 1237
+Voltage: 0.997 V
+Raw ADC Value: 1236
+Voltage: 0.996 V
+Raw ADC Value: 1230
+Voltage: 0.991 V
+Raw ADC Value: 1232
+Voltage: 0.993 V
+Raw ADC Value: 1235
+Voltage: 0.995 V
+Raw ADC Value: 1230
+Voltage: 0.991 V
+Raw ADC Value: 1236
+Voltage: 0.996 V
+Raw ADC Value: 1231
+Voltage: 0.992 V
+Raw ADC Value: 1235
+Voltage: 0.995 V
+Raw ADC Value: 1235
+Voltage: 0.995 V
+Raw ADC Value: 1234
+Voltage: 0.994 V
+Raw ADC Value: 1235
+Voltage: 0.995 V
+Raw ADC Value: 1230
+Voltage: 0.991 V
+Raw ADC Value: 1233
+Voltage: 0.994 V
+Raw ADC Value: 1233
+Voltage: 0.994 V
+Raw ADC Value: 1235
+Voltage: 0.995 V
+Raw ADC Value: 1234
+Voltage: 0.994 V
+Raw ADC Value: 1235
+Voltage: 0.995 V
+Raw ADC Value: 1230
+Voltage: 0.991 V
+Raw ADC Value: 1233
+Voltage: 0.994 V
+Raw ADC Value: 1236
+Voltage: 0.996 V
+Raw ADC Value: 1240
+Voltage: 0.999 V
+Raw ADC Value: 1234
+Voltage: 0.994 V
+Raw ADC Value: 1238
+Voltage: 0.998 V
+Raw ADC Value: 1230
+Voltage: 0.991 V
+Raw ADC Value: 1230
+Voltage: 0.991 V
+Raw ADC Value: 1235
+Voltage: 0.995 V
+Raw ADC Value: 1235
+Voltage: 0.995 V
+Raw ADC Value: 1236
+Voltage: 0.996 V
+Raw ADC Value: 1230
+Voltage: 0.991 V
+Raw ADC Value: 1229
+Voltage: 0.990 V
+Raw ADC Value: 1231
+Voltage: 0.992 V
+Raw ADC Value: 1231
+Voltage: 0.992 V
+Raw ADC Value: 1230
+Voltage: 0.991 V
+Raw ADC Value: 1233
+Voltage: 0.994 V
+Raw ADC Value: 1231
+Voltage: 0.992 V
+Raw ADC Value: 1239
+Voltage: 0.998 V
+Raw ADC Value: 1234
+Voltage: 0.994 V
+Raw ADC Value: 1234
+Voltage: 0.994 V
+Raw ADC Value: 1230
+Voltage: 0.991 V
+Raw ADC Value: 1231
+Voltage: 0.992 V
+Raw ADC Value: 1237
+Voltage: 0.997 V
+Raw ADC Value: 1226
+Voltage: 0.988 V
+Raw ADC Value: 1235
+Voltage: 0.995 V
+Raw ADC Value: 1233
+Voltage: 0.994 V
+Raw ADC Value: 1232
+Voltage: 0.993 V
+Raw ADC Value: 1235
+Voltage: 0.995 V
+Raw ADC Value: 1228
+Voltage: 0.990 V
+Raw ADC Value: 1233
+Voltage: 0.994 V
+Raw ADC Value: 1235
+Voltage: 0.995 V
+Raw ADC Value: 1227
+Voltage: 0.989 V
+Raw ADC Value: 1234
+Voltage: 0.994 V
+Raw ADC Value: 1229
+Voltage: 0.990 V
+Raw ADC Value: 1229
+Voltage: 0.990 V
+Raw ADC Value: 1230
+Voltage: 0.991 V
+Raw ADC Value: 1237
+Voltage: 0.997 V
+Raw ADC Value: 1234
+Voltage: 0.994 V
+Raw ADC Value: 1229
+Voltage: 0.990 V
+Raw ADC Value: 1231
+Voltage: 0.992 V
+Raw ADC Value: 1231
+Voltage: 0.992 V
+Raw ADC Value: 1236
+Voltage: 0.996 V
+Raw ADC Value: 1230
+Voltage: 0.991 V
+Raw ADC Value: 1234
+Voltage: 0.994 V
+Raw ADC Value: 1230
+Voltage: 0.991 V
+Raw ADC Value: 1233
+Voltage: 0.994 V
+Raw ADC Value: 1230
+Voltage: 0.991 V
+Raw ADC Value: 1232
+Voltage: 0.993 V
+Raw ADC Value: 1233
+Voltage: 0.994 V
+Raw ADC Value: 1227
+Voltage: 0.989 V
+Raw ADC Value: 1229
+Voltage: 0.990 V
+Raw ADC Value: 1237
+Voltage: 0.997 V
+Raw ADC Value: 1229
+Voltage: 0.990 V
+Raw ADC Value: 1233
+Voltage: 0.994 V
+Raw ADC Value: 1231
+Voltage: 0.992 V
+Raw ADC Value: 1229
+Voltage: 0.990 V
+Raw ADC Value: 1228
+Voltage: 0.990 V
+Raw ADC Value: 1237
+Voltage: 0.997 V
+Raw ADC Value: 1231
+Voltage: 0.992 V
+Raw ADC Value: 1231
+Voltage: 0.992 V
+Raw ADC Value: 1234
+Voltage: 0.994 V
+Raw ADC Value: 1228
+Voltage: 0.990 V
+Raw ADC Value: 1227
+Voltage: 0.989 V
+Raw ADC Value: 1235
+Voltage: 0.995 V
+Raw ADC Value: 1230
+Voltage: 0.991 V
+Raw ADC Value: 1236
+Voltage: 0.996 V
+Raw ADC Value: 1229
+Voltage: 0.990 V
+Raw ADC Value: 1235
+Voltage: 0.995 V
+Raw ADC Value: 1230
+Voltage: 0.991 V
+Raw ADC Value: 1238
+Voltage: 0.998 V
+Raw ADC Value: 1230
+Voltage: 0.991 V
+Raw ADC Value: 1233
+Voltage: 0.994 V
+Raw ADC Value: 1236
+Voltage: 0.996 V
+Raw ADC Value: 1235
+Voltage: 0.995 V
+Raw ADC Value: 1235
+Voltage: 0.995 V
+Raw ADC Value: 1226
+Voltage: 0.988 V
+Raw ADC Value: 1234
+Voltage: 0.994 V
+Raw ADC Value: 1228
+Voltage: 0.990 V
+Raw ADC Value: 1238
+Voltage: 0.998 V
+Raw ADC Value: 1233
+Voltage: 0.994 V
+Raw ADC Value: 1229
+Voltage: 0.990 V
+Raw ADC Value: 1227
+Voltage: 0.989 V
+Raw ADC Value: 1235
+Voltage: 0.995 V
+Raw ADC Value: 1229
+Voltage: 0.990 V
+Raw ADC Value: 1237
+Voltage: 0.997 V
+Raw ADC Value: 1236
+Voltage: 0.996 V
+Raw ADC Value: 1234
+Voltage: 0.994 V
+Raw ADC Value: 1236
+Voltage: 0.996 V
+Raw ADC Value: 1232
+Voltage: 0.993 V
+Raw ADC Value: 1235
+Voltage: 0.995 V
+Raw ADC Value: 1236
+Voltage: 0.996 V
+Raw ADC Value: 1230
+Voltage: 0.991 V
+Raw ADC Value: 1235
+Voltage: 0.995 V
+Raw ADC Value: 1230
+Voltage: 0.991 V
+Raw ADC Value: 1228
+Voltage: 0.990 V
+Raw ADC Value: 1232
+Voltage: 0.993 V
+Raw ADC Value: 1234
+Voltage: 0.994 V
+Raw ADC Value: 1227
+Voltage: 0.989 V
+Raw ADC Value: 1229
+Voltage: 0.990 V
+Raw ADC Value: 1234
+Voltage: 0.994 V
+Raw ADC Value: 1235
+Voltage: 0.995 V
+Raw ADC Value: 1229
+Voltage: 0.990 V
+Raw ADC Value: 1227
+Voltage: 0.989 V
+Raw ADC Value: 1235
+Voltage: 0.995 V
+Raw ADC Value: 1235
+Voltage: 0.995 V
+Raw ADC Value: 1234
+Voltage: 0.994 V
+Raw ADC Value: 1232
+Voltage: 0.993 V
+Raw ADC Value: 1231
+Voltage: 0.992 V
+Raw ADC Value: 1231
+Voltage: 0.992 V
+Raw ADC Value: 1233
+Voltage: 0.994 V
+Raw ADC Value: 1233
+Voltage: 0.994 V
+Raw ADC Value: 1234
+Voltage: 0.994 V
+Raw ADC Value: 1236
+Voltage: 0.996 V
+Raw ADC Value: 1237
+Voltage: 0.997 V
+Raw ADC Value: 1233
+Voltage: 0.994 V
+Raw ADC Value: 1234
+Voltage: 0.994 V
+Raw ADC Value: 1228
+Voltage: 0.990 V
+Raw ADC Value: 1236
+Voltage: 0.996 V
+Raw ADC Value: 1227
+Voltage: 0.989 V
+Raw ADC Value: 1227
+Voltage: 0.989 V
+Raw ADC Value: 1235
+Voltage: 0.995 V
+Raw ADC Value: 1229
+Voltage: 0.990 V
+Raw ADC Value: 1235
+Voltage: 0.995 V
+Raw ADC Value: 1237
+Voltage: 0.997 V
+Raw ADC Value: 1233
+Voltage: 0.994 V
+Raw ADC Value: 1229
+Voltage: 0.990 V
+Raw ADC Value: 1231
+Voltage: 0.992 V
+Raw ADC Value: 1235
+Voltage: 0.995 V
+Raw ADC Value: 1228
+Voltage: 0.990 V
+Raw ADC Value: 1236
+Voltage: 0.996 V
+Raw ADC Value: 1232
+Voltage: 0.993 V
+Raw ADC Value: 1230
+Voltage: 0.991 V
+Raw ADC Value: 1237
+Voltage: 0.997 V
+Raw ADC Value: 1237
+Voltage: 0.997 V
+Raw ADC Value: 1233
+Voltage: 0.994 V
+Raw ADC Value: 1231
+Voltage: 0.992 V
+Raw ADC Value: 1231
+Voltage: 0.992 V
+Raw ADC Value: 1233
+Voltage: 0.994 V
+Raw ADC Value: 1233
+Voltage: 0.994 V
+Raw ADC Value: 1230
+Voltage: 0.991 V
+Raw ADC Value: 1237
+Voltage: 0.997 V
+Raw ADC Value: 1230
+Voltage: 0.991 V
+Raw ADC Value: 1233
+Voltage: 0.994 V
+Raw ADC Value: 1231
+Voltage: 0.992 V
+Raw ADC Value: 1231
+Voltage: 0.992 V
+Raw ADC Value: 1236
+Voltage: 0.996 V
+Raw ADC Value: 1238
+Voltage: 0.998 V
+Raw ADC Value: 1235
+Voltage: 0.995 V
+Raw ADC Value: 1230
+Voltage: 0.991 V
+Raw ADC Value: 1235
+Voltage: 0.995 V
+Raw ADC Value: 1228
+Voltage: 0.990 V
+Raw ADC Value: 1236
+Voltage: 0.996 V
+Raw ADC Value: 1234
+Voltage: 0.994 V
+Raw ADC Value: 1237
+Voltage: 0.997 V
+Raw ADC Value: 1230
+Voltage: 0.991 V
+Raw ADC Value: 1230
+Voltage: 0.991 V
+Raw ADC Value: 1237
+Voltage: 0.997 V
+Raw ADC Value: 1232
+Voltage: 0.993 V
+Raw ADC Value: 1235
+Voltage: 0.995 V
+Raw ADC Value: 1231
+Voltage: 0.992 V
+Raw ADC Value: 1228
+Voltage: 0.990 V
+Raw ADC Value: 1233
+Voltage: 0.994 V
+Raw ADC Value: 1232
+Voltage: 0.993 V
+Raw ADC Value: 1236
+Voltage: 0.996 V
+Raw ADC Value: 1233
+Voltage: 0.994 V
+Raw ADC Value: 1229
+Voltage: 0.990 V
+Raw ADC Value: 1231
+Voltage: 0.992 V
+Raw ADC Value: 1238
+Voltage: 0.998 V
+Raw ADC Value: 1232
+Voltage: 0.993 V
+Raw ADC Value: 1230
+Voltage: 0.991 V
+Raw ADC Value: 1231
+Voltage: 0.992 V
+Raw ADC Value: 1229
+Voltage: 0.990 V
+Raw ADC Value: 1228
+Voltage: 0.990 V
+Raw ADC Value: 1228
+Voltage: 0.990 V
+Raw ADC Value: 1232
+Voltage: 0.993 V
+Raw ADC Value: 1230
+Voltage: 0.991 V
+Raw ADC Value: 1230
+Voltage: 0.991 V
+Raw ADC Value: 1231
+Voltage: 0.992 V
+Raw ADC Value: 1232
+Voltage: 0.993 V
+Raw ADC Value: 1229
+Voltage: 0.990 V
+Raw ADC Value: 1228
+Voltage: 0.990 V
+Raw ADC Value: 1234
+Voltage: 0.994 V
+Raw ADC Value: 1230
+Voltage: 0.991 V
+Raw ADC Value: 1236
+Voltage: 0.996 V
+Raw ADC Value: 1228
+Voltage: 0.990 V
+Raw ADC Value: 1229
+Voltage: 0.990 V
+Raw ADC Value: 1232
+Voltage: 0.993 V
+Raw ADC Value: 1234
+Voltage: 0.994 V
+Raw ADC Value: 1236
+Voltage: 0.996 V
+Raw ADC Value: 1234
+Voltage: 0.994 V
+Raw ADC Value: 1229
+Voltage: 0.990 V
+Raw ADC Value: 1230
+Voltage: 0.991 V
+Raw ADC Value: 1232
+Voltage: 0.993 V
+Raw ADC Value: 1234
+Voltage: 0.994 V
+Raw ADC Value: 1230
+Voltage: 0.991 V
+Raw ADC Value: 1238
+Voltage: 0.998 V
+Raw ADC Value: 1230
+Voltage: 0.991 V
+Raw ADC Value: 1235
+Voltage: 0.995 V
+Raw ADC Value: 1232
+Voltage: 0.993 V
+Raw ADC Value: 1233
+Voltage: 0.994 V
+Raw ADC Value: 1231
+Voltage: 0.992 V
+Raw ADC Value: 1232
+Voltage: 0.993 V
+Raw ADC Value: 1232
+Voltage: 0.993 V
+Raw ADC Value: 1232
+Voltage: 0.993 V
+Raw ADC Value: 1230
+Voltage: 0.991 V
+Raw ADC Value: 1235
+Voltage: 0.995 V
+Raw ADC Value: 1234
+Voltage: 0.994 V
+Raw ADC Value: 1236
+Voltage: 0.996 V
+Raw ADC Value: 1231
+Voltage: 0.992 V
+Raw ADC Value: 1226
+Voltage: 0.988 V
+Raw ADC Value: 1235
+Voltage: 0.995 V
+Raw ADC Value: 1235
+Voltage: 0.995 V
+Raw ADC Value: 1235
+Voltage: 0.995 V
+Raw ADC Value: 1230
+Voltage: 0.991 V
+Raw ADC Value: 1230
+Voltage: 0.991 V
+Raw ADC Value: 1233
+Voltage: 0.994 V
+Raw ADC Value: 1232
+Voltage: 0.993 V
+Raw ADC Value: 1230
+Voltage: 0.991 V
+Raw ADC Value: 1235
+Voltage: 0.995 V
+Raw ADC Value: 1236
+Voltage: 0.996 V
+Raw ADC Value: 1226
+Voltage: 0.988 V
+Raw ADC Value: 1234
+Voltage: 0.994 V
+Raw ADC Value: 1229
+Voltage: 0.990 V
+Raw ADC Value: 1230
+Voltage: 0.991 V
+Raw ADC Value: 1230
+Voltage: 0.991 V
+Raw ADC Value: 1227
+Voltage: 0.989 V
+Raw ADC Value: 1235
+Voltage: 0.995 V
+Raw ADC Value: 1236
+Voltage: 0.996 V
+Raw ADC Value: 1229
+Voltage: 0.990 V
+Raw ADC Value: 1235
+Voltage: 0.995 V
+Raw ADC Value: 1227
+Voltage: 0.989 V
+Raw ADC Value: 1229
+Voltage: 0.990 V
+Raw ADC Value: 1235
+Voltage: 0.995 V
+Raw ADC Value: 1234
+Voltage: 0.994 V
+Raw ADC Value: 1228
+Voltage: 0.990 V
+Raw ADC Value: 1235
+Voltage: 0.995 V
+Raw ADC Value: 1229
+Voltage: 0.990 V
+Raw ADC Value: 1237
+Voltage: 0.997 V
+Raw ADC Value: 1227
+Voltage: 0.989 V
+Raw ADC Value: 1233
+Voltage: 0.994 V
+Raw ADC Value: 1233
+Voltage: 0.994 V
+Raw ADC Value: 1229
+Voltage: 0.990 V
+Raw ADC Value: 1228
+Voltage: 0.990 V
+Raw ADC Value: 1235
+Voltage: 0.995 V
+Raw ADC Value: 1235
+Voltage: 0.995 V
+Raw ADC Value: 1229
+Voltage: 0.990 V
+Raw ADC Value: 1238
+Voltage: 0.998 V
+Raw ADC Value: 1230
+Voltage: 0.991 V
+Raw ADC Value: 1234
+Voltage: 0.994 V
+Raw ADC Value: 1233
+Voltage: 0.994 V
+Raw ADC Value: 1231
+Voltage: 0.992 V
+Raw ADC Value: 1234
+Voltage: 0.994 V
+Raw ADC Value: 1232
+Voltage: 0.993 V
+Raw ADC Value: 1228
+Voltage: 0.990 V
+Raw ADC Value: 1234
+Voltage: 0.994 V
+Raw ADC Value: 1232
+Voltage: 0.993 V
+Raw ADC Value: 1230
+Voltage: 0.991 V
+Raw ADC Value: 1235
+Voltage: 0.995 V
+Raw ADC Value: 1235
+Voltage: 0.995 V
+Raw ADC Value: 1229
+Voltage: 0.990 V
+Raw ADC Value: 1232
+Voltage: 0.993 V
+Raw ADC Value: 1231
+Voltage: 0.992 V
+Raw ADC Value: 1234
+Voltage: 0.994 V
+Raw ADC Value: 1233
+Voltage: 0.994 V
+Raw ADC Value: 1235
+Voltage: 0.995 V
+Raw ADC Value: 1232
+Voltage: 0.993 V
+Raw ADC Value: 1239
+Voltage: 0.998 V
+Raw ADC Value: 1237
+Voltage: 0.997 V
+Raw ADC Value: 1235
+Voltage: 0.995 V
+Raw ADC Value: 1237
+Voltage: 0.997 V
+Raw ADC Value: 1237
+Voltage: 0.997 V
+Raw ADC Value: 1230
+Voltage: 0.991 V
+Raw ADC Value: 1237
+Voltage: 0.997 V
+Raw ADC Value: 1235
+Voltage: 0.995 V
+Raw ADC Value: 1232
+Voltage: 0.993 V
+Raw ADC Value: 1230
+Voltage: 0.991 V
+Raw ADC Value: 1230
+Voltage: 0.991 V
+Raw ADC Value: 1228
+Voltage: 0.990 V
+Raw ADC Value: 1234
+Voltage: 0.994 V
+Raw ADC Value: 1235
+Voltage: 0.995 V
+Raw ADC Value: 1233
+Voltage: 0.994 V
+Raw ADC Value: 1236
+Voltage: 0.996 V
+Raw ADC Value: 1233
+Voltage: 0.994 V
+Raw ADC Value: 1229
+Voltage: 0.990 V
+Raw ADC Value: 1236
+Voltage: 0.996 V
+Raw ADC Value: 1231
+Voltage: 0.992 V
+Raw ADC Value: 1235
+Voltage: 0.995 V
+Raw ADC Value: 1234
+Voltage: 0.994 V
+Raw ADC Value: 1234
+Voltage: 0.994 V
+Raw ADC Value: 1232
+Voltage: 0.993 V
+Raw ADC Value: 1232
+Voltage: 0.993 V
+Raw ADC Value: 1232
+Voltage: 0.993 V
+Raw ADC Value: 1236
+Voltage: 0.996 V
+Raw ADC Value: 1226
+Voltage: 0.988 V
+Raw ADC Value: 1235
+Voltage: 0.995 V
+Raw ADC Value: 1229
+Voltage: 0.990 V
+Raw ADC Value: 1228
+Voltage: 0.990 V
+Raw ADC Value: 1231
+Voltage: 0.992 V
+Raw ADC Value: 1233
+Voltage: 0.994 V
+Raw ADC Value: 1230
+Voltage: 0.991 V
+Raw ADC Value: 1234
+Voltage: 0.994 V
+Raw ADC Value: 1227
+Voltage: 0.989 V
+Raw ADC Value: 1232
+Voltage: 0.993 V
+Raw ADC Value: 1236
+Voltage: 0.996 V
+Raw ADC Value: 1232
+Voltage: 0.993 V
+Raw ADC Value: 1227
+Voltage: 0.989 V
+Raw ADC Value: 1235
+Voltage: 0.995 V
+Raw ADC Value: 1229
+Voltage: 0.990 V
+Raw ADC Value: 1230
+Voltage: 0.991 V
+Raw ADC Value: 1231
+Voltage: 0.992 V
+Raw ADC Value: 1235
+Voltage: 0.995 V
+Raw ADC Value: 1227
+Voltage: 0.989 V
+Raw ADC Value: 1228
+Voltage: 0.990 V
+Raw ADC Value: 1236
+Voltage: 0.996 V
+Raw ADC Value: 1237
+Voltage: 0.997 V
+Raw ADC Value: 1233
+Voltage: 0.994 V
+Raw ADC Value: 1230
+Voltage: 0.991 V
+Raw ADC Value: 1234
+Voltage: 0.994 V
+Raw ADC Value: 1234
+Voltage: 0.994 V
+Raw ADC Value: 1228
+Voltage: 0.990 V
+Raw ADC Value: 1229
+Voltage: 0.990 V
+Raw ADC Value: 1232
+Voltage: 0.993 V
+Raw ADC Value: 1229
+Voltage: 0.990 V
+Raw ADC Value: 1235
+Voltage: 0.995 V
+Raw ADC Value: 1234
+Voltage: 0.994 V
+Raw ADC Value: 1232
+Voltage: 0.993 V
+Raw ADC Value: 1235
+Voltage: 0.995 V
+Raw ADC Value: 1226
+Voltage: 0.988 V
+Raw ADC Value: 1230
+Voltage: 0.991 V
+Raw ADC Value: 1231
+Voltage: 0.992 V
+Raw ADC Value: 1234
+Voltage: 0.994 V
+Raw ADC Value: 1227
+Voltage: 0.989 V
+Raw ADC Value: 1231
+Voltage: 0.992 V
+Raw ADC Value: 1230
+Voltage: 0.991 V
+Raw ADC Value: 1228
+Voltage: 0.990 V
+Raw ADC Value: 1229
+Voltage: 0.990 V
+Raw ADC Value: 1232
+Voltage: 0.993 V
+Raw ADC Value: 1229
+Voltage: 0.990 V
+Raw ADC Value: 1229
+Voltage: 0.990 V
+Raw ADC Value: 1234
+Voltage: 0.994 V
+Raw ADC Value: 1236
+Voltage: 0.996 V
+Raw ADC Value: 1230
+Voltage: 0.991 V
+Raw ADC Value: 1227
+Voltage: 0.989 V
+Raw ADC Value: 1232
+Voltage: 0.993 V
+Raw ADC Value: 1235
+Voltage: 0.995 V
+Raw ADC Value: 1234
+Voltage: 0.994 V
+Raw ADC Value: 1231
+Voltage: 0.992 V
+Raw ADC Value: 1232
+Voltage: 0.993 V
+Raw ADC Value: 1235
+Voltage: 0.995 V
+Raw ADC Value: 1230
+Voltage: 0.991 V
+Raw ADC Value: 1229
+Voltage: 0.990 V
+Raw ADC Value: 1229
+Voltage: 0.990 V
+Raw ADC Value: 1234
+Voltage: 0.994 V
+Raw ADC Value: 1228
+Voltage: 0.990 V
+Raw ADC Value: 1230
+Voltage: 0.991 V
+Raw ADC Value: 1229
+Voltage: 0.990 V
+Raw ADC Value: 1232
+Voltage: 0.993 V
+Raw ADC Value: 1235
+Voltage: 0.995 V
+Raw ADC Value: 1231
+Voltage: 0.992 V
+Raw ADC Value: 1235
+Voltage: 0.995 V
+Raw ADC Value: 1231
+Voltage: 0.992 V
+Raw ADC Value: 1227
+Voltage: 0.989 V
+Raw ADC Value: 1232
+Voltage: 0.993 V
+Raw ADC Value: 1231
+Voltage: 0.992 V
+Raw ADC Value: 1232
+Voltage: 0.993 V
+Raw ADC Value: 1235
+Voltage: 0.995 V
+Raw ADC Value: 1234
+Voltage: 0.994 V
+Raw ADC Value: 1229
+Voltage: 0.990 V
+Raw ADC Value: 1236
+Voltage: 0.996 V
+Raw ADC Value: 1237
+Voltage: 0.997 V
+Raw ADC Value: 1235
+Voltage: 0.995 V
+Raw ADC Value: 1231
+Voltage: 0.992 V
+Raw ADC Value: 1234
+Voltage: 0.994 V
+Raw ADC Value: 1229
+Voltage: 0.990 V
+Raw ADC Value: 1228
+Voltage: 0.990 V
+Raw ADC Value: 1236
+Voltage: 0.996 V
+Raw ADC Value: 1228
+Voltage: 0.990 V
+Raw ADC Value: 1228
+Voltage: 0.990 V
+Raw ADC Value: 1228
+Voltage: 0.990 V
+Raw ADC Value: 1227
+Voltage: 0.989 V
+Raw ADC Value: 1230
+Voltage: 0.991 V
+Raw ADC Value: 1229
+Voltage: 0.990 V
+Raw ADC Value: 1229
+Voltage: 0.990 V
+Raw ADC Value: 1228
+Voltage: 0.990 V
+Raw ADC Value: 1233
+Voltage: 0.994 V
+Raw ADC Value: 1229
+Voltage: 0.990 V
+Raw ADC Value: 1230
+Voltage: 0.991 V
+Raw ADC Value: 1231
+Voltage: 0.992 V
+Raw ADC Value: 1233
+Voltage: 0.994 V
+Raw ADC Value: 1235
+Voltage: 0.995 V
+Raw ADC Value: 1234
+Voltage: 0.994 V
+Raw ADC Value: 1235
+Voltage: 0.995 V
+Raw ADC Value: 1228
+Voltage: 0.990 V
+Raw ADC Value: 1234
+Voltage: 0.994 V
+Raw ADC Value: 1231
+Voltage: 0.992 V
+Raw ADC Value: 1229
+Voltage: 0.990 V
+Raw ADC Value: 1233
+Voltage: 0.994 V
+Raw ADC Value: 1228
+Voltage: 0.990 V
+Raw ADC Value: 1235
+Voltage: 0.995 V
+Raw ADC Value: 1234
+Voltage: 0.994 V
+Raw ADC Value: 1230
+Voltage: 0.991 V
+Raw ADC Value: 1229
+Voltage: 0.990 V
+Raw ADC Value: 1236
+Voltage: 0.996 V
+Raw ADC Value: 1236
+Voltage: 0.996 V
+Raw ADC Value: 1234
+Voltage: 0.994 V
+Raw ADC Value: 1231
+Voltage: 0.992 V
+Raw ADC Value: 1232
+Voltage: 0.993 V
+Raw ADC Value: 1229
+Voltage: 0.990 V
+Raw ADC Value: 1235
+Voltage: 0.995 V
+Raw ADC Value: 1232
+Voltage: 0.993 V
+Raw ADC Value: 1226
+Voltage: 0.988 V
+Raw ADC Value: 1235
+Voltage: 0.995 V
+Raw ADC Value: 1233
+Voltage: 0.994 V
+Raw ADC Value: 1230
+Voltage: 0.991 V
+Raw ADC Value: 1234
+Voltage: 0.994 V
+Raw ADC Value: 1234
+Voltage: 0.994 V
+Raw ADC Value: 1231
+Voltage: 0.992 V
+Raw ADC Value: 1230
+Voltage: 0.991 V
+Raw ADC Value: 1233
+Voltage: 0.994 V
+Raw ADC Value: 1227
+Voltage: 0.989 V
+Raw ADC Value: 1230
+Voltage: 0.991 V
+Raw ADC Value: 1235
+Voltage: 0.995 V
+Raw ADC Value: 1236
+Voltage: 0.996 V
+Raw ADC Value: 1228
+Voltage: 0.990 V
+Raw ADC Value: 1235
+Voltage: 0.995 V
+Raw ADC Value: 1236
+Voltage: 0.996 V
+Raw ADC Value: 1229
+Voltage: 0.990 V
+Raw ADC Value: 1229
+Voltage: 0.990 V
+Raw ADC Value: 1233
+Voltage: 0.994 V
+Raw ADC Value: 1233
+Voltage: 0.994 V
+Raw ADC Value: 1228
+Voltage: 0.990 V
+Raw ADC Value: 1230
+Voltage: 0.991 V
+Raw ADC Value: 1234
+Voltage: 0.994 V
+Raw ADC Value: 1230
+Voltage: 0.991 V
+Raw ADC Value: 1234
+Voltage: 0.994 V
+Raw ADC Value: 1229
+Voltage: 0.990 V
+Raw ADC Value: 1237
+Voltage: 0.997 V
+Raw ADC Value: 1228
+Voltage: 0.990 V
+Raw ADC Value: 1234
+Voltage: 0.994 V
+Raw ADC Value: 1237
+Voltage: 0.997 V
+Raw ADC Value: 1231
+Voltage: 0.992 V
+Raw ADC Value: 1232
+Voltage: 0.993 V
+Raw ADC Value: 1236
+Voltage: 0.996 V
+Raw ADC Value: 1230
+Voltage: 0.991 V
+Raw ADC Value: 1230
+Voltage: 0.991 V
+Raw ADC Value: 1235
+Voltage: 0.995 V
+Raw ADC Value: 1227
+Voltage: 0.989 V
+Raw ADC Value: 1230
+Voltage: 0.991 V
+Raw ADC Value: 1239
+Voltage: 0.998 V
+Raw ADC Value: 1229
+Voltage: 0.990 V
+Raw ADC Value: 1235
+Voltage: 0.995 V
+Raw ADC Value: 1235
+Voltage: 0.995 V
+Raw ADC Value: 1238
+Voltage: 0.998 V
+Raw ADC Value: 1231
+Voltage: 0.992 V
+Raw ADC Value: 1234
+Voltage: 0.994 V
+Raw ADC Value: 1237
+Voltage: 0.997 V
+Raw ADC Value: 1237
+Voltage: 0.997 V
+Raw ADC Value: 1227
+Voltage: 0.989 V
+Raw ADC Value: 1234
+Voltage: 0.994 V
+Raw ADC Value: 1234
+Voltage: 0.994 V
+Raw ADC Value: 1233
+Voltage: 0.994 V
+Raw ADC Value: 1227
+Voltage: 0.989 V
+Raw ADC Value: 1237
+Voltage: 0.997 V
+Raw ADC Value: 1234
+Voltage: 0.994 V
+Raw ADC Value: 1237
+Voltage: 0.997 V
+Raw ADC Value: 1228
+Voltage: 0.990 V
+Raw ADC Value: 1230
+Voltage: 0.991 V
+Raw ADC Value: 1236
+Voltage: 0.996 V
+Raw ADC Value: 1236
+Voltage: 0.996 V
+Raw ADC Value: 1236
+Voltage: 0.996 V
+Raw ADC Value: 1233
+Voltage: 0.994 V
+Raw ADC Value: 1236
+Voltage: 0.996 V
+Raw ADC Value: 1232
+Voltage: 0.993 V
+Raw ADC Value: 1229
+Voltage: 0.990 V
+Raw ADC Value: 1229
+Voltage: 0.990 V
+Raw ADC Value: 1231
+Voltage: 0.992 V
+Raw ADC Value: 1233
+Voltage: 0.994 V
+Raw ADC Value: 1228
+Voltage: 0.990 V
+Raw ADC Value: 1237
+Voltage: 0.997 V
+Raw ADC Value: 1234
+Voltage: 0.994 V
+Raw ADC Value: 1227
+Voltage: 0.989 V
+Raw ADC Value: 1229
+Voltage: 0.990 V
+Raw ADC Value: 1237
+Voltage: 0.997 V
+Raw ADC Value: 1235
+Voltage: 0.995 V
+Raw ADC Value: 1234
+Voltage: 0.994 V
+Raw ADC Value: 1230
+Voltage: 0.991 V
+Raw ADC Value: 1230
+Voltage: 0.991 V
+Raw ADC Value: 1232
+Voltage: 0.993 V
+Raw ADC Value: 1233
+Voltage: 0.994 V
+Raw ADC Value: 1234
+Voltage: 0.994 V
+Raw ADC Value: 1235
+Voltage: 0.995 V
+Raw ADC Value: 1236
+Voltage: 0.996 V
+Raw ADC Value: 1229
+Voltage: 0.990 V
+Raw ADC Value: 1234
+Voltage: 0.994 V
+Raw ADC Value: 1234
+Voltage: 0.994 V
+Raw ADC Value: 1230
+Voltage: 0.991 V
+Raw ADC Value: 1229
+Voltage: 0.990 V
+Raw ADC Value: 1231
+Voltage: 0.992 V
+Raw ADC Value: 1231
+Voltage: 0.992 V
+Raw ADC Value: 1231
+Voltage: 0.992 V
+Raw ADC Value: 1227
+Voltage: 0.989 V
+Raw ADC Value: 1234
+Voltage: 0.994 V
+Raw ADC Value: 1229
+Voltage: 0.990 V
+Raw ADC Value: 1235
+Voltage: 0.995 V
+Raw ADC Value: 1234
+Voltage: 0.994 V
+Raw ADC Value: 1233
+Voltage: 0.994 V
+Raw ADC Value: 1228
+Voltage: 0.990 V
+Raw ADC Value: 1235
+Voltage: 0.995 V
+Raw ADC Value: 1229
+Voltage: 0.990 V
+Raw ADC Value: 1234
+Voltage: 0.994 V
+Raw ADC Value: 1228
+Voltage: 0.990 V
+Raw ADC Value: 1237
+Voltage: 0.997 V
+Raw ADC Value: 1232
+Voltage: 0.993 V
+Raw ADC Value: 1235
+Voltage: 0.995 V
+Raw ADC Value: 1233
+Voltage: 0.994 V
+Raw ADC Value: 1230
+Voltage: 0.991 V
+Raw ADC Value: 1233
+Voltage: 0.994 V
+Raw ADC Value: 1235
+Voltage: 0.995 V
+Raw ADC Value: 1237
+Voltage: 0.997 V
+Raw ADC Value: 1236
+Voltage: 0.996 V
+Raw ADC Value: 1231
+Voltage: 0.992 V
+Raw ADC Value: 1237
+Voltage: 0.997 V
+Raw ADC Value: 1232
+Voltage: 0.993 V
+Raw ADC Value: 1237
+Voltage: 0.997 V
+Raw ADC Value: 1232
+Voltage: 0.993 V
+Raw ADC Value: 1228
+Voltage: 0.990 V
+Raw ADC Value: 1233
+Voltage: 0.994 V
+Raw ADC Value: 1237
+Voltage: 0.997 V
+Raw ADC Value: 1234
+Voltage: 0.994 V
+Raw ADC Value: 1232
+Voltage: 0.993 V
+Raw ADC Value: 1238
+Voltage: 0.998 V
+Raw ADC Value: 1229
+Voltage: 0.990 V
+Raw ADC Value: 1232
+Voltage: 0.993 V
+Raw ADC Value: 1230
+Voltage: 0.991 V
+Raw ADC Value: 1235
+Voltage: 0.995 V
+Raw ADC Value: 1236
+Voltage: 0.996 V
+Raw ADC Value: 1231
+Voltage: 0.992 V
+Raw ADC Value: 1236
+Voltage: 0.996 V
+Raw ADC Value: 1236
+Voltage: 0.996 V
+Raw ADC Value: 1230
+Voltage: 0.991 V
+Raw ADC Value: 1233
+Voltage: 0.994 V
+Raw ADC Value: 1234
+Voltage: 0.994 V
+Raw ADC Value: 1234
+Voltage: 0.994 V
+Raw ADC Value: 1231
+Voltage: 0.992 V
+Raw ADC Value: 1231
+Voltage: 0.992 V
+Raw ADC Value: 1232
+Voltage: 0.993 V
+Raw ADC Value: 1230
+Voltage: 0.991 V
+Raw ADC Value: 1237
+Voltage: 0.997 V
+Raw ADC Value: 1229
+Voltage: 0.990 V
+Raw ADC Value: 1232
+Voltage: 0.993 V
+Raw ADC Value: 1230
+Voltage: 0.991 V
+Raw ADC Value: 1232
+Voltage: 0.993 V
+Raw ADC Value: 1237
+Voltage: 0.997 V
+Raw ADC Value: 1236
+Voltage: 0.996 V
+Raw ADC Value: 1235
+Voltage: 0.995 V
+Raw ADC Value: 1230
+Voltage: 0.991 V
+Raw ADC Value: 1235
+Voltage: 0.995 V
+Raw ADC Value: 1236
+Voltage: 0.996 V
+Raw ADC Value: 1231
+Voltage: 0.992 V
+Raw ADC Value: 1238
+Voltage: 0.998 V
+Raw ADC Value: 1237
+Voltage: 0.997 V
+Raw ADC Value: 1238
+Voltage: 0.998 V
+Raw ADC Value: 1231
+Voltage: 0.992 V
+Raw ADC Value: 1238
+Voltage: 0.998 V
+Raw ADC Value: 1230
+Voltage: 0.991 V
+Raw ADC Value: 1237
+Voltage: 0.997 V
+Raw ADC Value: 1232
+Voltage: 0.993 V
+Raw ADC Value: 1232
+Voltage: 0.993 V
+Raw ADC Value: 1236
+Voltage: 0.996 V
+Raw ADC Value: 1238
+Voltage: 0.998 V
+Raw ADC Value: 1234
+Voltage: 0.994 V
+Raw ADC Value: 1232
+Voltage: 0.993 V
+Raw ADC Value: 1232
+Voltage: 0.993 V
+Raw ADC Value: 1237
+Voltage: 0.997 V
+Raw ADC Value: 1231
+Voltage: 0.992 V
+Raw ADC Value: 1234
+Voltage: 0.994 V
+Raw ADC Value: 1231
+Voltage: 0.992 V
+Raw ADC Value: 1239
+Voltage: 0.998 V
+Raw ADC Value: 1240
+Voltage: 0.999 V
+Raw ADC Value: 1238
+Voltage: 0.998 V
+Raw ADC Value: 1231
+Voltage: 0.992 V
+Raw ADC Value: 1236
+Voltage: 0.996 V
+Raw ADC Value: 1239
+Voltage: 0.998 V
+Raw ADC Value: 1231
+Voltage: 0.992 V
+Raw ADC Value: 1230
+Voltage: 0.991 V
+Raw ADC Value: 1237
+Voltage: 0.997 V
+Raw ADC Value: 1234
+Voltage: 0.994 V
+Raw ADC Value: 1233
+Voltage: 0.994 V
+Raw ADC Value: 1231
+Voltage: 0.992 V
+Raw ADC Value: 1235
+Voltage: 0.995 V
+Raw ADC Value: 1237
+Voltage: 0.997 V
+Raw ADC Value: 1231
+Voltage: 0.992 V
+Raw ADC Value: 1234
+Voltage: 0.994 V
+Raw ADC Value: 1237
+Voltage: 0.997 V
+Raw ADC Value: 1229
+Voltage: 0.990 V
+Raw ADC Value: 1238
+Voltage: 0.998 V
+Raw ADC Value: 1233
+Voltage: 0.994 V
+Raw ADC Value: 1236
+Voltage: 0.996 V
+Raw ADC Value: 1233
+Voltage: 0.994 V
+Raw ADC Value: 1236
+Voltage: 0.996 V
+Raw ADC Value: 1229
+Voltage: 0.990 V
+Raw ADC Value: 1233
+Voltage: 0.994 V
+Raw ADC Value: 1230
+Voltage: 0.991 V
+Raw ADC Value: 1235
+Voltage: 0.995 V
+Raw ADC Value: 1232
+Voltage: 0.993 V
+Raw ADC Value: 1239
+Voltage: 0.998 V
+Raw ADC Value: 1231
+Voltage: 0.992 V
+Raw ADC Value: 1230
+Voltage: 0.991 V
+Raw ADC Value: 1236
+Voltage: 0.996 V
+Raw ADC Value: 1238
+Voltage: 0.998 V
+Raw ADC Value: 1232
+Voltage: 0.993 V
+Raw ADC Value: 1237
+Voltage: 0.997 V
+Raw ADC Value: 1231
+Voltage: 0.992 V
+Raw ADC Value: 1237
+Voltage: 0.997 V
+Raw ADC Value: 1232
+Voltage: 0.993 V
+Raw ADC Value: 1237
+Voltage: 0.997 V
+Raw ADC Value: 1232
+Voltage: 0.993 V
+Raw ADC Value: 1237
+Voltage: 0.997 V
+Raw ADC Value: 1231
+Voltage: 0.992 V
+Raw ADC Value: 1235
+Voltage: 0.995 V
+Raw ADC Value: 1231
+Voltage: 0.992 V
+Raw ADC Value: 1229
+Voltage: 0.990 V
+Raw ADC Value: 1236
+Voltage: 0.996 V
+Raw ADC Value: 1229
+Voltage: 0.990 V
+Raw ADC Value: 1237
+Voltage: 0.997 V
+Raw ADC Value: 1232
+Voltage: 0.993 V
+Raw ADC Value: 1230
+Voltage: 0.991 V
+Raw ADC Value: 1238
+Voltage: 0.998 V
+Raw ADC Value: 1240
+Voltage: 0.999 V
+Raw ADC Value: 1232
+Voltage: 0.993 V
+Raw ADC Value: 1236
+Voltage: 0.996 V
+Raw ADC Value: 1237
+Voltage: 0.997 V
+Raw ADC Value: 1230
+Voltage: 0.991 V
+Raw ADC Value: 1240
+Voltage: 0.999 V
+Raw ADC Value: 1235
+Voltage: 0.995 V
+Raw ADC Value: 1232
+Voltage: 0.993 V
+Raw ADC Value: 1231
+Voltage: 0.992 V
+Raw ADC Value: 1230
+Voltage: 0.991 V
+Raw ADC Value: 1230
+Voltage: 0.991 V
+Raw ADC Value: 1230
+Voltage: 0.991 V
+Raw ADC Value: 1228
+Voltage: 0.990 V
+Raw ADC Value: 1237
+Voltage: 0.997 V
+Raw ADC Value: 1234
+Voltage: 0.994 V
+Raw ADC Value: 1237
+Voltage: 0.997 V
+Raw ADC Value: 1234
+Voltage: 0.994 V
+Raw ADC Value: 1238
+Voltage: 0.998 V
+Raw ADC Value: 1234
+Voltage: 0.994 V
+Raw ADC Value: 1238
+Voltage: 0.998 V
+Raw ADC Value: 1229
+Voltage: 0.990 V
+Raw ADC Value: 1236
+Voltage: 0.996 V
+Raw ADC Value: 1228
+Voltage: 0.990 V
+Raw ADC Value: 1229
+Voltage: 0.990 V
+Raw ADC Value: 1236
+Voltage: 0.996 V
+Raw ADC Value: 1229
+Voltage: 0.990 V
+Raw ADC Value: 1234
+Voltage: 0.994 V
+Raw ADC Value: 1236
+Voltage: 0.996 V
+Raw ADC Value: 1237
+Voltage: 0.997 V
+Raw ADC Value: 1239
+Voltage: 0.998 V
+Raw ADC Value: 1237
+Voltage: 0.997 V
+Raw ADC Value: 1231
+Voltage: 0.992 V
+Raw ADC Value: 1233
+Voltage: 0.994 V
+Raw ADC Value: 1235
+Voltage: 0.995 V
+Raw ADC Value: 1238
+Voltage: 0.998 V
+Raw ADC Value: 1228
+Voltage: 0.990 V
+Raw ADC Value: 1235
+Voltage: 0.995 V
+Raw ADC Value: 1230
+Voltage: 0.991 V
+Raw ADC Value: 1237
+Voltage: 0.997 V
+Raw ADC Value: 1235
+Voltage: 0.995 V
+Raw ADC Value: 1232
+Voltage: 0.993 V
+Raw ADC Value: 1238
+Voltage: 0.998 V
+Raw ADC Value: 1230
+Voltage: 0.991 V
+Raw ADC Value: 1230
+Voltage: 0.991 V
+Raw ADC Value: 1228
+Voltage: 0.990 V
+Raw ADC Value: 1237
+Voltage: 0.997 V
+Raw ADC Value: 1236
+Voltage: 0.996 V
+Raw ADC Value: 1238
+Voltage: 0.998 V
+Raw ADC Value: 1237
+Voltage: 0.997 V
+Raw ADC Value: 1228
+Voltage: 0.990 V
+Raw ADC Value: 1231
+Voltage: 0.992 V
+Raw ADC Value: 1230
+Voltage: 0.991 V
+Raw ADC Value: 1231
+Voltage: 0.992 V
+Raw ADC Value: 1230
+Voltage: 0.991 V
+Raw ADC Value: 1231
+Voltage: 0.992 V
+Raw ADC Value: 1238
+Voltage: 0.998 V
+Raw ADC Value: 1230
+Voltage: 0.991 V
+Raw ADC Value: 1230
+Voltage: 0.991 V
+Raw ADC Value: 1228
+Voltage: 0.990 V
+Raw ADC Value: 1232
+Voltage: 0.993 V
+Raw ADC Value: 1234
+Voltage: 0.994 V
+Raw ADC Value: 1234
+Voltage: 0.994 V
+Raw ADC Value: 1231
+Voltage: 0.992 V
+Raw ADC Value: 1228
+Voltage: 0.990 V
+Raw ADC Value: 1230
+Voltage: 0.991 V
+Raw ADC Value: 1236
+Voltage: 0.996 V
+Raw ADC Value: 1236
+Voltage: 0.996 V
+Raw ADC Value: 1238
+Voltage: 0.998 V
+Raw ADC Value: 1239
+Voltage: 0.998 V
+Raw ADC Value: 1231
+Voltage: 0.992 V
+Raw ADC Value: 1232
+Voltage: 0.993 V
+Raw ADC Value: 1231
+Voltage: 0.992 V
+Raw ADC Value: 1235
+Voltage: 0.995 V
+Raw ADC Value: 1230
+Voltage: 0.991 V
+Raw ADC Value: 1229
+Voltage: 0.990 V
+Raw ADC Value: 1232
+Voltage: 0.993 V
+Raw ADC Value: 1238
+Voltage: 0.998 V
+Raw ADC Value: 1238
+Voltage: 0.998 V
+Raw ADC Value: 1236
+Voltage: 0.996 V
+Raw ADC Value: 1232
+Voltage: 0.993 V
+Raw ADC Value: 1230
+Voltage: 0.991 V
+Raw ADC Value: 1241
+Voltage: 1.000 V
+Raw ADC Value: 1234
+Voltage: 0.994 V
+Raw ADC Value: 1231
+Voltage: 0.992 V
+Raw ADC Value: 1236
+Voltage: 0.996 V
+Raw ADC Value: 1235
+Voltage: 0.995 V
+Raw ADC Value: 1233
+Voltage: 0.994 V
+Raw ADC Value: 1231
+Voltage: 0.992 V
+Raw ADC Value: 1232
+Voltage: 0.993 V
+Raw ADC Value: 1238
+Voltage: 0.998 V
+Raw ADC Value: 1238
+Voltage: 0.998 V
+Raw ADC Value: 1231
+Voltage: 0.992 V
+Raw ADC Value: 1238
+Voltage: 0.998 V
+Raw ADC Value: 1235
+Voltage: 0.995 V
+Raw ADC Value: 1231
+Voltage: 0.992 V
+Raw ADC Value: 1230
+Voltage: 0.991 V
+Raw ADC Value: 1234
+Voltage: 0.994 V
+Raw ADC Value: 1234
+Voltage: 0.994 V
+Raw ADC Value: 1232
+Voltage: 0.993 V
+Raw ADC Value: 1230
+Voltage: 0.991 V
+Raw ADC Value: 1241
+Voltage: 1.000 V
+Raw ADC Value: 1231
+Voltage: 0.992 V
+Raw ADC Value: 1237
+Voltage: 0.997 V
+Raw ADC Value: 1237
+Voltage: 0.997 V
+Raw ADC Value: 1230
+Voltage: 0.991 V
+Raw ADC Value: 1230
+Voltage: 0.991 V
+Raw ADC Value: 1230
+Voltage: 0.991 V
+Raw ADC Value: 1235
+Voltage: 0.995 V
+Raw ADC Value: 1237
+Voltage: 0.997 V
+Raw ADC Value: 1231
+Voltage: 0.992 V
+Raw ADC Value: 1238
+Voltage: 0.998 V
+Raw ADC Value: 1239
+Voltage: 0.998 V
+Raw ADC Value: 1230
+Voltage: 0.991 V
+Raw ADC Value: 1235
+Voltage: 0.995 V
+Raw ADC Value: 1231
+Voltage: 0.992 V
+Raw ADC Value: 1229
+Voltage: 0.990 V
+Raw ADC Value: 1229
+Voltage: 0.990 V
+Raw ADC Value: 1229
+Voltage: 0.990 V
+Raw ADC Value: 1228
+Voltage: 0.990 V
+Raw ADC Value: 1224
+Voltage: 0.986 V
+Raw ADC Value: 1238
+Voltage: 0.998 V
+Raw ADC Value: 1230
+Voltage: 0.991 V
+Raw ADC Value: 1232
+Voltage: 0.993 V
+Raw ADC Value: 1233
+Voltage: 0.994 V
+Raw ADC Value: 1231
+Voltage: 0.992 V
+Raw ADC Value: 1233
+Voltage: 0.994 V
+Raw ADC Value: 1237
+Voltage: 0.997 V
+Raw ADC Value: 1239
+Voltage: 0.998 V
+Raw ADC Value: 1232
+Voltage: 0.993 V
+Raw ADC Value: 1237
+Voltage: 0.997 V
+Raw ADC Value: 1239
+Voltage: 0.998 V
+Raw ADC Value: 1236
+Voltage: 0.996 V
+Raw ADC Value: 1231
+Voltage: 0.992 V
+Raw ADC Value: 1235
+Voltage: 0.995 V
+Raw ADC Value: 1234
+Voltage: 0.994 V
+Raw ADC Value: 1232
+Voltage: 0.993 V
+Raw ADC Value: 1234
+Voltage: 0.994 V
+Raw ADC Value: 1230
+Voltage: 0.991 V
+Raw ADC Value: 1229
+Voltage: 0.990 V
+Raw ADC Value: 1229
+Voltage: 0.990 V
+Raw ADC Value: 1234
+Voltage: 0.994 V
+Raw ADC Value: 1230
+Voltage: 0.991 V
+Raw ADC Value: 1235
+Voltage: 0.995 V
+Raw ADC Value: 1239
+Voltage: 0.998 V
+Raw ADC Value: 1238
+Voltage: 0.998 V
+Raw ADC Value: 1231
+Voltage: 0.992 V
+Raw ADC Value: 1234
+Voltage: 0.994 V
+Raw ADC Value: 1237
+Voltage: 0.997 V
+Raw ADC Value: 1230
+Voltage: 0.991 V
+Raw ADC Value: 1230
+Voltage: 0.991 V
+Raw ADC Value: 1231
+Voltage: 0.992 V
+Raw ADC Value: 1231
+Voltage: 0.992 V
+Raw ADC Value: 1235
+Voltage: 0.995 V
+Raw ADC Value: 1232
+Voltage: 0.993 V
+Raw ADC Value: 1231
+Voltage: 0.992 V
+Raw ADC Value: 1228
+Voltage: 0.990 V
+Raw ADC Value: 1230
+Voltage: 0.991 V
+Raw ADC Value: 1238
+Voltage: 0.998 V
+Raw ADC Value: 1230
+Voltage: 0.991 V
+Raw ADC Value: 1237
+Voltage: 0.997 V
+Raw ADC Value: 1235
+Voltage: 0.995 V
+Raw ADC Value: 1226
+Voltage: 0.988 V
+Raw ADC Value: 1230
+Voltage: 0.991 V
+Raw ADC Value: 1232
+Voltage: 0.993 V
+Raw ADC Value: 1237
+Voltage: 0.997 V
+Raw ADC Value: 1231
+Voltage: 0.992 V
+Raw ADC Value: 1231
+Voltage: 0.992 V
+Raw ADC Value: 1232
+Voltage: 0.993 V
+Raw ADC Value: 1232
+Voltage: 0.993 V
+Raw ADC Value: 1231
+Voltage: 0.992 V
+Raw ADC Value: 1234
+Voltage: 0.994 V
+Raw ADC Value: 1236
+Voltage: 0.996 V
+Raw ADC Value: 1230
+Voltage: 0.991 V
+Raw ADC Value: 1236
+Voltage: 0.996 V
+Raw ADC Value: 1239
+Voltage: 0.998 V
+Raw ADC Value: 1234
+Voltage: 0.994 V
+Raw ADC Value: 1233
+Voltage: 0.994 V
+Raw ADC Value: 1236
+Voltage: 0.996 V
+Raw ADC Value: 1234
+Voltage: 0.994 V
+Raw ADC Value: 1234
+Voltage: 0.994 V
+Raw ADC Value: 1238
+Voltage: 0.998 V
+Raw ADC Value: 1229
+Voltage: 0.990 V
+Raw ADC Value: 1230
+Voltage: 0.991 V
+Raw ADC Value: 1235
+Voltage: 0.995 V
+Raw ADC Value: 1238
+Voltage: 0.998 V
+Raw ADC Value: 1232
+Voltage: 0.993 V
+Raw ADC Value: 1233
+Voltage: 0.994 V
+Raw ADC Value: 1231
+Voltage: 0.992 V
+Raw ADC Value: 1231
+Voltage: 0.992 V
+Raw ADC Value: 1231
+Voltage: 0.992 V
+Raw ADC Value: 1230
+Voltage: 0.991 V
+Raw ADC Value: 1229
+Voltage: 0.990 V
+Raw ADC Value: 1236
+Voltage: 0.996 V
+Raw ADC Value: 1229
+Voltage: 0.990 V
+Raw ADC Value: 1230
+Voltage: 0.991 V
+Raw ADC Value: 1229
+Voltage: 0.990 V
+Raw ADC Value: 1234
+Voltage: 0.994 V
+Raw ADC Value: 1236
+Voltage: 0.996 V
+Raw ADC Value: 1236
+Voltage: 0.996 V
+Raw ADC Value: 1230
+Voltage: 0.991 V
+Raw ADC Value: 1234
+Voltage: 0.994 V
+Raw ADC Value: 1236
+Voltage: 0.996 V
+Raw ADC Value: 1233
+Voltage: 0.994 V
+Raw ADC Value: 1229
+Voltage: 0.990 V
+Raw ADC Value: 1234
+Voltage: 0.994 V
+Raw ADC Value: 1230
+Voltage: 0.991 V
+Raw ADC Value: 1230
+Voltage: 0.991 V
+Raw ADC Value: 1229
+Voltage: 0.990 V
+Raw ADC Value: 1230
+Voltage: 0.991 V
+Raw ADC Value: 1231
+Voltage: 0.992 V
+Raw ADC Value: 1233
+Voltage: 0.994 V
+Raw ADC Value: 1235
+Voltage: 0.995 V
+Raw ADC Value: 1231
+Voltage: 0.992 V
+Raw ADC Value: 1229
+Voltage: 0.990 V
+Raw ADC Value: 1236
+Voltage: 0.996 V
+Raw ADC Value: 1228
+Voltage: 0.990 V
+Raw ADC Value: 1234
+Voltage: 0.994 V
+Raw ADC Value: 1229
+Voltage: 0.990 V
+Raw ADC Value: 1229
+Voltage: 0.990 V
+Raw ADC Value: 1232
+Voltage: 0.993 V
+Raw ADC Value: 1231
+Voltage: 0.992 V
+Raw ADC Value: 1230
+Voltage: 0.991 V
+Raw ADC Value: 1226
+Voltage: 0.988 V
+Raw ADC Value: 1231
+Voltage: 0.992 V
+Raw ADC Value: 1226
+Voltage: 0.988 V
+Raw ADC Value: 1226
+Voltage: 0.988 V
+Raw ADC Value: 1227
+Voltage: 0.989 V
+Raw ADC Value: 1232
+Voltage: 0.993 V
+Raw ADC Value: 1228
+Voltage: 0.990 V
+Raw ADC Value: 1230
+Voltage: 0.991 V
+Raw ADC Value: 1228
+Voltage: 0.990 V
+Raw ADC Value: 1232
+Voltage: 0.993 V
+Raw ADC Value: 1228
+Voltage: 0.990 V
+Raw ADC Value: 1230
+Voltage: 0.991 V
+Raw ADC Value: 1230
+Voltage: 0.991 V
+Raw ADC Value: 1228
+Voltage: 0.990 V
+Raw ADC Value: 1231
+Voltage: 0.992 V
+Raw ADC Value: 1228
+Voltage: 0.990 V
+Raw ADC Value: 1230
+Voltage: 0.991 V
+Raw ADC Value: 1228
+Voltage: 0.990 V
+Raw ADC Value: 1227
+Voltage: 0.989 V
+Raw ADC Value: 1230
+Voltage: 0.991 V
+Raw ADC Value: 1227
+Voltage: 0.989 V
+Raw ADC Value: 1230
+Voltage: 0.991 V
+Raw ADC Value: 1227
+Voltage: 0.989 V
+Raw ADC Value: 1231
+Voltage: 0.992 V
+Raw ADC Value: 1227
+Voltage: 0.989 V
+Raw ADC Value: 1228
+Voltage: 0.990 V
+Raw ADC Value: 1233
+Voltage: 0.994 V
+Raw ADC Value: 1222
+Voltage: 0.985 V
+Raw ADC Value: 1226
+Voltage: 0.988 V
+Raw ADC Value: 1224
+Voltage: 0.986 V
+Raw ADC Value: 1229
+Voltage: 0.990 V
+Raw ADC Value: 1227
+Voltage: 0.989 V
+Raw ADC Value: 1227
+Voltage: 0.989 V
+Raw ADC Value: 1229
+Voltage: 0.990 V
+Raw ADC Value: 1229
+Voltage: 0.990 V
+Raw ADC Value: 1227
+Voltage: 0.989 V
+Raw ADC Value: 1225
+Voltage: 0.987 V
+Raw ADC Value: 1228
+Voltage: 0.990 V
+Raw ADC Value: 1226
+Voltage: 0.988 V
+Raw ADC Value: 1227
+Voltage: 0.989 V
+Raw ADC Value: 1222
+Voltage: 0.985 V
+Raw ADC Value: 1228
+Voltage: 0.990 V
+Raw ADC Value: 1225
+Voltage: 0.987 V
+Raw ADC Value: 1227
+Voltage: 0.989 V
+Raw ADC Value: 1228
+Voltage: 0.990 V
+Raw ADC Value: 1225
+Voltage: 0.987 V
+Raw ADC Value: 1229
+Voltage: 0.990 V
+Raw ADC Value: 1224
+Voltage: 0.986 V
+Raw ADC Value: 1226
+Voltage: 0.988 V
+Raw ADC Value: 1223
+Voltage: 0.986 V
+Raw ADC Value: 1226
+Voltage: 0.988 V
+Raw ADC Value: 1228
+Voltage: 0.990 V
+Raw ADC Value: 1231
+Voltage: 0.992 V
+Raw ADC Value: 1223
+Voltage: 0.986 V
+Raw ADC Value: 1227
+Voltage: 0.989 V
+Raw ADC Value: 1225
+Voltage: 0.987 V
+Raw ADC Value: 1225
+Voltage: 0.987 V
+Raw ADC Value: 1229
+Voltage: 0.990 V
+Raw ADC Value: 1228
+Voltage: 0.990 V
+Raw ADC Value: 1227
+Voltage: 0.989 V
+Raw ADC Value: 1226
+Voltage: 0.988 V
+Raw ADC Value: 1225
+Voltage: 0.987 V
+Raw ADC Value: 1226
+Voltage: 0.988 V
+Raw ADC Value: 1226
+Voltage: 0.988 V
+Raw ADC Value: 1227
+Voltage: 0.989 V
+Raw ADC Value: 1225
+Voltage: 0.987 V
+Raw ADC Value: 1226
+Voltage: 0.988 V
+Raw ADC Value: 1229
+Voltage: 0.990 V
+Raw ADC Value: 1225
+Voltage: 0.987 V
+Raw ADC Value: 1223
+Voltage: 0.986 V
+Raw ADC Value: 1225
+Voltage: 0.987 V
+Raw ADC Value: 1223
+Voltage: 0.986 V
+Raw ADC Value: 1225
+Voltage: 0.987 V
+Raw ADC Value: 1225
+Voltage: 0.987 V
+Raw ADC Value: 1226
+Voltage: 0.988 V
+Raw ADC Value: 1225
+Voltage: 0.987 V
+Raw ADC Value: 1222
+Voltage: 0.985 V
+Raw ADC Value: 1227
+Voltage: 0.989 V
+Raw ADC Value: 1224
+Voltage: 0.986 V
+Raw ADC Value: 1225
+Voltage: 0.987 V
+Raw ADC Value: 1224
+Voltage: 0.986 V
+Raw ADC Value: 1224
+Voltage: 0.986 V
+Raw ADC Value: 1222
+Voltage: 0.985 V
+Raw ADC Value: 1223
+Voltage: 0.986 V
+Raw ADC Value: 1225
+Voltage: 0.987 V
+Raw ADC Value: 1222
+Voltage: 0.985 V
+Raw ADC Value: 1223
+Voltage: 0.986 V
+Raw ADC Value: 1221
+Voltage: 0.984 V
+Raw ADC Value: 1223
+Voltage: 0.986 V
+Raw ADC Value: 1223
+Voltage: 0.986 V
+Raw ADC Value: 1223
+Voltage: 0.986 V
+Raw ADC Value: 1221
+Voltage: 0.984 V
+Raw ADC Value: 1224
+Voltage: 0.986 V
+Raw ADC Value: 1222
+Voltage: 0.985 V
+Raw ADC Value: 1230
+Voltage: 0.991 V
+Raw ADC Value: 1220
+Voltage: 0.983 V
+Raw ADC Value: 1222
+Voltage: 0.985 V
+Raw ADC Value: 1221
+Voltage: 0.984 V
+Raw ADC Value: 1225
+Voltage: 0.987 V
+Raw ADC Value: 1223
+Voltage: 0.986 V
+Raw ADC Value: 1219
+Voltage: 0.982 V
+Raw ADC Value: 1222
+Voltage: 0.985 V
+Raw ADC Value: 1223
+Voltage: 0.986 V
+Raw ADC Value: 1220
+Voltage: 0.983 V
+Raw ADC Value: 1225
+Voltage: 0.987 V
+Raw ADC Value: 1225
+Voltage: 0.987 V
+Raw ADC Value: 1224
+Voltage: 0.986 V
+Raw ADC Value: 1220
+Voltage: 0.983 V
+Raw ADC Value: 1220
+Voltage: 0.983 V
+Raw ADC Value: 1224
+Voltage: 0.986 V
+Raw ADC Value: 1221
+Voltage: 0.984 V
+Raw ADC Value: 1221
+Voltage: 0.984 V
+Raw ADC Value: 1221
+Voltage: 0.984 V
+Raw ADC Value: 1222
+Voltage: 0.985 V
+Raw ADC Value: 1221
+Voltage: 0.984 V
+Raw ADC Value: 1223
+Voltage: 0.986 V
+Raw ADC Value: 1224
+Voltage: 0.986 V
+Raw ADC Value: 1222
+Voltage: 0.985 V
+Raw ADC Value: 1225
+Voltage: 0.987 V
+Raw ADC Value: 1223
+Voltage: 0.986 V
+Raw ADC Value: 1224
+Voltage: 0.986 V
+Raw ADC Value: 1225
+Voltage: 0.987 V
+Raw ADC Value: 1221
+Voltage: 0.984 V
+Raw ADC Value: 1223
+Voltage: 0.986 V
+Raw ADC Value: 1224
+Voltage: 0.986 V
+Raw ADC Value: 1222
+Voltage: 0.985 V
+Raw ADC Value: 1224
+Voltage: 0.986 V
+Raw ADC Value: 1227
+Voltage: 0.989 V
+Raw ADC Value: 1220
+Voltage: 0.983 V
+Raw ADC Value: 1221
+Voltage: 0.984 V
+Raw ADC Value: 1221
+Voltage: 0.984 V
+Raw ADC Value: 1224
+Voltage: 0.986 V
+Raw ADC Value: 1223
+Voltage: 0.986 V
+Raw ADC Value: 1221
+Voltage: 0.984 V
+Raw ADC Value: 1224
+Voltage: 0.986 V
+Raw ADC Value: 1223
+Voltage: 0.986 V
+Raw ADC Value: 1226
+Voltage: 0.988 V
+Raw ADC Value: 1221
+Voltage: 0.984 V
+Raw ADC Value: 1223
+Voltage: 0.986 V
+Raw ADC Value: 1225
+Voltage: 0.987 V
+Raw ADC Value: 1221
+Voltage: 0.984 V
+Raw ADC Value: 1222
+Voltage: 0.985 V
+Raw ADC Value: 1220
+Voltage: 0.983 V
+Raw ADC Value: 1220
+Voltage: 0.983 V
+Raw ADC Value: 1224
+Voltage: 0.986 V
+Raw ADC Value: 1221
+Voltage: 0.984 V
+Raw ADC Value: 1223
+Voltage: 0.986 V
+Raw ADC Value: 1219
+Voltage: 0.982 V
+Raw ADC Value: 1226
+Voltage: 0.988 V
+Raw ADC Value: 1224
+Voltage: 0.986 V
+Raw ADC Value: 1223
+Voltage: 0.986 V
+Raw ADC Value: 1225
+Voltage: 0.987 V
+Raw ADC Value: 1222
+Voltage: 0.985 V
+Raw ADC Value: 1221
+Voltage: 0.984 V
+Raw ADC Value: 1225
+Voltage: 0.987 V
+Raw ADC Value: 1224
+Voltage: 0.986 V
+Raw ADC Value: 1220
+Voltage: 0.983 V
+Raw ADC Value: 1223
+Voltage: 0.986 V
+Raw ADC Value: 1222
+Voltage: 0.985 V
+Raw ADC Value: 1222
+Voltage: 0.985 V
+Raw ADC Value: 1221
+Voltage: 0.984 V
+Raw ADC Value: 1221
+Voltage: 0.984 V
+Raw ADC Value: 1220
+Voltage: 0.983 V
+Raw ADC Value: 1220
+Voltage: 0.983 V
+Raw ADC Value: 1218
+Voltage: 0.982 V
+Raw ADC Value: 1225
+Voltage: 0.987 V
+Raw ADC Value: 1220
+Voltage: 0.983 V
+Raw ADC Value: 1220
+Voltage: 0.983 V
+Raw ADC Value: 1222
+Voltage: 0.985 V
+Raw ADC Value: 1218
+Voltage: 0.982 V
+Raw ADC Value: 1222
+Voltage: 0.985 V
+Raw ADC Value: 1223
+Voltage: 0.986 V
+Raw ADC Value: 1223
+Voltage: 0.986 V
+Raw ADC Value: 1220
+Voltage: 0.983 V
+Raw ADC Value: 1221
+Voltage: 0.984 V
+Raw ADC Value: 1220
+Voltage: 0.983 V
+Raw ADC Value: 1225
+Voltage: 0.987 V
+Raw ADC Value: 1225
+Voltage: 0.987 V
+Raw ADC Value: 1219
+Voltage: 0.982 V
+Raw ADC Value: 1220
+Voltage: 0.983 V
+Raw ADC Value: 1220
+Voltage: 0.983 V
+Raw ADC Value: 1225
+Voltage: 0.987 V
+Raw ADC Value: 1225
+Voltage: 0.987 V
+Raw ADC Value: 1219
+Voltage: 0.982 V
+Raw ADC Value: 1217
+Voltage: 0.981 V
+Raw ADC Value: 1220
+Voltage: 0.983 V
+Raw ADC Value: 1224
+Voltage: 0.986 V
+Raw ADC Value: 1227
+Voltage: 0.989 V
+Raw ADC Value: 1222
+Voltage: 0.985 V
+Raw ADC Value: 1221
+Voltage: 0.984 V
+Raw ADC Value: 1219
+Voltage: 0.982 V
+Raw ADC Value: 1221
+Voltage: 0.984 V
+Raw ADC Value: 1218
+Voltage: 0.982 V
+Raw ADC Value: 1220
+Voltage: 0.983 V
+Raw ADC Value: 1219
+Voltage: 0.982 V
+Raw ADC Value: 1224
+Voltage: 0.986 V
+Raw ADC Value: 1219
+Voltage: 0.982 V
+Raw ADC Value: 1222
+Voltage: 0.985 V
+Raw ADC Value: 1222
+Voltage: 0.985 V
+Raw ADC Value: 1221
+Voltage: 0.984 V
+Raw ADC Value: 1222
+Voltage: 0.985 V
+Raw ADC Value: 1222
+Voltage: 0.985 V
+Raw ADC Value: 1221
+Voltage: 0.984 V
+Raw ADC Value: 1222
+Voltage: 0.985 V
+Raw ADC Value: 1222
+Voltage: 0.985 V
+Raw ADC Value: 1224
+Voltage: 0.986 V
+Raw ADC Value: 1221
+Voltage: 0.984 V
+Raw ADC Value: 1222
+Voltage: 0.985 V
+Raw ADC Value: 1219
+Voltage: 0.982 V
+Raw ADC Value: 1222
+Voltage: 0.985 V
+Raw ADC Value: 1222
+Voltage: 0.985 V
+Raw ADC Value: 1221
+Voltage: 0.984 V
+Raw ADC Value: 1222
+Voltage: 0.985 V
+Raw ADC Value: 1221
+Voltage: 0.984 V
+Raw ADC Value: 1221
+Voltage: 0.984 V
+Raw ADC Value: 1221
+Voltage: 0.984 V
+Raw ADC Value: 1220
+Voltage: 0.983 V
+Raw ADC Value: 1222
+Voltage: 0.985 V
+Raw ADC Value: 1222
+Voltage: 0.985 V
+Raw ADC Value: 1222
+Voltage: 0.985 V
+Raw ADC Value: 1221
+Voltage: 0.984 V
+Raw ADC Value: 1220
+Voltage: 0.983 V
+Raw ADC Value: 1224
+Voltage: 0.986 V
+Raw ADC Value: 1225
+Voltage: 0.987 V
+Raw ADC Value: 1221
+Voltage: 0.984 V
+Raw ADC Value: 1222
+Voltage: 0.985 V
+Raw ADC Value: 1220
+Voltage: 0.983 V
+Raw ADC Value: 1223
+Voltage: 0.986 V
+Raw ADC Value: 1222
+Voltage: 0.985 V
+Raw ADC Value: 1221
+Voltage: 0.984 V
+Raw ADC Value: 1221
+Voltage: 0.984 V
+Raw ADC Value: 1220
+Voltage: 0.983 V
+Raw ADC Value: 1220
+Voltage: 0.983 V
+Raw ADC Value: 1224
+Voltage: 0.986 V
+Raw ADC Value: 1223
+Voltage: 0.986 V
+Raw ADC Value: 1222
+Voltage: 0.985 V
+Raw ADC Value: 1225
+Voltage: 0.987 V
+Raw ADC Value: 1221
+Voltage: 0.984 V
+Raw ADC Value: 1223
+Voltage: 0.986 V
+Raw ADC Value: 1221
+Voltage: 0.984 V
+Raw ADC Value: 1222
+Voltage: 0.985 V
+Raw ADC Value: 1225
+Voltage: 0.987 V
+Raw ADC Value: 1221
+Voltage: 0.984 V
+Raw ADC Value: 1221
+Voltage: 0.984 V
+Raw ADC Value: 1221
+Voltage: 0.984 V
+Raw ADC Value: 1223
+Voltage: 0.986 V
+Raw ADC Value: 1223
+Voltage: 0.986 V
+Raw ADC Value: 1223
+Voltage: 0.986 V
+Raw ADC Value: 1224
+Voltage: 0.986 V
+Raw ADC Value: 1225
+Voltage: 0.987 V
+Raw ADC Value: 1220
+Voltage: 0.983 V
+Raw ADC Value: 1219
+Voltage: 0.982 V
+Raw ADC Value: 1226
+Voltage: 0.988 V
+Raw ADC Value: 1222
+Voltage: 0.985 V
+Raw ADC Value: 1219
+Voltage: 0.982 V
+Raw ADC Value: 1225
+Voltage: 0.987 V
+Raw ADC Value: 1222
+Voltage: 0.985 V
+Raw ADC Value: 1224
+Voltage: 0.986 V
+Raw ADC Value: 1220
+Voltage: 0.983 V
+Raw ADC Value: 1226
+Voltage: 0.988 V
+Raw ADC Value: 1219
+Voltage: 0.982 V
+Raw ADC Value: 1223
+Voltage: 0.986 V
+Raw ADC Value: 1226
+Voltage: 0.988 V
+Raw ADC Value: 1222
+Voltage: 0.985 V
+Raw ADC Value: 1223
+Voltage: 0.986 V
+Raw ADC Value: 1223
+Voltage: 0.986 V
+Raw ADC Value: 1225
+Voltage: 0.987 V
+Raw ADC Value: 1227
+Voltage: 0.989 V
+Raw ADC Value: 1222
+Voltage: 0.985 V
+Raw ADC Value: 1223
+Voltage: 0.986 V
+Raw ADC Value: 1223
+Voltage: 0.986 V
+Raw ADC Value: 1222
+Voltage: 0.985 V
+Raw ADC Value: 1224
+Voltage: 0.986 V
+Raw ADC Value: 1223
+Voltage: 0.986 V
