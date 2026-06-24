@@ -4,7 +4,9 @@ A compact single-layer PCB designed to integrate multiple gas sensors onto one b
 
 ## Project Overview
 
-This board consolidates four distinct gas sensors — hydrogen (H₂), carbon monoxide (CO), CO₂ & VOC, and methane (CH₄) — into a single PCB, interfacing through a combination of CAN bus, I²C, and analog ADC channels. The central controller is an **STM32 Nucleo-G431KB**, chosen for its native CAN peripheral, I²C support, and 12-bit ADC capability.
+This board consolidates four distinct gas sensors — hydrogen (H₂), carbon monoxide (CO), CO₂ & VOC, and methane (CH₄) — into a single PCB, interfacing through a combination of CAN-FD bus, I²C, and analog ADC channels. The central controller is an **STM32 Nucleo-G431KB**, chosen for its native FDCAN peripheral, I²C support, and 12-bit ADC capability.
+
+The project spans the full stack: **PCB design** (Autodesk Eagle), **embedded firmware** (STM32 / Arduino — concurrent CAN-FD, I²C, and ADC acquisition with byte-level protocol decoding), and a **Python data-acquisition pipeline** (serial parsing into Excel/CSV logs).
 
 ## Specifications
 
@@ -45,7 +47,7 @@ This board consolidates four distinct gas sensors — hydrogen (H₂), carbon mo
 
 - **T3650 (H₂) & SGX-BLD2 (CO):** Digital output via CAN bus through an external CAN transceiver to the Nucleo's CAN peripheral.
 - **MiCS-VZ-89TE (CO₂ & VOC):** Digital output via I²C directly to the Nucleo.
-- **MP7227 (CH₄):** Analog output → zeroed via potentiometer → amplified → routed to Nucleo ADC GPIO.
+- **MP7227 (CH₄):** Analog output → zeroed via potentiometer → amplified (ADA4528 precision op-amp stage with HF filtering) → routed to Nucleo ADC GPIO. Sensor rail supplied by an external **MIC5233** LDO.
 
 ## Design Highlights
 
@@ -56,20 +58,43 @@ This board consolidates four distinct gas sensors — hydrogen (H₂), carbon mo
 - **Differential pair integrity:** CAN differential pairs (CANH/CANL) are routed with controlled impedance and matched length.
 - **Mechanical:** Mounting holes are included for easy integration into enclosures or test fixtures.
 
+## Firmware & Software
+
+Beyond the hardware, the project includes the full embedded and host-side software stack to acquire, decode, and log data from all four sensors.
+
+### Embedded Firmware (STM32 / Arduino)
+
+- **Unified acquisition loop** servicing three interfaces concurrently — CAN-FD (`ACANFD_STM32`, 500 kbps), I²C (MiCS-VZ-89TE), and 12-bit ADC (MP7227 / CH₄).
+- **CAN-FD frame decoding** for two sensor protocols, distinguished by CAN ID (`0x256` SGX-BLD2, `0x18FF0CEB` Telaire T3650): byte-level multi-signal unpacking with correct endianness and per-signal scaling/offset (temperature, H₂ %, pressure, humidity, etc.).
+- **Fault-flag parsing:** bit-field decode of the SGX-BLD2 status byte into 8 individual diagnostics (over/under-voltage, sensor-replacement, out-of-range, …).
+
+### Host Data Acquisition (Python)
+
+- `sensor_read/data_log.py` — `pyserial` + `pandas` logger that parses the live serial stream and writes per-sensor sheets (Internal sensors, SGX-BLD2, Telaire T3650) into an Excel workbook with periodic autosave.
+- Per-sensor logging and real-time plotting utilities under `modules/` (e.g. CSV logging and live plots for the CO₂/VOC channel).
+
 ## Testing
 
-The board was validated using a bench power supply (12V input) with sensor data read via serial port on a PC terminal, confirming correct operation of all four sensor channels.
+The board was validated on an Agilent E3641A bench power supply at **12.00 V / 0.200 A**. Sensor data from all four channels was streamed over USB serial and captured by the Python logger, confirming correct CAN-FD, I²C, and ADC signal acquisition — real-time temperature, humidity, raw ADC values, and computed gas concentrations (ppm/ppb) from each module.
 
-## Hardware
+## Repository Structure
 
-- `/schematic.pdf` — Full schematic
-- `/pcb_layout.pdf` — PCB layout (top view)
+| Path | Contents |
+|---|---|
+| `schematic.pdf` / `pcb_layout.pdf` | Full schematic and PCB layout (top view) |
+| `PCB Design/` | Autodesk Eagle source (`.sch` / `.brd`) and JLCPCB Gerber/CAM output |
+| `sensor_read/` | Integrated firmware (all sensors) + Python data logger |
+| `modules/` | Per-sensor firmware & logging (CAN, CH₄/ADC, CO₂/I²C) |
+| `guides/` | Sensor and component datasheets |
 
-## Tools
+## Tools & Skills
 
 - **EDA:** Autodesk Eagle
 - **Fabrication:** JLCPCB
 - **Controller Platform:** STM32 Nucleo-G431KB (ARM Cortex-M4)
+- **Firmware:** Arduino / STM32, `ACANFD_STM32` (CAN-FD), I²C, 12-bit ADC
+- **Software:** Python (pyserial, pandas) for serial data acquisition & logging
+- **Skills demonstrated:** PCB design · multi-protocol embedded firmware (CAN-FD / I²C / ADC) · CAN frame decoding · sensor data logging & visualization
 
 ## License
 
