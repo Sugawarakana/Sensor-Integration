@@ -44,7 +44,7 @@ except ImportError:                     # --selftest does not need pyserial
     list_ports = None
  
 # ---------------------------------------------------------------- Configuration
-PORT = "COM4"               # Windows: COMx ; Linux/macOS: something like /dev/ttyACM0
+PORT = "COM3"               # Windows: COMx ; Linux/macOS: something like /dev/ttyACM0
 BAUD = 115200               # must match Serial.begin(115200) in the Arduino sketch
 CSV_PREFIX = "sensor_log"   # the filename gets the start time appended; each run creates a new file
 RECONNECT_DELAY = 2.0       # reconnect interval after a dropout (seconds)

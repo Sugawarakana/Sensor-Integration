@@ -48,11 +48,12 @@ The project spans the full stack: **PCB design** (Autodesk Eagle), **embedded fi
   ├──[Terminal Blocks]──► SGX-BLD2 (CO/H₂)        — 12V direct
   ├──[CAN Terminal]─────► Li-ion Tamer (off-gas)  — 12V direct
   │
-  ├──► Buck regulator ──► 3.3V ──► SEN66
+  ├──► Buck regulator ──► 3.3V ──► SEN66 (tentative)
   │
-  └──► Nucleo-G431KB (onboard regulator)
-            └──► 3.3V ──► MiCS-VZ-89TE (CO₂ & VOC)
-            └──► 3.3V ──► MIC5233 LDO ──► 3.0V ──► MP7227 (CH₄)
+  └──► Buck regulator ──► 5V ──► Nucleo-G431KB (onboard regulator)
+                                  └──► 3.3V ──► MiCS-VZ-89TE (CO₂ & VOC)
+                                  └──► 3.3V ──► MIC5233 LDO ──► 3.0V ──► MP7227 (CH₄)
+                                  <!-- └──► 3.3V ──► SEN66  -->
 ```
 
 ## Signal Chain
@@ -163,7 +164,7 @@ A dependency-light (`pyserial` only) logger that parses the live serial stream a
 pip install pyserial
 
 python serial_logger.py                 # use the PORT default in the file (COM4)
-python serial_logger.py COM5            # specify the port
+python serial_logger.py COM3            # specify the port
 python serial_logger.py /dev/ttyACM0
 python serial_logger.py --list-ports    # list available ports
 python serial_logger.py --auto          # auto-pick a port that looks like an STM32
