@@ -53,7 +53,7 @@ The project spans the full stack: **PCB design** (Autodesk Eagle), **embedded fi
   └──► Buck regulator ──► 5V ──► Nucleo-G431KB (onboard regulator)
                                   └──► 3.3V ──► MiCS-VZ-89TE (CO₂ & VOC)
                                   └──► 3.3V ──► MIC5233 LDO ──► 3.0V ──► MP7227 (CH₄)
-                                  <!-- └──► 3.3V ──► SEN66  -->
+                                  └──► 3.3V ──► SEN66 (tentative)
 ```
 
 ## Signal Chain
