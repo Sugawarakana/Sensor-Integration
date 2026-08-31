@@ -1,17 +1,17 @@
-# Multi-Gas Sensor Integration PCB — Battery Off-Gas Monitor
+# Integrated Sensor Board for Battery Off-Gas Monitoring
 
-A compact PCB and firmware stack that integrates multiple gas sensors and a battery off-gas detector onto one board, developed as part of a collaborative research project between the **University of Michigan** and **UL Research Institutes**. The board targets applications in **battery safety**, **robotics**, and **automotive** environments where real-time multi-gas monitoring in constrained spaces is critical.
+A compact PCB and firmware stack that integrates multiple gas sensors and a battery off-gas detector onto one board, developed as part of a collaborative research project between the **University of Michigan**, **Universitat Politecnica Valencia**, and **UL Research Institutes**. The board targets applications in **battery safety**, **robotics**, and **energy storage system** environments where real-time multi-gas monitoring in constrained spaces is critical.
 
 ## Project Overview
 
-The board consolidates hydrogen (H₂), carbon monoxide (CO), CO₂ & VOC, methane (CH₄), and a **Li-ion Tamer** electrolyte-vapor (off-gas) detector onto a single PCB, interfacing through **two independent CAN buses**, **I²C**, and an **analog ADC** channel. The controller is an **STM32 Nucleo-G431KB**, chosen for its native FDCAN peripheral, I²C support, and 12-bit ADC.
+The board consolidates multiple commerically-available gas sensors that detect hydrogen (H₂), carbon monoxide (CO), carbon dioxide (CO₂), volatile organic compounds (VOC), methane (CH₄), and electrolyte-vapor onto a single PCB, interfacing through **two independent CAN buses**, **I²C**, and an **analog ADC** channel. The controller is an **STM32 Nucleo-G431KB**, chosen for its native FDCAN peripheral, I²C support, and 12-bit ADC.
 
-Because the Nucleo-G431KB has only one CAN controller, the two buses run at different bit rates on different hardware:
+Since the Nucleo-G431KB has only one CAN controller, the two buses run at different bit rates on different hardware:
 
 - **FDCAN1 @ 500 kbps** — Telaire T3650 and SGX-BLD2, through an on-board CAN transceiver.
 - **MCP2515 @ 250 kbps** (SPI) — Li-ion Tamer, which requires its own 250 kbps segment.
 
-The project spans the full stack: **PCB design** (Autodesk Eagle), **embedded firmware** ([OffgasMonitor.ino](OffgasMonitor/OffgasMonitor.ino) — non-blocking dual-CAN, I²C and ADC acquisition with byte-level protocol decoding and on-chip health monitoring), and a **Python data-acquisition pipeline** ([serial_logger.py](OffgasMonitor/serial_logger.py) — serial parsing into a wide-table CSV).
+The project spans: **PCB design** (Autodesk Eagle), **embedded firmware** ([OffgasMonitor.ino](OffgasMonitor/OffgasMonitor.ino), with non-blocking dual-CAN, I²C and ADC acquisition with byte-level protocol decoding and on-chip health monitoring), and a **Python data-acquisition pipeline** ([serial_logger.py](OffgasMonitor/serial_logger.py), with serial parsing into a wide-table CSV).
 
 ## Specifications
 
@@ -37,7 +37,7 @@ The project spans the full stack: **PCB design** (Autodesk Eagle), **embedded fi
 | MP7227 | CH₄ (methane) | Analog → ADC (`A0`) | — | 3.0 V (MIC5233 LDO) |
 | SEN66 | PM / RH / T / VOC / NOx / CO₂ | I²C | — | 3.3 V (buck from 12 V) |
 
-> **Note:** the SEN66 is provisioned in the power and I²C architecture but is **not yet decoded** in [OffgasMonitor.ino](OffgasMonitor/OffgasMonitor.ino); the Sensirion driver below is listed for the planned integration.
+> **Note:** the SEN66 is provisioned in the power and I²C architecture but is not yet decoded in [OffgasMonitor.ino](OffgasMonitor/OffgasMonitor.ino); the Sensirion driver below is listed for the planned integration.
 
 ## Power Architecture
 
@@ -223,8 +223,8 @@ The board was validated on an Agilent E3641A bench power supply at **12.00 V / 0
 
 | Path | Contents |
 |---|---|
-| [OffgasMonitor/OffgasMonitor.ino](OffgasMonitor/OffgasMonitor.ino) | Current firmware — dual CAN + I²C + ADC + board health |
-| [OffgasMonitor/serial_logger.py](OffgasMonitor/serial_logger.py) | Current host logger — serial → wide-table CSV |
+| [OffgasMonitor/OffgasMonitor.ino](OffgasMonitor/OffgasMonitor.ino) | Current firmware: dual CAN + I²C + ADC + board health |
+| [OffgasMonitor/serial_logger.py](OffgasMonitor/serial_logger.py) | Current host logger: serial → wide-table CSV |
 | [schematic.pdf](schematic.pdf) / [pcb_layout.pdf](pcb_layout.pdf) | Full schematic and PCB layout (top view) |
 | [guides/](guides/) | Sensor and component datasheets (T3650, SGX-BLD2, MiCS-VZ-89TE, MP7227, MIC5233, Li-ion Tamer, Nucleo-G431KB) |
 | [Deprecated/PCB Design/](Deprecated/PCB%20Design/) | Autodesk Eagle sources (`.sch` / `.brd`) and JLCPCB Gerber/CAM output, by revision (3.11, 3.22, 5.1) |
