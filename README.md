@@ -11,7 +11,7 @@ Since the Nucleo-G431KB has only one CAN controller, the two buses run at differ
 - **FDCAN1 @ 500 kbps** — Telaire T3650 and SGX-BLD2, through an on-board CAN transceiver.
 - **MCP2515 @ 250 kbps** (SPI) — Li-ion Tamer, which requires its own 250 kbps segment.
 
-The project spans: **PCB design** (Autodesk Eagle), **embedded firmware** ([OffgasMonitor.ino](OffgasMonitor/OffgasMonitor.ino), with non-blocking dual-CAN, I²C and ADC acquisition with byte-level protocol decoding and on-chip health monitoring), and a **Python data-acquisition pipeline** ([serial_logger.py](OffgasMonitor/serial_logger.py), with serial parsing into a wide-table CSV).
+The project spans: **PCB design** (Autodesk Eagle), **embedded firmware** ([OffgasMonitor.ino](OffgasMonitor/OffgasMonitor.ino), with non-blocking dual-CAN, dual-sensor I²C and ADC acquisition, byte-level protocol decoding, and on-chip health monitoring), and a **Python data-acquisition pipeline** ([serial_logger.py](OffgasMonitor/serial_logger.py), with serial parsing into a wide-table CSV).
 
 ## Specifications
 
@@ -21,7 +21,7 @@ The project spans: **PCB design** (Autodesk Eagle), **embedded firmware** ([Offg
 | **Layers** | 1-layer PCB |
 | **Board Thickness** | 1.6 mm (JLCPCB default) |
 | **Power Supply** | 12 V battery input via terminal blocks |
-| **Communication** | FDCAN1 (500 kbps), MCP2515 CAN (250 kbps) over SPI, I²C, analog ADC |
+| **Communication** | FDCAN1 (500 kbps), MCP2515 CAN (250 kbps) over SPI, I²C (100 kHz), analog ADC |
 | **Log Rate** | 1 Hz (`LOG_INTERVAL = 1000 ms`) |
 | **Serial** | 115200 baud |
 | **Fabrication** | JLCPCB |
@@ -35,9 +35,9 @@ The project spans: **PCB design** (Autodesk Eagle), **embedded firmware** ([Offg
 | Li-ion Tamer | Electrolyte-vapor off-gas, state, temperature | CAN @ 250 kbps via MCP2515 (SPI) | PGN `0xFF01` (J1939, ext.) | 12 V direct |
 | MiCS-VZ-89TE | CO₂-equivalent & VOC | I²C | — | 3.3 V (Nucleo output) |
 | MP7227 | CH₄ (methane) | Analog → ADC (`A0`) | — | 3.0 V (MIC5233 LDO) |
-| SEN66 | PM / RH / T / VOC / NOx / CO₂ | I²C | — | 3.3 V (buck from 12 V) |
+| SEN66 | PM1.0/2.5/4.0/10, RH, T, VOC & NOx index, NDIR CO₂ | I²C @ 100 kHz | `0x6B` | 3.3 V (buck from 12 V) |
 
-> **Note:** the SEN66 is provisioned in the power and I²C architecture but is not yet decoded in [OffgasMonitor.ino](OffgasMonitor/OffgasMonitor.ino); the Sensirion driver below is listed for the planned integration.
+> **Note:** the MiCS-VZ-89TE CO₂ figure is a CO₂-*equivalent* derived from its VOC channel, not a real CO₂ measurement. The SEN66 carries the true NDIR CO₂ reading; both are logged side by side (`co2_ppm` vs `sen66_co2_ppm`).
 
 ## Power Architecture
 
@@ -48,21 +48,24 @@ The project spans: **PCB design** (Autodesk Eagle), **embedded firmware** ([Offg
   ├──[Terminal Blocks]──► SGX-BLD2 (CO/H₂)        — 12V direct
   ├──[CAN Terminal]─────► Li-ion Tamer (off-gas)  — 12V direct
   │
-  ├──► Buck regulator ──► 3.3V ──► SEN66 (tentative)
+  ├──► Buck regulator ──► 3.3V ──► SEN66 (PM/RH/T/VOC/NOx/CO₂)
   │
   └──► Buck regulator ──► 5V ──► Nucleo-G431KB (onboard regulator)
                                   └──► 3.3V ──► MiCS-VZ-89TE (CO₂ & VOC)
                                   └──► 3.3V ──► MIC5233 LDO ──► 3.0V ──► MP7227 (CH₄)
-                                  └──► 3.3V ──► SEN66 (tentative)
 ```
+
+The SEN66 runs from its own buck rail rather than the Nucleo's 3.3 V output: its fan and
+heater draw far more than the on-board regulator can supply. Only its I²C lines and ground
+are shared with the MCU.
 
 ## Signal Chain
 
 - **Telaire T3650 & SGX-BLD2:** CAN → on-board transceiver → **FDCAN1 @ 500 kbps** → MCU.
 - **Li-ion Tamer:** CAN @ **250 kbps** → **MCP2515** controller → **SPI1** → MCU.
 - **MiCS-VZ-89TE:** **I²C** directly to the MCU.
+- **SEN66:** **I²C** to the MCU, sharing the bus with the MiCS-VZ-89TE. The bus is clamped to **100 kHz** (`Wire.setClock(100000)`) — that is the SEN66's ceiling, and the MiCS is comfortable at that rate.
 - **MP7227 (CH₄):** analog output → zeroed via potentiometer → amplified (ADA4528 precision op-amp stage with HF filtering) → **ADC** (`A0`, 12-bit). Sensor rail from the **MIC5233** LDO.
-- **SEN66:** **I²C** to the MCU (planned).
 
 ### Li-ion Tamer → Power / CAN bus
 
@@ -99,22 +102,36 @@ The MCP2515 module runs from a **16 MHz** crystal (`QUARTZ_FREQUENCY`); the firm
 
 ## Firmware — `OffgasMonitor/OffgasMonitor.ino`
 
-A single non-blocking acquisition loop that services two CAN buses, I²C, and the ADC, then emits one human-readable report per second.
+A single non-blocking acquisition loop that services two CAN buses, two I²C sensors, and the ADC, then emits one human-readable report per second.
 
 ### Architecture
 
 - **Continuous CAN polling.** `pollAllCan()` drains both receive FIFOs completely on every loop iteration, so neither bus backs up while the report is being printed. It is called again immediately after `logData()` to catch frames that arrived during printing.
-- **Latest-frame slots.** Each device gets a `Latest<T>` slot holding the most recent frame of the current cycle plus a `valid` flag. The flag is cleared after every report, so **a device that stays silent for a second leaves its section out of the output entirely** — silence is preserved as a diagnostic rather than being masked by stale data.
+- **Non-blocking SEN66 startup.** `setup()` only issues the `deviceReset()`; the 1.2 s settling time, the `startContinuousMeasurement()` call, and the 1.1 s first-frame delay are stepped through by a `SEN66_RESET → SEN66_WAIT → SEN66_RUN` state machine inside `pollSen66()`, so no `delay()` ever stalls the CAN buses. A failed start is simply retried on the next 1.2 s tick.
+- **Drift-free I²C sampling.** In `SEN66_RUN` the read deadline advances by a fixed `SEN66_PERIOD_MS` rather than reloading from `millis()`, so the sampling instant does not creep with the ~100 ms `logData()` spends on serial output; it resyncs only if it falls more than a full period behind. One read is ~2–3 ms of bus traffic at 100 kHz — short enough for the 32-slot FDCAN FIFO and the interrupt-driven MCP2515 buffer to absorb whatever arrives meanwhile.
+- **Latest-frame slots.** Each CAN device gets a `Latest<T>` slot holding the most recent frame of the current cycle plus a `valid` flag. The flag is cleared after every report, so **a device that stays silent for a second leaves its section out of the output entirely** — silence is preserved as a diagnostic rather than being masked by stale data.
+- **Age-based staleness for the SEN66.** The SEN66 deliberately does *not* use a `Latest<>` slot. It produces exactly one frame per second — the same rate as the log cycle — so a clear-every-cycle flag would make its block blink in and out as the two 1 Hz clocks drift past each other. Instead the last sample is kept with its `millis()` timestamp and reported with a `STALE` status once it ages past `SEN66_STALE_MS` (2.5 s), which points at I²C or power rather than at normal jitter.
 - **CAN polling during ADC averaging.** `readAvgPolled()` averages 16 ADC samples to suppress noise; the ~200 µs settling gap between samples is spent polling CAN instead of idling. Averaging 16 samples across 2 channels takes ≈ 6.4 ms, which is too long to leave the buses unattended.
 - **Rollover-safe scheduling.** The 1 Hz cadence uses a signed `millis()` comparison against `g_nextLog`, so it survives the 49-day `millis()` rollover, and the deadline advances by a fixed `LOG_INTERVAL` rather than from "now" to avoid drift.
-- **Boot markers.** Setup prints tagged progress lines `A: boot` → `F: setup done`, giving both a human and the Python logger an unambiguous reboot marker.
+- **Boot markers.** Setup prints tagged progress lines `A: boot` → `G: setup done` (`A` serial, `B` FDCAN1, `C` MCP2515, `D` I²C/ADC, `E` SEN66 reset + serial number, `F` die-temp calibration constants, `G` done), giving both a human and the Python logger an unambiguous reboot marker.
 
 ### Decoding
 
 - **SGX-BLD2 (`0x256`)** — temperature (offset −55 °C), H₂ % (16-bit, ×0.01), an 8-bit status byte decoded bit-by-bit into named faults, supply voltage, humidity, roll counter, and CO level.
 - **Telaire T3650 (`0x18FF0CEB`)** — pressure (16-bit LE, ×0.0078125 − 250 kPa), humidity (×0.4 %), H₂ concentration (×0.0025 %), temperature (×0.03125 − 273 °C), and a raw status byte.
 - **Li-ion Tamer (PGN `0xFF01`)** — J1939 source address from the low ID byte, state (`Illegal / Error / Warmup / Normal / Alarm`), signed temperature, and a signed 16-bit off-gas scalar (÷100). The report is annotated `<<< ALARM` in the Alarm state, or flagged when the scalar reaches the alarm trigger level of 1.0.
+- **SEN66 (I²C `0x6B`)** — PM1.0 / PM2.5 / PM4.0 / PM10 (µg/m³), relative humidity, temperature, VOC index, NOx index, and NDIR CO₂, read through the Sensirion float API.
 - **Unknown frames** on either bus are captured and printed with bus name, ID, and raw data bytes, so an unexpected node on the wire is visible instead of silently dropped.
+
+### SEN66 "unknown value" handling
+
+The Sensirion float API divides each raw 16-bit word by its scale factor, so an unavailable channel surfaces as a plausible-looking number rather than `NaN`: `0xFFFF / 10 = 6553.5` for PM, `0x7FFF / 100 = 327.67` for RH/T, `0x7FFF / 10 = 3276.7` for the gas indices, and `0xFFFF` for CO₂. `printSen66Value()` compares against those sentinels and prints **`n/a`**, so a dead channel can never be mistaken for a real 6553.5 µg/m³ or 3276.7 index reading. Two status lines qualify the block further:
+
+| Line | Meaning |
+|---|---|
+| `SEN66: no valid frame yet (starting up / running)` | Printed instead of the whole block; no frame has ever been read |
+| `SEN66 Status:  gas index warming up` | VOC or NOx index still reads a hard 0 — VOC settles toward 100 over tens of seconds, NOx toward 1 after ~10–15 s |
+| `SEN66 Status:  STALE, frame age <n> ms` | The cached frame is older than 2.5 s — check I²C wiring and the 3.3 V buck rail |
 
 ### Board health monitoring
 
@@ -145,6 +162,18 @@ Board Status:       OK
 CO2 equ(ppm): 412 ppm
 VOC(isobutylene) equ: 87 ppb
 =============================
+Message received from SEN66:
+PM1.0:              0.0 ug/m3
+PM2.5:              0.0 ug/m3
+PM4.0:              0.0 ug/m3
+PM10:               0.0 ug/m3
+Humidity:           54.5 %
+Temperature:        25.38 C
+VOC Index:          0.0
+NOx Index:          0.0
+CO2:                431 ppm
+SEN66 Status:       gas index warming up
+=============================
 Message received from SGX-BLD2:
 ...
 =============================
@@ -163,7 +192,7 @@ A dependency-light (`pyserial` only) logger that parses the live serial stream a
 ```bash
 pip install pyserial
 
-python serial_logger.py                 # use the PORT default in the file (COM4)
+python serial_logger.py                 # use the PORT default in the file (COM3)
 python serial_logger.py COM3            # specify the port
 python serial_logger.py /dev/ttyACM0
 python serial_logger.py --list-ports    # list available ports
@@ -184,11 +213,13 @@ python serial_logger.py --selftest      # no hardware needed; verify parsing on 
 
 ### Behavior
 
-- **Section state machine.** The firmware reuses labels across sections (`Voltage:` appears under both ADC and SGX; `Temperature:` / `Humidity:` under both SGX and Telaire), so the parser disambiguates by *which section it is currently in*; a separator line clears the section and prevents bleed-over.
+- **Section state machine.** The firmware reuses labels across sections (`Voltage:` appears under both ADC and SGX; `Temperature:` / `Humidity:` under SGX, Telaire *and* SEN66), so the parser disambiguates by *which section it is currently in*; a separator line clears the section and prevents bleed-over. Two label collisions are handled explicitly: `VOC(` anchors the MiCS reading so the SEN66's `VOC Index:` cannot overwrite it, and the colon in `SEN66:` distinguishes the no-frame one-liner from the in-block `SEN66 Status:` line.
+- **Numbers are read after the last colon.** `num()` only searches the tail of a line, so digits inside a label — the 2 in `CO2`/`H2`, the 1.0 in `PM1.0` — are never mistaken for the reading. A channel printed `n/a` contains no digits and therefore lands as an empty cell.
 - **Empty means silent.** ADC, board health, and I²C columns are populated every round. If one of the CAN devices sent nothing that second, its columns are left **empty on purpose** — that emptiness is the record that the device was offline, so it must not be forward-filled in post-processing. The `can_device` column lists which devices were heard from that round.
+- **Empty SEN66 columns mean something else.** Because the SEN66 is on I²C, its block is present every round once running, so blank value columns are a fault rather than a silent bus. `sen66_status` says which: `NO_FRAME` (not started yet), `WARMUP` (gas-index algorithm not converged), or `STALE` with `sen66_age_ms` giving the age of the cached frame. Statuses accumulate semicolon-separated, since the firmware can print more than one in a round.
 - **Fault flags reassembled.** Individual SGX flag lines are collected into a semicolon-separated `sgx_flags` list *and* re-packed into `sgx_flags_hex` for easy comparison.
 - **Crash-safe.** Every row is flushed to disk immediately, a Ctrl+C or serial dropout still writes the in-progress round, the port is reconnected automatically after a dropout, and board reboots (`A: boot`) are counted and reported at exit.
-- **Self-test.** `--selftest` runs the parser against embedded sample output covering the normal case, an overheat + fault-flag + Tamer-alarm case, unknown frames on both buses, and a truncated final round — then writes `selftest_output.csv`.
+- **Self-test.** `--selftest` runs the parser against embedded sample output covering the normal case, an overheat + fault-flag + Tamer-alarm case, a stale SEN66 frame with an `n/a` CO₂ channel, unknown frames on both buses, and a truncated final round holding only the SEN66 no-frame one-liner — then writes `selftest_output.csv`. It needs no hardware and not even `pyserial`.
 
 ### CSV columns
 
@@ -198,6 +229,7 @@ python serial_logger.py --selftest      # no hardware needed; verify parsing on 
 | ADC (A0 / CH₄) | `raw_adc`, `voltage_adc` |
 | Board health | `die_temp_c`, `die_temp_max_c`, `vdda_mv`, `vdda_min_mv`, `adc_raw_ts`, `adc_raw_vref`, `board_status` |
 | MiCS-VZ-89TE | `co2_ppm`, `voc_ppb` |
+| SEN66 | `sen66_pm1`, `sen66_pm25`, `sen66_pm4`, `sen66_pm10`, `sen66_rh_pct`, `sen66_temp_c`, `sen66_voc_index`, `sen66_nox_index`, `sen66_co2_ppm`, `sen66_status`, `sen66_age_ms` |
 | Devices heard | `can_device` |
 | SGX-BLD2 | `sgx_temp_c`, `sgx_h2_pct`, `sgx_voltage_v`, `sgx_humidity_pct`, `sgx_roll_counter`, `sgx_level_co`, `sgx_flags`, `sgx_flags_hex` |
 | Telaire T3650 | `tel_pressure_kpa`, `tel_humidity_pct`, `tel_h2_conc_pct`, `tel_temp_c`, `tel_status` |
@@ -211,19 +243,23 @@ python serial_logger.py --selftest      # no hardware needed; verify parsing on 
 | `ACANFD_STM32` — Pierre Molinaro | 1.1.2-rc1 | FDCAN1 @ 500 kbps (T3650, SGX-BLD2) | https://github.com/pierremolinaro/acanfd-stm32 |
 | `ACAN2515` — Pierre Molinaro | 2.1.5 | MCP2515 CAN @ 250 kbps (Li-ion Tamer) | https://github.com/pierremolinaro/acan2515 |
 | `MICS-VZ-89TE` — Herve Grabas | — | CO₂-equivalent & VOC over I²C | https://github.com/HGrabas/MICS-VZ-89TE |
-| `arduino-i2c-sen66` — Sensirion (LeonieFierz) | — | SEN66 over I²C (planned) | https://github.com/Sensirion/arduino-i2c-sen66 |
+| `arduino-i2c-sen66` — Sensirion (LeonieFierz) | — | SEN66 PM / RH / T / VOC / NOx / CO₂ over I²C | https://github.com/Sensirion/arduino-i2c-sen66 |
 
 Board support: **STM32duino** (STM32 MCU based boards), target *Nucleo-32 / Nucleo G431KB*.
 
+> **Build note:** the Sensirion driver and the STM32 core both define `NO_ERROR` with different values, so the sketch `#undef`s it and pins it to the Sensirion meaning (`0`) before any error check. If your `arduino-i2c-sen66` version declares `getSerialNumber(char *, uint16_t)`, drop the `(int8_t *)` cast in `setupSen66()`.
+
 ## Testing
 
-The board was validated on an Agilent E3641A bench power supply at **12.00 V / 0.200 A**. Sensor data from all channels was streamed over USB serial and captured by the Python logger, confirming correct FDCAN, MCP2515 CAN, I²C, and ADC acquisition — real-time temperature, humidity, raw ADC values, off-gas state, and computed gas concentrations (ppm/ppb) from each module. The logger's `--selftest` mode covers the parsing path without hardware.
+The board was validated on an Agilent E3641A bench power supply at **12.00 V / 0.200 A**. Sensor data from all channels was streamed over USB serial and captured by the Python logger, confirming correct FDCAN, MCP2515 CAN, I²C, and ADC acquisition — real-time temperature, humidity, raw ADC values, off-gas state, and computed gas concentrations (ppm/ppb) from each module. The SEN66 draws its own 3.3 V buck rail, so the supply current rises accordingly once its fan spins up; budget for that when sizing the bench supply.
+
+The logger's `--selftest` mode covers the whole parsing path without hardware — including the SEN66 warm-up, stale-frame, and `n/a`-channel cases — and exits non-zero on any field mismatch, so it doubles as a regression check after editing either the firmware's print strings or the parser.
 
 ## Repository Structure
 
 | Path | Contents |
 |---|---|
-| [OffgasMonitor/OffgasMonitor.ino](OffgasMonitor/OffgasMonitor.ino) | Current firmware: dual CAN + I²C + ADC + board health |
+| [OffgasMonitor/OffgasMonitor.ino](OffgasMonitor/OffgasMonitor.ino) | Current firmware: dual CAN + I²C (MiCS-VZ-89TE, SEN66) + ADC + board health |
 | [OffgasMonitor/serial_logger.py](OffgasMonitor/serial_logger.py) | Current host logger: serial → wide-table CSV |
 | [schematic.pdf](schematic.pdf) / [pcb_layout.pdf](pcb_layout.pdf) | Full schematic and PCB layout (top view) |
 | [guides/](guides/) | Sensor and component datasheets (T3650, SGX-BLD2, MiCS-VZ-89TE, MP7227, MIC5233, Li-ion Tamer, Nucleo-G431KB) |
@@ -238,7 +274,7 @@ Everything under [Deprecated/](Deprecated/) is kept for reference only; the acti
 - **EDA:** Autodesk Eagle
 - **Fabrication:** JLCPCB
 - **Controller Platform:** STM32 Nucleo-G431KB (ARM Cortex-M4)
-- **Firmware:** Arduino / STM32duino — `ACANFD_STM32` (FDCAN), `ACAN2515` (SPI CAN), I²C, 12-bit ADC, on-chip Tj/VDDA calibration
+- **Firmware:** Arduino / STM32duino — `ACANFD_STM32` (FDCAN), `ACAN2515` (SPI CAN), `arduino-i2c-sen66` and `MICS-VZ-89TE` on a shared I²C bus, 12-bit ADC, on-chip Tj/VDDA calibration
 - **Software:** Python (`pyserial`) for serial data acquisition & CSV logging
 - **Skills demonstrated:** PCB design · multi-protocol embedded firmware (dual CAN / I²C / ADC) · J1939 & proprietary CAN frame decoding · non-blocking real-time acquisition · sensor data logging & diagnostics
 
