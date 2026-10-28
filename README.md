@@ -1,3 +1,5 @@
+## Note: This project has been migrated into ULDSG
+
 # Integrated Sensor Board for Battery Off-Gas Monitoring
 
 A compact PCB and firmware stack that integrates multiple gas sensors and a battery off-gas detector onto one board, developed as part of a collaborative research project between the **University of Michigan**, **Universitat Politecnica Valencia**, and **UL Research Institutes**. The board targets applications in **battery safety**, **robotics**, and **energy storage system** environments where real-time multi-gas monitoring in constrained spaces is critical.
